@@ -1,0 +1,82 @@
+- id: nav_main
+  translation: "Navigation principale"
+- id: nav_mobile
+  translation: "Navigation mobile"
+- id: nav_footer
+  translation: "Navigation footer"
+- id: skip_to_content
+  translation: "Aller au contenu"
+- id: explore_blog
+  translation: "Explorez le blog"
+- id: our_categories
+  translation: "Nos categories"
+- id: latest_articles
+  translation: "Derniers articles"
+- id: read_more
+  translation: "Lire la suite"
+- id: articles_count_one
+  translation: "article"
+- id: articles_count_other
+  translation: "articles"
+- id: categories
+  translation: "Categories"
+- id: navigation
+  translation: "Navigation"
+- id: sitemap_link
+  translation: "Plan du site"
+- id: all_rights_reserved
+  translation: "Tous droits reserves"
+- id: error_404_title
+  translation: "Page introuvable"
+- id: error_404_description
+  translation: "La page que vous recherchez n'existe pas ou a ete deplacee."
+- id: error_404_home
+  translation: "Retour a l'accueil"
+- id: error_404_blog
+  translation: "Voir les articles"
+- id: reading_time_unit
+  translation: "min de lecture"
+- id: published_on
+  translation: "Publie le"
+- id: updated_on
+  translation: "Mis a jour le"
+- id: table_of_contents
+  translation: "Sommaire"
+- id: about_author
+  translation: "A propos de l'auteur"
+- id: expertise
+  translation: "Expertise"
+- id: related_articles
+  translation: "Articles similaires"
+- id: previous_article
+  translation: "Article precedent"
+- id: next_article
+  translation: "Article suivant"
+- id: faq_title
+  translation: "Questions frequentes"
+- id: breadcrumb_label
+  translation: "Fil d'Ariane"
+- id: breadcrumb_home
+  translation: "Accueil"
+- id: breadcrumb_blog
+  translation: "Blog"
+- id: nav_articles
+  translation: "Navigation articles"
+- id: explore_topics
+  translation: "Explorez nos thematiques"
+- id: featured_post
+  translation: "Article en vedette"
+- id: newsletter_title
+  translation: "Recevez nos avis par email"
+- id: newsletter_subtitle
+  translation: "Inscrivez-vous a notre newsletter pour recevoir nos derniers tests et comparatifs directement dans votre boite mail."
+- id: newsletter_placeholder
+  translation: "Votre adresse email"
+- id: newsletter_cta
+  translation: "S'inscrire"
+- id: newsletter_footnote
+  translation: "Desinscription en un clic. Zero spam."
+- id: by_author
+  translation: "par"
+- id: on_date
+  translation: "le"

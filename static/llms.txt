@@ -1,0 +1,26 @@
+# Avis Services
+
+> Avis et comparatifs de services en ligne : electromenager reconditionne, spa de luxe et bien plus.
+
+## A propos
+
+Avis Services est un media independant qui publie des tests, comparatifs et avis detailles sur des services et produits du quotidien. L'objectif est d'aider les consommateurs francais a faire des choix eclaires grace a des analyses factuelles et des retours d'experience concrets.
+
+## Contenu principal
+
+- Electromenager reconditionne : https://avis-services.fr/categories/electromenager-reconditionne/
+- Spa de luxe : https://avis-services.fr/categories/spa-de-luxe/
+
+## Articles recents
+
+- Back Market avis : notre test du leader du reconditionne : https://avis-services.fr/blog/back-market-avis/
+- Electromenager reconditionne : les meilleurs sites en 2026 : https://avis-services.fr/blog/meilleurs-sites-electromenager-reconditionne/
+- Clair Azur avis : le spa francais haut de gamme passe en revue : https://avis-services.fr/blog/clair-azur-avis/
+- Meilleurs spa de luxe 2026 : notre top 5 : https://avis-services.fr/blog/meilleurs-spa-de-luxe-2026/
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Sitemap : https://avis-services.fr/sitemap.xml
+- RSS : https://avis-services.fr/index.xml

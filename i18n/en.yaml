@@ -1,0 +1,82 @@
+- id: nav_main
+  translation: "Main navigation"
+- id: nav_mobile
+  translation: "Mobile navigation"
+- id: nav_footer
+  translation: "Footer navigation"
+- id: skip_to_content
+  translation: "Skip to content"
+- id: explore_blog
+  translation: "Explore the blog"
+- id: our_categories
+  translation: "Our categories"
+- id: latest_articles
+  translation: "Latest articles"
+- id: read_more
+  translation: "Read more"
+- id: articles_count_one
+  translation: "article"
+- id: articles_count_other
+  translation: "articles"
+- id: categories
+  translation: "Categories"
+- id: navigation
+  translation: "Navigation"
+- id: sitemap_link
+  translation: "Site map"
+- id: all_rights_reserved
+  translation: "All rights reserved"
+- id: error_404_title
+  translation: "Page not found"
+- id: error_404_description
+  translation: "The page you are looking for does not exist or has been moved."
+- id: error_404_home
+  translation: "Back to home"
+- id: error_404_blog
+  translation: "See articles"
+- id: reading_time_unit
+  translation: "min read"
+- id: published_on
+  translation: "Published on"
+- id: updated_on
+  translation: "Updated on"
+- id: table_of_contents
+  translation: "Contents"
+- id: about_author
+  translation: "About the author"
+- id: expertise
+  translation: "Expertise"
+- id: related_articles
+  translation: "Related articles"
+- id: previous_article
+  translation: "Previous article"
+- id: next_article
+  translation: "Next article"
+- id: faq_title
+  translation: "Frequently asked questions"
+- id: breadcrumb_label
+  translation: "Breadcrumb"
+- id: breadcrumb_home
+  translation: "Home"
+- id: breadcrumb_blog
+  translation: "Blog"
+- id: nav_articles
+  translation: "Articles navigation"
+- id: explore_topics
+  translation: "Explore our topics"
+- id: featured_post
+  translation: "Featured post"
+- id: newsletter_title
+  translation: "Get our reviews by email"
+- id: newsletter_subtitle
+  translation: "Subscribe to our newsletter to get our latest tests and comparisons straight to your inbox."
+- id: newsletter_placeholder
+  translation: "Your email address"
+- id: newsletter_cta
+  translation: "Subscribe"
+- id: newsletter_footnote
+  translation: "One-click unsubscribe. Zero spam."
+- id: by_author
+  translation: "by"
+- id: on_date
+  translation: "on"
