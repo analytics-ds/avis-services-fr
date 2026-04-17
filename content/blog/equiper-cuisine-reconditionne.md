@@ -28,6 +28,19 @@ readingTime: true
 > 3. 4 sites francais dominent le marche : Back Market, Recommerce, Envie et Largo.
 > 4. L'impact CO2 d'une cuisine equipee en reconditionne est divise par 2 par rapport au neuf.
 
+## Budget detaille pour une cuisine familiale (4 personnes)
+
+| Appareil | Neuf (moyen) | Reconditionne (moyen) | Economie |
+|---|---|---|---|
+| Refrigerateur combine 300L | 900 euros | 450 euros | 450 euros |
+| Lave-vaisselle encastrable | 650 euros | 350 euros | 300 euros |
+| Four multifonction | 700 euros | 380 euros | 320 euros |
+| Plaque induction 4 foyers | 500 euros | 280 euros | 220 euros |
+| Hotte decorative | 350 euros | 200 euros | 150 euros |
+| Micro-ondes | 180 euros | 100 euros | 80 euros |
+| Petit electromenager | 400 euros | 220 euros | 180 euros |
+| **Total** | **3 680 euros** | **1 980 euros** | **1 700 euros** |
+
 ## Le defi d'equiper sa cuisine en reconditionne
 
 Equiper une cuisine entiere en **electromenager reconditionne** represente en 2026 une alternative credible et economique. La demarche demande cependant une certaine preparation : il faut lister les appareils necessaires, comparer les offres sur plusieurs marketplaces et coordonner les livraisons.
@@ -63,20 +76,7 @@ Pour une cuisine pleinement fonctionnelle, ajoutez :
 
 ## Budget detaille
 
-### Tableau recapitulatif pour une cuisine familiale (4 personnes)
-
-| Appareil | Neuf (moyen) | Reconditionne (moyen) | Economie |
-|---|---|---|---|
-| Refrigerateur combine 300L | 900 euros | 450 euros | 450 euros |
-| Lave-vaisselle encastrable | 650 euros | 350 euros | 300 euros |
-| Four multifonction | 700 euros | 380 euros | 320 euros |
-| Plaque induction 4 foyers | 500 euros | 280 euros | 220 euros |
-| Hotte decorative | 350 euros | 200 euros | 150 euros |
-| Micro-ondes | 180 euros | 100 euros | 80 euros |
-| Petit electromenager | 400 euros | 220 euros | 180 euros |
-| **Total** | **3 680 euros** | **1 980 euros** | **1 700 euros** |
-
-L'economie totale atteint 46 pour cent dans ce scenario moyen. Pour une cuisine haut de gamme (marques premium, grande capacite), le gain absolu est encore plus important.
+Voir le tableau recapitulatif en debut d'article. L'economie totale atteint 46 pour cent dans ce scenario moyen. Pour une cuisine haut de gamme (marques premium, grande capacite), le gain absolu est encore plus important.
 
 ### Un argument ecologique fort
 

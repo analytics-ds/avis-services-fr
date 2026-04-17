@@ -28,6 +28,15 @@ readingTime: true
 > 3. A black soap scrub removes up to 90 per cent of accumulated impurities.
 > 4. 15 per cent of the population has medical contraindications to hammam.
 
+## Key hammam effects at a glance
+
+| Effect | Mechanism | Data |
+|---|---|---|
+| Vasodilation | Capillary opening | +30 per cent skin blood flow |
+| Lower blood pressure | Arterial relaxation | Average 10 to 15 mmHg drop |
+| Lymphatic drainage | Node stimulation | 2 to 3 times faster |
+| Muscle recovery | Increased oxygenation | Up to 40 per cent less soreness |
+
 ## The hammam, a thousand-year-old ritual
 
 The **hammam** originates in Roman baths and was perfected in the Arab-Muslim world over centuries. Today, the **benefits of hammam** are recognized by Western medicine for their effects on skin, circulation and muscle relaxation.
@@ -56,15 +65,6 @@ Moroccan black soap, made from black olives and olive oil, is applied all over t
 ## Circulatory and muscular benefits
 
 Vasodilation induced by heat improves blood and lymph circulation. **Muscles** benefit from increased blood supply, promoting relaxation and post-workout recovery.
-
-### Cardiovascular effects
-
-| Effect | Mechanism | Data |
-|---|---|---|
-| Vasodilation | Capillary opening | +30 per cent skin blood flow |
-| Lower blood pressure | Arterial relaxation | Average 10 to 15 mmHg drop |
-| Lymphatic drainage | Node stimulation | 2 to 3 times faster |
-| Muscle recovery | Increased oxygenation | Up to 40 per cent less soreness |
 
 ### A German reference study
 

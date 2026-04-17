@@ -80,3 +80,25 @@
   translation: "par"
 - id: on_date
   translation: "le"
+- id: about_site_title
+  translation: "Un media d'avis independants"
+- id: about_site_body
+  translation: "Avis Services publie des tests, comparatifs et guides approfondis pour vous aider a choisir les bons services du quotidien. Nos analyses sont factuelles, chiffrees et basees sur des retours d'experience concrets."
+- id: discover_category
+  translation: "Decouvrir"
+- id: search_placeholder
+  translation: "Rechercher un avis, une thematique, une marque..."
+- id: search_placeholder_short
+  translation: "Rechercher..."
+- id: search_button
+  translation: "Rechercher"
+- id: search_no_results
+  translation: "Aucun resultat."
+- id: search_results_count
+  translation: "resultats"
+- id: popular_topics
+  translation: "Thematiques populaires"
+- id: all_articles
+  translation: "Tous les articles"
+- id: view_all
+  translation: "Voir tout"

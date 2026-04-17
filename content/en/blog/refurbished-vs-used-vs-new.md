@@ -28,6 +28,17 @@ readingTime: true
 > 3. New still makes sense for latest models, intensive use and large families.
 > 4. The French refurbished market already tops 1 billion euros in 2025 according to ADEME.
 
+## Quick comparison of new, refurbished and used
+
+| Criterion | New | Refurbished | Used |
+|---|---|---|---|
+| Average price | 100 per cent | 50 to 80 per cent | 20 to 40 per cent |
+| Warranty | 24 months minimum | 12 to 24 months | None |
+| After-sales service | Yes | Yes | No |
+| Delivery included | Often | Often | Rarely |
+| Estimated lifespan | 10 to 15 years | 7 to 12 years | 3 to 8 years |
+| Environmental impact | High | Low | None |
+
 ## Appliances: three buying options in 2026
 
 Choosing a **refurbished appliance** over new or used is attracting more and more consumers. Rising energy and appliance prices, combined with growing ecological awareness, push buyers toward more economical and sustainable alternatives.
@@ -88,17 +99,6 @@ Buying used between individuals (eBay, Craigslist, Facebook groups) delivers the
 Used remains relevant for small, low-cost appliances (microwaves, toasters) or buyers able to assess condition themselves.
 
 ## Detailed comparison of the three options
-
-### Summary table
-
-| Criterion | New | Refurbished | Used |
-|---|---|---|---|
-| Average price | 100 per cent | 50 to 80 per cent | 20 to 40 per cent |
-| Warranty | 24 months minimum | 12 to 24 months | None |
-| After-sales service | Yes | Yes | No |
-| Delivery included | Often | Often | Rarely |
-| Estimated lifespan | 10 to 15 years | 7 to 12 years | 3 to 8 years |
-| Environmental impact | High | Low | None |
 
 ### The ecological criterion
 

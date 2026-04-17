@@ -28,6 +28,15 @@ readingTime: true
 > 3. Un gommage au savon noir retire jusqu'a 90 pour cent des impuretes accumulees.
 > 4. 15 pour cent de la population presente des contre-indications medicales au hammam.
 
+## Les effets cles du hammam en un coup d'oeil
+
+| Effet | Mecanisme | Donnee |
+|---|---|---|
+| Vasodilatation | Ouverture des capillaires | +30 pour cent de debit sanguin cutane |
+| Baisse de tension | Relaxation arterielle | Diminution moyenne 10 a 15 mmHg |
+| Drainage lymphatique | Stimulation des ganglions | Acceleration de 2 a 3 fois |
+| Recuperation musculaire | Oxygenation accrue | Reduction des courbatures jusqu'a 40 pour cent |
+
 ## Le hammam, un rituel millenaire
 
 Le **hammam** trouve ses origines dans les bains romains et a ete perfectionne dans le monde arabo-musulman au cours des siecles. Aujourd'hui, les **bienfaits du hammam** sont reconnus par la medecine occidentale pour leurs effets sur la peau, la circulation et la detente musculaire.
@@ -56,15 +65,6 @@ Le savon noir marocain, a base d'olives noires et d'huile d'olive, est applique 
 ## Les bienfaits circulatoires et musculaires
 
 La vasodilatation induite par la chaleur ameliore la circulation sanguine et lymphatique. **Les muscles** beneficient d'un apport sanguin accru, favorisant la detente et la recuperation apres l'effort.
-
-### Effets cardiovasculaires
-
-| Effet | Mecanisme | Donnee |
-|---|---|---|
-| Vasodilatation | Ouverture des capillaires | +30 pour cent de debit sanguin cutane |
-| Baisse de tension | Relaxation arterielle | Diminution moyenne 10 a 15 mmHg |
-| Drainage lymphatique | Stimulation des ganglions | Acceleration de 2 a 3 fois |
-| Recuperation musculaire | Oxygenation accrue | Reduction des courbatures jusqu'a 40 pour cent |
 
 ### Une etude allemande de reference
 

@@ -80,3 +80,25 @@
   translation: "by"
 - id: on_date
   translation: "on"
+- id: about_site_title
+  translation: "An independent reviews media"
+- id: about_site_body
+  translation: "Avis Services publishes tests, comparisons and in-depth guides to help you choose the right everyday services. Our analyses are factual, numbers-backed and based on real feedback."
+- id: discover_category
+  translation: "Discover"
+- id: search_placeholder
+  translation: "Search a review, topic, brand..."
+- id: search_placeholder_short
+  translation: "Search..."
+- id: search_button
+  translation: "Search"
+- id: search_no_results
+  translation: "No results."
+- id: search_results_count
+  translation: "results"
+- id: popular_topics
+  translation: "Popular topics"
+- id: all_articles
+  translation: "All articles"
+- id: view_all
+  translation: "View all"

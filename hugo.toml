@@ -35,15 +35,15 @@ enableEmoji = false
   url = "/"
   weight = 1
 [[languages.fr.menus.main]]
-  name = "Electromenager reconditionne"
+  name = "Electromenager"
   url = "/categories/electromenager-reconditionne/"
   weight = 2
 [[languages.fr.menus.main]]
-  name = "Spa de luxe"
+  name = "Bien-etre"
   url = "/categories/spa-de-luxe/"
   weight = 3
 [[languages.fr.menus.main]]
-  name = "Services aux seniors"
+  name = "Seniors"
   url = "/categories/services-aux-seniors/"
   weight = 4
 [[languages.fr.menus.main]]
@@ -57,15 +57,15 @@ enableEmoji = false
   url = "/en/"
   weight = 1
 [[languages.en.menus.main]]
-  name = "Refurbished appliances"
+  name = "Appliances"
   url = "/en/categories/refurbished-appliances/"
   weight = 2
 [[languages.en.menus.main]]
-  name = "Luxury spas"
+  name = "Wellness"
   url = "/en/categories/luxury-spas/"
   weight = 3
 [[languages.en.menus.main]]
-  name = "Senior services"
+  name = "Seniors"
   url = "/en/categories/senior-services/"
   weight = 4
 [[languages.en.menus.main]]
@@ -103,5 +103,12 @@ enableEmoji = false
   expertise = ["Electromenager reconditionne", "Spa de luxe", "Services aux seniors", "Avis de services en ligne"]
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search-index"
+    isPlainText = true
+    notAlternative = true

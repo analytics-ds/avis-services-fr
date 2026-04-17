@@ -28,6 +28,17 @@ readingTime: true
 > 3. Le massage ameliore la qualite du sommeil des la premiere seance chez 70 pour cent des pratiquants.
 > 4. L'huile vegetale chauffee a 35 degres est essentielle a la signature de ce modelage.
 
+## Deroulement d'une seance type (90 minutes)
+
+| Zone | Duree | Objectif |
+|---|---|---|
+| Dos et nuque | 25 minutes | Detente des trapezes et du rachis |
+| Jambes posterieures | 15 minutes | Drainage et detente musculaire |
+| Jambes anterieures | 15 minutes | Allegement des tensions |
+| Abdomen | 10 minutes | Detente digestive et emotionnelle |
+| Bras et mains | 10 minutes | Liberation des tensions quotidiennes |
+| Visage et cuir chevelu | 15 minutes | Relaxation profonde finale |
+
 ## Le modelage californien, massage signature des spa haut de gamme
 
 Le **modelage californien** est ne en Californie dans les annees 1970, dans le sillage du mouvement holistique de l'institut Esalen. Ce massage enveloppant et doux est devenu une reference dans les spa de luxe mondiaux pour sa capacite a induire une relaxation profonde, aussi bien physique que mentale.
@@ -56,16 +67,7 @@ L'huile est chauffee a environ 35 degres, legerement au-dessus de la temperature
 
 ### Une technique codifiee
 
-La duree standard d'un modelage californien est de **90 minutes**, avec une repartition precise entre les zones corporelles :
-
-| Zone | Duree | Objectif |
-|---|---|---|
-| Dos et nuque | 25 minutes | Detente des trapezes et du rachis |
-| Jambes posterieures | 15 minutes | Drainage et detente musculaire |
-| Jambes anterieures | 15 minutes | Allegement des tensions |
-| Abdomen | 10 minutes | Detente digestive et emotionnelle |
-| Bras et mains | 10 minutes | Liberation des tensions quotidiennes |
-| Visage et cuir chevelu | 15 minutes | Relaxation profonde finale |
+La duree standard d'un modelage californien est de **90 minutes**, avec une repartition precise entre les zones corporelles (voir le tableau en debut d'article).
 
 ## Les bienfaits documentes
 

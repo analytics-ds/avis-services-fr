@@ -28,6 +28,16 @@ readingTime: true
 > 3. The 50 per cent tax credit halves the remaining cost after aid.
 > 4. 1.5 million elderly people receive home care in France according to DREES.
 
+## 2026 home care price grid
+
+| Service | Provider mode | Mandate mode | Direct mode |
+|---|---|---|---|
+| Housekeeping | 26 to 30 euros/h | 20 to 24 euros/h | 14 to 17 euros/h |
+| Meal assistance | 26 to 32 euros/h | 22 to 26 euros/h | 15 to 18 euros/h |
+| Bathing (assistant) | 28 to 35 euros/h | 24 to 28 euros/h | 18 to 22 euros/h |
+| Night presence | 130 to 180 euros/night | 100 to 140 euros/night | 70 to 100 euros/night |
+| Meal delivery | 8 to 14 euros/meal | Not applicable | Not applicable |
+
 ## The senior home care market in 2026
 
 In France, over 1.5 million elderly people receive home care according to DREES (2024). Population aging and the growing choice of staying at home rather than moving to a nursing home support strong demand for **senior home care services**.
@@ -75,15 +85,7 @@ Three modes exist, with different administrative implications:
 
 ### Indicative price grid
 
-| Service | Provider mode | Mandate mode | Direct mode |
-|---|---|---|---|
-| Housekeeping | 26 to 30 euros/h | 20 to 24 euros/h | 14 to 17 euros/h |
-| Meal assistance | 26 to 32 euros/h | 22 to 26 euros/h | 15 to 18 euros/h |
-| Bathing (assistant) | 28 to 35 euros/h | 24 to 28 euros/h | 18 to 22 euros/h |
-| Night presence | 130 to 180 euros/night | 100 to 140 euros/night | 70 to 100 euros/night |
-| Meal delivery | 8 to 14 euros/meal | Not applicable | Not applicable |
-
-Provider mode rates include social charges. In direct mode, add about 40 per cent employer charges to the hourly rate.
+See the price table at the start of the article. Provider mode rates include social charges. In direct mode, add about 40 per cent employer charges to the hourly rate.
 
 ### Weekend and holiday surcharge
 

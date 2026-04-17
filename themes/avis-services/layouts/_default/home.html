@@ -1,23 +1,49 @@
 {{ define "main" }}
 
-<!-- Hero minimaliste -->
-<section class="hero">
-    {{ with .Params.heroBadge }}<span class="hero-badge">{{ . }}</span>{{ end }}
-    <h1>{{ .Params.heroTitlePre | default "Des avis" }} <span class="accent">{{ .Params.heroAccent | default "fiables" }}</span> {{ .Params.heroTitlePost | default "sur les services qui comptent" }}</h1>
-    {{ with .Params.heroDescription }}<p class="hero-description">{{ . }}</p>{{ end }}
+{{ $currentLang := .Page.Lang }}
+{{ $searchIndexURL := "/search-index.json" | relLangURL }}
+
+<!-- Hero avec grosse search bar (Trustpilot-like) -->
+<section class="hero-search">
+    <div class="container">
+        <h1>{{ .Params.heroTitlePre | default "Des avis" }} <span class="accent">{{ .Params.heroAccent | default "fiables" }}</span> {{ .Params.heroTitlePost | default "sur les services qui comptent" }}</h1>
+        {{ with .Params.heroDescription }}<p class="hero-description">{{ . }}</p>{{ end }}
+
+        <form class="search-form-hero" role="search" onsubmit="event.preventDefault();">
+            <label for="search-input-hero" class="sr-only">{{ i18n "search_placeholder" }}</label>
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="search" id="search-input-hero" class="search-input-hero" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off" data-search-input>
+            <button type="submit" class="search-button-hero">{{ i18n "search_button" }}</button>
+        </form>
+
+        <div class="search-results-panel" data-search-results hidden>
+            <ul class="search-results-list" data-search-list></ul>
+            <p class="search-no-results" data-search-empty hidden>{{ i18n "search_no_results" }}</p>
+        </div>
+    </div>
 </section>
 
-<!-- Chips categories -->
-<section class="categories-section">
+<!-- Categories cards (Trustpilot style) -->
+<section class="categories-big-section">
     <div class="container">
-        <span class="section-eyebrow">{{ i18n "explore_topics" }}</span>
-        <div class="category-chips">
+        <div class="section-header">
+            <h2 class="section-title">{{ i18n "popular_topics" }}</h2>
+        </div>
+        <div class="categories-big-grid">
             {{ range .Site.Taxonomies.categories }}
             {{ $catPage := .Page }}
-            <a href="{{ $catPage.RelPermalink }}" class="chip" style="{{ with $catPage.Params.color }}border-color: {{ . }}33;{{ end }}">
-                {{ with $catPage.Params.icon }}<span class="chip-icon" aria-hidden="true">{{ . }}</span>{{ else }}<span class="chip-dot" style="background-color: {{ $catPage.Params.color | default "#1E40AF" }};"></span>{{ end }}
-                {{ $catPage.Title }}
+            {{ if eq $catPage.Lang $currentLang }}
+            {{ $color := $catPage.Params.color | default "#1E40AF" }}
+            <a href="{{ $catPage.RelPermalink }}" class="category-big-card" style="background: linear-gradient(135deg, {{ $color }}08, {{ $color }}18); border-color: {{ $color }}33;">
+                <div class="category-big-icon" style="background-color: {{ $color }}; color: #fff;">
+                    <span aria-hidden="true">{{ $catPage.Params.icon | default "•" }}</span>
+                </div>
+                <h3>{{ $catPage.Title }}</h3>
+                <p>{{ $catPage.Description }}</p>
+                <span class="category-big-cta" style="color: {{ $color }};">{{ i18n "discover_category" }} →</span>
+                <span class="category-big-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}{{ i18n "articles_count_other" }}{{ else }}{{ i18n "articles_count_one" }}{{ end }}</span>
             </a>
+            {{ end }}
             {{ end }}
         </div>
     </div>
@@ -28,7 +54,10 @@
     <div class="container">
         <div class="home-layout">
             <div class="home-main">
-                <h2 class="section-title">{{ i18n "latest_articles" }}</h2>
+                <div class="section-header section-header-with-cta">
+                    <h2 class="section-title">{{ i18n "latest_articles" }}</h2>
+                    <a href="{{ "blog/" | relLangURL }}" class="section-view-all">{{ i18n "view_all" }} →</a>
+                </div>
                 <div class="grid-articles">
                     {{ $allBlog := where .Site.RegularPages "Section" "blog" }}
                     {{ range first 6 (after 1 $allBlog.ByDate.Reverse) }}
@@ -36,7 +65,7 @@
                     {{ $catColor := "#1E40AF" }}
                     {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
                     {{ range $.Site.Taxonomies.categories }}
-                        {{ if eq .Page.Title $cat }}{{ $catColor = .Page.Params.color | default "#1E40AF" }}{{ end }}
+                        {{ if and (eq .Page.Title $cat) (eq .Page.Lang $currentLang) }}{{ $catColor = .Page.Params.color | default "#1E40AF" }}{{ end }}
                     {{ end }}
                     <article class="article-card">
                         <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
@@ -75,7 +104,7 @@
                 {{ $catColor := "#1E40AF" }}
                 {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
                 {{ range $.Site.Taxonomies.categories }}
-                    {{ if eq .Page.Title $cat }}{{ $catColor = .Page.Params.color | default "#1E40AF" }}{{ end }}
+                    {{ if and (eq .Page.Title $cat) (eq .Page.Lang $currentLang) }}{{ $catColor = .Page.Params.color | default "#1E40AF" }}{{ end }}
                 {{ end }}
                 <div class="sidebar-block">
                     <span class="sidebar-label">{{ i18n "featured_post" }}</span>
@@ -107,5 +136,77 @@
         </div>
     </div>
 </section>
+
+<!-- Search JS inline pour homepage -->
+<script>
+(function() {
+    var searchURL = {{ $searchIndexURL | jsonify }};
+    var inputs = document.querySelectorAll('[data-search-input]');
+    var panel = document.querySelector('[data-search-results]');
+    var list = document.querySelector('[data-search-list]');
+    var empty = document.querySelector('[data-search-empty]');
+    var data = null;
+    var fetching = false;
+
+    function ensureData() {
+        if (data || fetching) return;
+        fetching = true;
+        fetch(searchURL).then(function(r){ return r.json(); }).then(function(j){ data = j; fetching = false; });
+    }
+
+    function normalize(s) {
+        return (s || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function render(query) {
+        if (!data) return;
+        var q = normalize(query.trim());
+        if (!panel) return;
+        if (!q || q.length < 2) {
+            panel.hidden = true;
+            return;
+        }
+        panel.hidden = false;
+        var matches = data.filter(function(item) {
+            var hay = normalize(item.title + ' ' + (item.description||'') + ' ' + (item.categories||[]).join(' ') + ' ' + (item.tags||[]).join(' '));
+            return hay.indexOf(q) !== -1;
+        }).slice(0, 8);
+
+        list.innerHTML = '';
+        if (!matches.length) {
+            empty.hidden = false;
+            return;
+        }
+        empty.hidden = true;
+        matches.forEach(function(item) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.href = item.url;
+            a.className = 'search-result';
+            var cat = (item.categories && item.categories[0]) || '';
+            a.innerHTML = '<div class="search-result-cat">' + (cat ? cat : '') + '</div>' +
+                          '<div class="search-result-title">' + item.title + '</div>' +
+                          '<div class="search-result-desc">' + (item.description || '') + '</div>';
+            li.appendChild(a);
+            list.appendChild(li);
+        });
+    }
+
+    inputs.forEach(function(input) {
+        input.addEventListener('focus', ensureData);
+        input.addEventListener('input', function(e){
+            if (!data) { ensureData(); setTimeout(function(){ render(e.target.value); }, 200); }
+            else render(e.target.value);
+        });
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!panel) return;
+        if (!panel.contains(e.target) && !Array.prototype.some.call(inputs, function(i){ return i.contains(e.target); })) {
+            panel.hidden = true;
+        }
+    });
+})();
+</script>
 
 {{ end }}

@@ -28,6 +28,17 @@ readingTime: true
 > 3. Le neuf reste pertinent pour les derniers modeles, les usages intensifs et les familles nombreuses.
 > 4. Le marche du reconditionne pese deja plus de 1 milliard d'euros en France en 2025 selon l'ADEME.
 
+## Comparatif rapide neuf, reconditionne et occasion
+
+| Critere | Neuf | Reconditionne | Occasion |
+|---|---|---|---|
+| Prix moyen | 100 pour cent | 50 a 80 pour cent | 20 a 40 pour cent |
+| Garantie | 24 mois minimum | 12 a 24 mois | Aucune |
+| Service apres-vente | Oui | Oui | Non |
+| Livraison incluse | Souvent | Souvent | Rarement |
+| Duree de vie estimee | 10 a 15 ans | 7 a 12 ans | 3 a 8 ans |
+| Impact ecologique | Eleve | Faible | Nul |
+
 ## Electromenager : trois options d'achat en 2026
 
 Le choix d'un **electromenager reconditionne** face au neuf ou a l'occasion mobilise de plus en plus de consommateurs. La hausse des prix de l'energie et des appareils neufs, combinee a une conscience ecologique accrue, pousse les acheteurs vers des alternatives plus economiques et plus durables.
@@ -88,17 +99,6 @@ Acheter d'occasion entre particuliers (Leboncoin, Vinted, groupes Facebook) perm
 L'occasion reste pertinente pour les petits appareils peu couteux (micro-ondes, grille-pain) ou pour les acheteurs capables d'evaluer eux-memes l'etat d'un appareil.
 
 ## Comparatif detaille des trois options
-
-### Tableau recapitulatif
-
-| Critere | Neuf | Reconditionne | Occasion |
-|---|---|---|---|
-| Prix moyen | 100 pour cent | 50 a 80 pour cent | 20 a 40 pour cent |
-| Garantie | 24 mois minimum | 12 a 24 mois | Aucune |
-| Service apres-vente | Oui | Oui | Non |
-| Livraison incluse | Souvent | Souvent | Rarement |
-| Duree de vie estimee | 10 a 15 ans | 7 a 12 ans | 3 a 8 ans |
-| Impact ecologique | Eleve | Faible | Nul |
 
 ### Le critere ecologique
 

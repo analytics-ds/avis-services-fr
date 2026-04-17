@@ -28,6 +28,19 @@ readingTime: true
 > 3. 4 French sites dominate the market: Back Market, Recommerce, Envie and Largo.
 > 4. CO2 impact of a refurbished-equipped kitchen is halved compared to new.
 
+## Detailed budget for a family kitchen (4 people)
+
+| Appliance | New (average) | Refurbished (average) | Savings |
+|---|---|---|---|
+| Combined fridge 300L | 900 euros | 450 euros | 450 euros |
+| Built-in dishwasher | 650 euros | 350 euros | 300 euros |
+| Multifunction oven | 700 euros | 380 euros | 320 euros |
+| 4-burner induction cooktop | 500 euros | 280 euros | 220 euros |
+| Decorative hood | 350 euros | 200 euros | 150 euros |
+| Microwave | 180 euros | 100 euros | 80 euros |
+| Small appliances | 400 euros | 220 euros | 180 euros |
+| **Total** | **3,680 euros** | **1,980 euros** | **1,700 euros** |
+
 ## The challenge of equipping your kitchen refurbished
 
 Equipping an entire kitchen with **refurbished appliances** is a credible and economical alternative in 2026. The process requires some preparation: listing necessary units, comparing offers on several marketplaces and coordinating deliveries.
@@ -63,20 +76,7 @@ For a fully functional kitchen, add:
 
 ## Detailed budget
 
-### Summary table for a family kitchen (4 people)
-
-| Appliance | New (average) | Refurbished (average) | Savings |
-|---|---|---|---|
-| Combined fridge 300L | 900 euros | 450 euros | 450 euros |
-| Built-in dishwasher | 650 euros | 350 euros | 300 euros |
-| Multifunction oven | 700 euros | 380 euros | 320 euros |
-| 4-burner induction cooktop | 500 euros | 280 euros | 220 euros |
-| Decorative hood | 350 euros | 200 euros | 150 euros |
-| Microwave | 180 euros | 100 euros | 80 euros |
-| Small appliances | 400 euros | 220 euros | 180 euros |
-| **Total** | **3,680 euros** | **1,980 euros** | **1,700 euros** |
-
-Total saving reaches 46 per cent in this average scenario. For a high-end kitchen (premium brands, large capacity), absolute gain is even higher.
+See the summary table at the start of the article. Total saving reaches 46 per cent in this average scenario. For a high-end kitchen (premium brands, large capacity), absolute gain is even higher.
 
 ### A strong ecological argument
 

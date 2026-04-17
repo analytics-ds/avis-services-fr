@@ -8,8 +8,11 @@
             <div class="footer-col">
                 <h4>{{ i18n "categories" }}</h4>
                 <ul>
+                    {{ $currentLang := .Page.Lang }}
                     {{ range .Site.Taxonomies.categories }}
+                    {{ if eq .Page.Lang $currentLang }}
                     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
                     {{ end }}
                 </ul>
             </div>

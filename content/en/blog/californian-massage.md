@@ -28,6 +28,17 @@ readingTime: true
 > 3. Sleep quality improves from the first session for 70 per cent of practitioners.
 > 4. Vegetable oil heated to 35 degrees is essential to this massage signature.
 
+## Typical session breakdown (90 minutes)
+
+| Zone | Duration | Goal |
+|---|---|---|
+| Back and neck | 25 minutes | Relax trapezius and spine |
+| Back legs | 15 minutes | Drainage and muscle relaxation |
+| Front legs | 15 minutes | Release tensions |
+| Abdomen | 10 minutes | Digestive and emotional relaxation |
+| Arms and hands | 10 minutes | Free everyday tensions |
+| Face and scalp | 15 minutes | Final deep relaxation |
+
 ## Californian massage, signature treatment of high-end spas
 
 **Californian massage** was born in California in the 1970s, in the wake of the Esalen Institute holistic movement. This enveloping and gentle massage has become a reference in luxury spas worldwide for its ability to induce deep physical and mental relaxation.
@@ -56,16 +67,7 @@ Oil is heated to about 35 degrees, slightly above skin temperature, to avoid any
 
 ### A codified technique
 
-A standard Californian massage lasts **90 minutes**, with precise time allocation per body zone:
-
-| Zone | Duration | Goal |
-|---|---|---|
-| Back and neck | 25 minutes | Relax trapezius and spine |
-| Back legs | 15 minutes | Drainage and muscle relaxation |
-| Front legs | 15 minutes | Release tensions |
-| Abdomen | 10 minutes | Digestive and emotional relaxation |
-| Arms and hands | 10 minutes | Free everyday tensions |
-| Face and scalp | 15 minutes | Final deep relaxation |
+A standard Californian massage lasts **90 minutes**, with precise time allocation per body zone (see the table at the start of the article).
 
 ## Documented benefits
 

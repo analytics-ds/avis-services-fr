@@ -28,6 +28,16 @@ readingTime: true
 > 3. Le credit d'impot de 50 pour cent reduit de moitie le reste a charge apres aides.
 > 4. 1,5 million de personnes agees beneficient d'une aide a domicile en France selon la DREES.
 
+## Grille tarifaire 2026 de l'aide a domicile
+
+| Prestation | Mode prestataire | Mode mandataire | Gre a gre |
+|---|---|---|---|
+| Aide menagere | 26 a 30 euros/h | 20 a 24 euros/h | 14 a 17 euros/h |
+| Aide aux repas | 26 a 32 euros/h | 22 a 26 euros/h | 15 a 18 euros/h |
+| Aide toilette (auxiliaire) | 28 a 35 euros/h | 24 a 28 euros/h | 18 a 22 euros/h |
+| Presence de nuit | 130 a 180 euros/nuit | 100 a 140 euros/nuit | 70 a 100 euros/nuit |
+| Portage de repas | 8 a 14 euros/repas | Non applicable | Non applicable |
+
 ## Le marche de l'aide a domicile pour senior en 2026
 
 En France, plus de 1,5 million de personnes agees beneficient d'une aide a domicile selon la DREES (2024). Le vieillissement de la population et le choix croissant du maintien a domicile plutot que de l'entree en EHPAD soutiennent une forte demande pour les **services d'aide a domicile pour senior**.
@@ -75,15 +85,7 @@ Les **tarifs 2026** d'une aide a domicile ont connu une hausse de 4 a 6 pour cen
 
 ### Grille de prix indicative
 
-| Prestation | Mode prestataire | Mode mandataire | Gre a gre |
-|---|---|---|---|
-| Aide menagere | 26 a 30 euros/h | 20 a 24 euros/h | 14 a 17 euros/h |
-| Aide aux repas | 26 a 32 euros/h | 22 a 26 euros/h | 15 a 18 euros/h |
-| Aide toilette (auxiliaire) | 28 a 35 euros/h | 24 a 28 euros/h | 18 a 22 euros/h |
-| Presence de nuit | 130 a 180 euros/nuit | 100 a 140 euros/nuit | 70 a 100 euros/nuit |
-| Portage de repas | 8 a 14 euros/repas | Non applicable | Non applicable |
-
-Les tarifs incluent les charges sociales en mode prestataire. En gre a gre, il faut ajouter environ 40 pour cent de charges patronales au taux horaire.
+Voir le tableau tarifaire en debut d'article. Les tarifs incluent les charges sociales en mode prestataire. En gre a gre, il faut ajouter environ 40 pour cent de charges patronales au taux horaire.
 
 ### Majoration pour week-end et jours feries
 
