@@ -43,6 +43,10 @@ enableEmoji = false
   url = "/categories/spa-de-luxe/"
   weight = 3
 [[languages.fr.menus.main]]
+  name = "Services aux seniors"
+  url = "/categories/services-aux-seniors/"
+  weight = 4
+[[languages.fr.menus.main]]
   name = "Le Blog"
   url = "/blog/"
   weight = 99
@@ -60,6 +64,10 @@ enableEmoji = false
   name = "Luxury spas"
   url = "/en/categories/luxury-spas/"
   weight = 3
+[[languages.en.menus.main]]
+  name = "Senior services"
+  url = "/en/categories/senior-services/"
+  weight = 4
 [[languages.en.menus.main]]
   name = "The Blog"
   url = "/en/blog/"
@@ -92,7 +100,7 @@ enableEmoji = false
   default_og_image = "/images/og-default.jpg"
   logo = "/favicon.svg"
   founding_year = "2026"
-  expertise = ["Electromenager reconditionne", "Spa de luxe", "Avis de services en ligne"]
+  expertise = ["Electromenager reconditionne", "Spa de luxe", "Services aux seniors", "Avis de services en ligne"]
 
 [outputs]
   home = ["HTML", "RSS"]
