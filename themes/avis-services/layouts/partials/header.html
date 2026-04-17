@@ -1,7 +1,7 @@
 <header class="site-header">
     <div class="header-container">
         <a href="{{ "/" | relLangURL }}" class="site-logo" aria-label="{{ .Site.Title }}">
-            {{ .Site.Title }}
+            <span>{{ .Site.Title }}</span>
         </a>
 
         {{ $currentLang := .Page.Lang }}
@@ -16,9 +16,8 @@
                 </button>
                 <div class="nav-dropdown-panel" role="menu">
                     {{ range $localCats }}
-                    {{ $color := .Params.color | default "#1E40AF" }}
                     <a href="{{ .RelPermalink }}" class="nav-dropdown-item" role="menuitem">
-                        <span class="nav-dropdown-icon" style="background-color: {{ $color }}15; color: {{ $color }};" aria-hidden="true">{{ .Params.icon | default "•" }}</span>
+                        <span class="nav-dropdown-icon" aria-hidden="true">{{ .Params.icon | default "◆" }}</span>
                         <span class="nav-dropdown-text">
                             <span class="nav-dropdown-title">{{ .Title }}</span>
                             {{ with .Description }}<span class="nav-dropdown-desc">{{ . }}</span>{{ end }}

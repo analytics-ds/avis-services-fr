@@ -1,26 +1,52 @@
 # Avis Services
 
-> Avis et comparatifs de services en ligne : electromenager reconditionne, spa de luxe et bien plus.
+> Avis et comparatifs independants de services en ligne : electromenager reconditionne, spa de luxe, services aux seniors et plus encore.
 
 ## A propos
 
-Avis Services est un media independant qui publie des tests, comparatifs et avis detailles sur des services et produits du quotidien. L'objectif est d'aider les consommateurs francais a faire des choix eclaires grace a des analyses factuelles et des retours d'experience concrets.
+Avis Services est un media editorial francais independant qui publie des tests, comparatifs et avis detailles sur des services et produits du quotidien. L'equipe analyse chaque service selon une methodologie transparente (grille d'evaluation, tests reels, prix verifies) pour aider les consommateurs a choisir sans biais commercial. Aucun contenu n'est sponsorise.
 
-## Contenu principal
+## Methodologie editoriale
+
+- Tests reels : chaque service est teste sur plusieurs semaines quand c'est possible
+- Sources chiffrees : prix, garanties et specifications verifies a la date de publication
+- Mise a jour : chaque article est date (publication + derniere modification)
+- Independance : aucun partenariat commercial avec les marques evaluees
+- Auteurs experts : redaction par des specialistes identifies dans l'article (schema.org/Person)
+
+## Contenu principal (FR)
 
 - Electromenager reconditionne : https://avis-services.fr/categories/electromenager-reconditionne/
 - Spa de luxe : https://avis-services.fr/categories/spa-de-luxe/
+- Services aux seniors : https://avis-services.fr/categories/services-aux-seniors/
 
-## Articles recents
+## Articles de reference (FR)
 
-- Back Market avis : notre test du leader du reconditionne : https://avis-services.fr/blog/back-market-avis/
-- Electromenager reconditionne : les meilleurs sites en 2026 : https://avis-services.fr/blog/meilleurs-sites-electromenager-reconditionne/
-- Clair Azur avis : le spa francais haut de gamme passe en revue : https://avis-services.fr/blog/clair-azur-avis/
-- Meilleurs spa de luxe 2026 : notre top 5 : https://avis-services.fr/blog/meilleurs-spa-de-luxe-2026/
+- Reconditionne, occasion ou neuf : que choisir pour son electromenager : https://avis-services.fr/blog/reconditionne-vs-occasion-vs-neuf/
+- Comment equiper sa cuisine entiere en electromenager reconditionne : https://avis-services.fr/blog/equiper-cuisine-reconditionne/
+- Quels sont les bienfaits du hammam et son deroulement : https://avis-services.fr/blog/hammam-bienfaits/
+- Qu'est-ce que le modelage californien et quels sont ses bienfaits : https://avis-services.fr/blog/modelage-californien/
+- Aide a domicile pour senior : quels services et tarifs en 2026 : https://avis-services.fr/blog/aide-a-domicile-senior-tarifs/
+
+## Version anglaise (EN)
+
+- Homepage EN : https://avis-services.fr/en/
+- Blog EN : https://avis-services.fr/en/blog/
+- Refurbished, used or new: which appliance to choose : https://avis-services.fr/en/blog/refurbished-vs-used-vs-new/
+- How to equip your entire kitchen with refurbished appliances : https://avis-services.fr/en/blog/equip-kitchen-refurbished/
+- What are the benefits of a hammam : https://avis-services.fr/en/blog/hammam-benefits/
+- What is Californian massage and what are its benefits : https://avis-services.fr/en/blog/californian-massage/
+- Home care for seniors: what services and rates in 2026 : https://avis-services.fr/en/blog/home-care-senior-rates/
 
 ## Informations techniques
 
-- Generateur : Hugo
-- Hebergement : GitHub Pages
+- Generateur : Hugo (site statique)
+- Multilingue : francais (defaut) + anglais
 - Sitemap : https://avis-services.fr/sitemap.xml
 - RSS : https://avis-services.fr/index.xml
+- Hreflang : pleinement implementes (fr / en / x-default)
+- Schema.org : Organization, Article, BreadcrumbList, FAQPage, WebSite, CollectionPage, ItemList, Person
+
+## Contact
+
+- URL : https://avis-services.fr/

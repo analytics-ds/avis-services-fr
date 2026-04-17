@@ -1,0 +1,33 @@
+{{- $url := .Permalink -}}
+{{- $title := .Title -}}
+{{- $encodedUrl := $url | urlquery -}}
+{{- $encodedTitle := $title | urlquery -}}
+<div class="share-inline" aria-label="{{ i18n "share_label" | default "Partager cet article" }}">
+    <span class="share-inline-label">{{ i18n "share_inline_label" | default "Partager cet article" }}</span>
+    <div class="share-inline-buttons">
+        <a href="https://twitter.com/intent/tweet?url={{ $encodedUrl }}&text={{ $encodedTitle }}" target="_blank" rel="noopener noreferrer" class="share-inline-btn" aria-label="X / Twitter">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            <span>Twitter / X</span>
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $encodedUrl }}" target="_blank" rel="noopener noreferrer" class="share-inline-btn" aria-label="LinkedIn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.063 2.063 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+            <span>LinkedIn</span>
+        </a>
+        <a href="https://www.reddit.com/submit?url={{ $encodedUrl }}&title={{ $encodedTitle }}" target="_blank" rel="noopener noreferrer" class="share-inline-btn" aria-label="Reddit">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm6.67 14.09c.03.14.04.28.04.43 0 2.62-3.05 4.75-6.8 4.75s-6.8-2.13-6.8-4.75c0-.15.01-.29.04-.43a1.55 1.55 0 0 1-.9-1.41c0-.86.69-1.55 1.55-1.55.42 0 .8.17 1.08.44 1.07-.77 2.55-1.27 4.19-1.33l.85-3.99a.36.36 0 0 1 .43-.28l2.77.59c.17-.41.58-.69 1.05-.69.63 0 1.14.51 1.14 1.14s-.51 1.14-1.14 1.14c-.61 0-1.11-.48-1.14-1.09l-2.48-.53-.75 3.55c1.61.07 3.07.57 4.13 1.33.28-.27.65-.44 1.07-.44.86 0 1.55.69 1.55 1.55 0 .61-.35 1.13-.88 1.4zM9.25 13.25a1 1 0 1 1 2.001 0 1 1 0 0 1-2.001 0zm6.28 3.11c-1.06.87-2.86.94-3.53.94s-2.47-.07-3.53-.94a.38.38 0 0 1-.05-.54.38.38 0 0 1 .54-.05c.66.55 2.07.74 3.04.74s2.38-.19 3.04-.74c.16-.13.4-.11.54.05.13.16.11.4-.05.54zm-.23-2.11a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/></svg>
+            <span>Reddit</span>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ $encodedUrl }}" target="_blank" rel="noopener noreferrer" class="share-inline-btn" aria-label="Facebook">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            <span>Facebook</span>
+        </a>
+        <a href="mailto:?subject={{ $encodedTitle }}&body={{ $encodedUrl }}" class="share-inline-btn" aria-label="Email">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            <span>Email</span>
+        </a>
+        <button type="button" class="share-inline-btn share-copy" data-share-copy data-url="{{ $url }}" data-copied="{{ i18n "share_copied" | default "Lien copie" }}">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+            <span class="share-copy-label">{{ i18n "share_copy" | default "Copier le lien" }}</span>
+        </button>
+    </div>
+</div>

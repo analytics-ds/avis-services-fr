@@ -2,16 +2,32 @@
 
 {{ $currentLang := .Page.Lang }}
 {{ $searchIndexURL := "/search-index.json" | relLangURL }}
+{{ $catPages := where .Site.Pages "Section" "categories" }}
+{{ $localCats := where $catPages "Lang" $currentLang }}
+{{ $allBlog := where .Site.RegularPages "Section" "blog" }}
+{{ $localBlog := where $allBlog "Lang" $currentLang }}
 
-<!-- Hero avec grosse search bar (Trustpilot-like) -->
+<!-- ============ HERO ============ -->
 <section class="hero-search">
     <div class="container">
-        <h1>{{ .Params.heroTitlePre | default "Des avis" }} <span class="accent">{{ .Params.heroAccent | default "fiables" }}</span> {{ .Params.heroTitlePost | default "sur les services qui comptent" }}</h1>
+        {{ with .Params.heroBadge }}
+        <span class="hero-pill">
+            <span class="hero-pill-dot" aria-hidden="true"></span>
+            {{ . }}
+        </span>
+        {{ end }}
+
+        <h1>
+            {{ .Params.heroTitlePre | default "Des avis" }}
+            <span class="accent">{{ .Params.heroAccent | default "fiables" }}</span>
+            {{ .Params.heroTitlePost | default "sur les services qui comptent" }}
+        </h1>
+
         {{ with .Params.heroDescription }}<p class="hero-description">{{ . }}</p>{{ end }}
 
         <form class="search-form-hero" role="search" onsubmit="event.preventDefault();">
             <label for="search-input-hero" class="sr-only">{{ i18n "search_placeholder" }}</label>
-            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
             <input type="search" id="search-input-hero" class="search-input-hero" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off" data-search-input>
             <button type="submit" class="search-button-hero">{{ i18n "search_button" }}</button>
         </form>
@@ -20,33 +36,38 @@
             <ul class="search-results-list" data-search-list></ul>
             <p class="search-no-results" data-search-empty hidden>{{ i18n "search_no_results" }}</p>
         </div>
+
+        <div class="hero-meta">
+            <span><strong>{{ len $localBlog }}</strong> {{ if gt (len $localBlog) 1 }}{{ i18n "articles_count_other" }}{{ else }}{{ i18n "articles_count_one" }}{{ end }}</span>
+            <span class="hero-meta-sep">·</span>
+            <span>{{ len $localCats }} {{ i18n "nav_categories" | lower }}</span>
+            <span class="hero-meta-sep">·</span>
+            <span>{{ i18n "hero_independent" | default "100% independants" }}</span>
+        </div>
     </div>
 </section>
 
-<!-- Categories cards (Trustpilot style) -->
+<!-- ============ CATEGORIES ============ -->
 <section class="categories-big-section">
     <div class="container">
         <div class="section-header">
-            <h2 class="section-title">{{ i18n "popular_topics" }}</h2>
+            <span class="section-kicker">{{ i18n "popular_topics" }}</span>
+            <h2 class="section-title">{{ i18n "explore_by_category" | default "Explorer par catégorie" }}</h2>
         </div>
         <div class="categories-big-grid">
-            {{ $catPages := where .Site.Pages "Section" "categories" }}
-            {{ range where $catPages "Lang" $currentLang }}
+            {{ range $localCats }}
             {{ $catPage := . }}
-            {{ $color := $catPage.Params.color | default "#1E40AF" }}
             {{ $catCount := 0 }}
             {{ range $.Site.Taxonomies.categories }}
                 {{ if and (eq .Page.RelPermalink $catPage.RelPermalink) (eq .Page.Lang $currentLang) }}
                     {{ $catCount = len .Pages }}
                 {{ end }}
             {{ end }}
-            <a href="{{ $catPage.RelPermalink }}" class="category-big-card" style="background: linear-gradient(135deg, {{ $color }}08, {{ $color }}18); border-color: {{ $color }}33;">
-                <div class="category-big-icon" style="background-color: {{ $color }}; color: #fff;">
-                    <span aria-hidden="true">{{ $catPage.Params.icon | default "•" }}</span>
-                </div>
+            <a href="{{ $catPage.RelPermalink }}" class="category-big-card">
+                <div class="category-big-icon" aria-hidden="true">{{ $catPage.Params.icon | default "◆" }}</div>
                 <h3>{{ $catPage.Title }}</h3>
                 <p>{{ $catPage.Description }}</p>
-                <span class="category-big-cta" style="color: {{ $color }};">{{ i18n "discover_category" }} →</span>
+                <span class="category-big-cta">{{ i18n "discover_category" }} →</span>
                 {{ if gt $catCount 0 }}<span class="category-big-count">{{ $catCount }} {{ if gt $catCount 1 }}{{ i18n "articles_count_other" }}{{ else }}{{ i18n "articles_count_one" }}{{ end }}</span>{{ end }}
             </a>
             {{ end }}
@@ -54,24 +75,64 @@
     </div>
 </section>
 
-<!-- Latest Articles + Sidebar featured -->
+<!-- ============ BENEFITS ============ -->
+<section class="benefits-section">
+    <div class="container">
+        <h2 class="benefits-headline">
+            <strong>{{ i18n "benefits_lead_strong" | default "Un nouveau standard d'avis en ligne." }}</strong>
+            <span>{{ i18n "benefits_lead" | default "Méthodologie transparente, tests réels, indépendance totale. Nos comparatifs sont conçus pour vous aider à décider vite et bien." }}</span>
+        </h2>
+        <div class="benefits-grid">
+            <div class="benefit-card">
+                <div class="benefit-illustration">
+                    <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                        <rect x="8" y="8" width="48" height="48" rx="10" stroke="currentColor" stroke-opacity="0.2"/>
+                        <path d="M20 32l8 8 16-16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <h3>{{ i18n "benefit_1_title" | default "Tests rigoureux" }}</h3>
+                <p>{{ i18n "benefit_1_desc" | default "Produits et services testés selon une grille d'évaluation claire et reproductible." }}</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-illustration">
+                    <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                        <circle cx="32" cy="32" r="22" stroke="currentColor" stroke-opacity="0.2"/>
+                        <path d="M32 14v18l12 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </div>
+                <h3>{{ i18n "benefit_2_title" | default "Mises à jour régulières" }}</h3>
+                <p>{{ i18n "benefit_2_desc" | default "Nos avis évoluent avec le marché. Chaque article est daté et actualisé." }}</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-illustration">
+                    <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                        <path d="M12 36l8-20 8 28 8-20 8 14 8-12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <line x1="8" y1="52" x2="56" y2="52" stroke="currentColor" stroke-opacity="0.2"/>
+                    </svg>
+                </div>
+                <h3>{{ i18n "benefit_3_title" | default "100% indépendants" }}</h3>
+                <p>{{ i18n "benefit_3_desc" | default "Pas de contenu sponsorisé déguisé. Nos recommandations ne sont pas à vendre." }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ LATEST ARTICLES + FEATURED ============ -->
 <section class="latest-section">
     <div class="container">
         <div class="home-layout">
             <div class="home-main">
                 <div class="section-header section-header-with-cta">
-                    <h2 class="section-title">{{ i18n "latest_articles" }}</h2>
+                    <div>
+                        <span class="section-kicker">{{ i18n "latest" | default "Derniers publiés" }}</span>
+                        <h2 class="section-title">{{ i18n "latest_articles" }}</h2>
+                    </div>
                     <a href="{{ "blog/" | relLangURL }}" class="section-view-all">{{ i18n "view_all" }} →</a>
                 </div>
                 <div class="grid-articles">
-                    {{ $allBlog := where .Site.RegularPages "Section" "blog" }}
-                    {{ range first 6 (after 1 $allBlog.ByDate.Reverse) }}
+                    {{ range first 6 (after 1 $localBlog.ByDate.Reverse) }}
                     {{ $cat := "" }}
-                    {{ $catColor := "#1E40AF" }}
                     {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
-                    {{ range $.Site.Taxonomies.categories }}
-                        {{ if and (eq .Page.Title $cat) (eq .Page.Lang $currentLang) }}{{ $catColor = .Page.Params.color | default "#1E40AF" }}{{ end }}
-                    {{ end }}
                     <article class="article-card">
                         <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
                             {{ if $cat }}
@@ -82,7 +143,7 @@
                             {{ if .Params.image }}
                             <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="400">
                             {{ else }}
-                            <span class="article-card-image article-card-image-placeholder" aria-hidden="true" style="background: linear-gradient(135deg, {{ $catColor }}, {{ $catColor }}CC);">{{ slicestr .Title 0 1 }}</span>
+                            <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
                             {{ end }}
                         </a>
                         <div class="article-card-body">
@@ -103,14 +164,10 @@
             </div>
 
             <aside class="home-sidebar">
-                {{ $featured := index (where .Site.RegularPages "Section" "blog").ByDate.Reverse 0 }}
+                {{ $featured := index $localBlog.ByDate.Reverse 0 }}
                 {{ with $featured }}
                 {{ $cat := "" }}
-                {{ $catColor := "#1E40AF" }}
                 {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
-                {{ range $.Site.Taxonomies.categories }}
-                    {{ if and (eq .Page.Title $cat) (eq .Page.Lang $currentLang) }}{{ $catColor = .Page.Params.color | default "#1E40AF" }}{{ end }}
-                {{ end }}
                 <div class="sidebar-block">
                     <span class="sidebar-label">{{ i18n "featured_post" }}</span>
                     <a href="{{ .RelPermalink }}" class="featured-card">
@@ -123,7 +180,7 @@
                             {{ if .Params.image }}
                             <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" loading="lazy">
                             {{ else }}
-                            <span class="featured-card-image-placeholder" aria-hidden="true" style="background: linear-gradient(135deg, {{ $catColor }}, {{ $catColor }}CC);">{{ slicestr .Title 0 1 }}</span>
+                            <span class="featured-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
                             {{ end }}
                         </div>
                         <h3>{{ .Title }}</h3>
@@ -137,12 +194,50 @@
                     </a>
                 </div>
                 {{ end }}
+
+                <div class="sidebar-block sidebar-stats">
+                    <span class="sidebar-label">{{ i18n "in_numbers" | default "En chiffres" }}</span>
+                    <ul class="stat-list">
+                        <li>
+                            <span class="stat-value">{{ len $localBlog }}</span>
+                            <span class="stat-label">{{ i18n "articles_count_other" }}</span>
+                        </li>
+                        <li>
+                            <span class="stat-value">{{ len $localCats }}</span>
+                            <span class="stat-label">{{ i18n "nav_categories" }}</span>
+                        </li>
+                        <li>
+                            <span class="stat-value">100%</span>
+                            <span class="stat-label">{{ i18n "independent" | default "independants" }}</span>
+                        </li>
+                    </ul>
+                </div>
             </aside>
         </div>
     </div>
 </section>
 
-<!-- Search JS inline pour homepage -->
+<!-- ============ CTA FINAL ============ -->
+<section class="cta-final">
+    <div class="container">
+        <div class="cta-final-inner">
+            <h2 class="cta-final-title">
+                {{ i18n "cta_final_pre" | default "Trouvez" }}
+                <span class="accent">{{ i18n "cta_final_accent" | default "le bon service" }}</span>
+                {{ i18n "cta_final_post" | default "dès maintenant." }}
+            </h2>
+            <p class="cta-final-desc">{{ i18n "cta_final_desc" | default "Parcourez nos comparatifs et tests pour choisir en toute confiance." }}</p>
+            <div class="cta-final-actions">
+                <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ i18n "cta_read_articles" | default "Lire tous les articles" }}</a>
+                {{ with index $localCats 0 }}
+                <a href="{{ .RelPermalink }}" class="btn-secondary">{{ i18n "cta_explore" | default "Explorer" }} {{ .Title }} →</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Search JS inline -->
 <script>
 (function() {
     var searchURL = {{ $searchIndexURL | jsonify }};

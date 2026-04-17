@@ -108,3 +108,49 @@
   translation: "The Blog"
 - id: nav_home
   translation: "Home"
+- id: hero_independent
+  translation: "100% independent"
+- id: explore_by_category
+  translation: "Explore by category"
+- id: benefits_lead_strong
+  translation: "A new standard for online reviews."
+- id: benefits_lead
+  translation: "Transparent methodology, real tests, full independence. Our comparisons are built to help you decide fast and well."
+- id: benefit_1_title
+  translation: "Rigorous tests"
+- id: benefit_1_desc
+  translation: "Products and services tested against a clear, repeatable evaluation grid."
+- id: benefit_2_title
+  translation: "Regular updates"
+- id: benefit_2_desc
+  translation: "Our reviews evolve with the market. Every article is dated and updated."
+- id: benefit_3_title
+  translation: "100% independent"
+- id: benefit_3_desc
+  translation: "No disguised sponsored content. Our recommendations are not for sale."
+- id: latest
+  translation: "Latest posts"
+- id: in_numbers
+  translation: "In numbers"
+- id: independent
+  translation: "independent"
+- id: cta_final_pre
+  translation: "Find"
+- id: cta_final_accent
+  translation: "the right service"
+- id: cta_final_post
+  translation: "today."
+- id: cta_final_desc
+  translation: "Browse our comparisons and tests to choose with full confidence."
+- id: cta_read_articles
+  translation: "Read all articles"
+- id: cta_explore
+  translation: "Explore"
+- id: share_label
+  translation: "Share"
+- id: share_inline_label
+  translation: "Enjoyed this article? Share it"
+- id: share_copy
+  translation: "Copy link"
+- id: share_copied
+  translation: "Link copied"

@@ -108,3 +108,49 @@
   translation: "Le Blog"
 - id: nav_home
   translation: "Accueil"
+- id: hero_independent
+  translation: "100% independants"
+- id: explore_by_category
+  translation: "Explorer par categorie"
+- id: benefits_lead_strong
+  translation: "Un nouveau standard d'avis en ligne."
+- id: benefits_lead
+  translation: "Methodologie transparente, tests reels, independance totale. Nos comparatifs sont concus pour vous aider a decider vite et bien."
+- id: benefit_1_title
+  translation: "Tests rigoureux"
+- id: benefit_1_desc
+  translation: "Produits et services testes selon une grille d'evaluation claire et reproductible."
+- id: benefit_2_title
+  translation: "Mises a jour regulieres"
+- id: benefit_2_desc
+  translation: "Nos avis evoluent avec le marche. Chaque article est date et actualise."
+- id: benefit_3_title
+  translation: "100% independants"
+- id: benefit_3_desc
+  translation: "Pas de contenu sponsorise deguise. Nos recommandations ne sont pas a vendre."
+- id: latest
+  translation: "Derniers publies"
+- id: in_numbers
+  translation: "En chiffres"
+- id: independent
+  translation: "independants"
+- id: cta_final_pre
+  translation: "Trouvez"
+- id: cta_final_accent
+  translation: "le bon service"
+- id: cta_final_post
+  translation: "des maintenant."
+- id: cta_final_desc
+  translation: "Parcourez nos comparatifs et tests pour choisir en toute confiance."
+- id: cta_read_articles
+  translation: "Lire tous les articles"
+- id: cta_explore
+  translation: "Explorer"
+- id: share_label
+  translation: "Partager"
+- id: share_inline_label
+  translation: "Cet article vous a plu ? Partagez-le"
+- id: share_copy
+  translation: "Copier le lien"
+- id: share_copied
+  translation: "Lien copie"
