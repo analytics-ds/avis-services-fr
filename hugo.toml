@@ -29,49 +29,7 @@ enableEmoji = false
   category = "categories"
   tag = "tags"
 
-# Menu FR
-[[languages.fr.menus.main]]
-  name = "Accueil"
-  url = "/"
-  weight = 1
-[[languages.fr.menus.main]]
-  name = "Electromenager"
-  url = "/categories/electromenager-reconditionne/"
-  weight = 2
-[[languages.fr.menus.main]]
-  name = "Bien-etre"
-  url = "/categories/spa-de-luxe/"
-  weight = 3
-[[languages.fr.menus.main]]
-  name = "Seniors"
-  url = "/categories/services-aux-seniors/"
-  weight = 4
-[[languages.fr.menus.main]]
-  name = "Le Blog"
-  url = "/blog/"
-  weight = 99
-
-# Menu EN
-[[languages.en.menus.main]]
-  name = "Home"
-  url = "/en/"
-  weight = 1
-[[languages.en.menus.main]]
-  name = "Appliances"
-  url = "/en/categories/refurbished-appliances/"
-  weight = 2
-[[languages.en.menus.main]]
-  name = "Wellness"
-  url = "/en/categories/luxury-spas/"
-  weight = 3
-[[languages.en.menus.main]]
-  name = "Seniors"
-  url = "/en/categories/senior-services/"
-  weight = 4
-[[languages.en.menus.main]]
-  name = "The Blog"
-  url = "/en/blog/"
-  weight = 99
+# Menus supprimes : la nav est construite dynamiquement depuis content/categories/
 
 [markup]
   [markup.tableOfContents]

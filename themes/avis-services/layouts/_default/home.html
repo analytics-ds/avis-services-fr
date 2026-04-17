@@ -30,10 +30,16 @@
             <h2 class="section-title">{{ i18n "popular_topics" }}</h2>
         </div>
         <div class="categories-big-grid">
-            {{ range .Site.Taxonomies.categories }}
-            {{ $catPage := .Page }}
-            {{ if eq $catPage.Lang $currentLang }}
+            {{ $catPages := where .Site.Pages "Section" "categories" }}
+            {{ range where $catPages "Lang" $currentLang }}
+            {{ $catPage := . }}
             {{ $color := $catPage.Params.color | default "#1E40AF" }}
+            {{ $catCount := 0 }}
+            {{ range $.Site.Taxonomies.categories }}
+                {{ if and (eq .Page.RelPermalink $catPage.RelPermalink) (eq .Page.Lang $currentLang) }}
+                    {{ $catCount = len .Pages }}
+                {{ end }}
+            {{ end }}
             <a href="{{ $catPage.RelPermalink }}" class="category-big-card" style="background: linear-gradient(135deg, {{ $color }}08, {{ $color }}18); border-color: {{ $color }}33;">
                 <div class="category-big-icon" style="background-color: {{ $color }}; color: #fff;">
                     <span aria-hidden="true">{{ $catPage.Params.icon | default "•" }}</span>
@@ -41,9 +47,8 @@
                 <h3>{{ $catPage.Title }}</h3>
                 <p>{{ $catPage.Description }}</p>
                 <span class="category-big-cta" style="color: {{ $color }};">{{ i18n "discover_category" }} →</span>
-                <span class="category-big-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}{{ i18n "articles_count_other" }}{{ else }}{{ i18n "articles_count_one" }}{{ end }}</span>
+                {{ if gt $catCount 0 }}<span class="category-big-count">{{ $catCount }} {{ if gt $catCount 1 }}{{ i18n "articles_count_other" }}{{ else }}{{ i18n "articles_count_one" }}{{ end }}</span>{{ end }}
             </a>
-            {{ end }}
             {{ end }}
         </div>
     </div>

@@ -102,3 +102,9 @@
   translation: "All articles"
 - id: view_all
   translation: "View all"
+- id: nav_categories
+  translation: "Categories"
+- id: nav_blog
+  translation: "The Blog"
+- id: nav_home
+  translation: "Home"

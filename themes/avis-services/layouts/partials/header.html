@@ -1,21 +1,38 @@
 <header class="site-header">
     <div class="header-container">
-        <a href="{{ "/" | relURL }}" class="site-logo" aria-label="{{ .Site.Title }}">
+        <a href="{{ "/" | relLangURL }}" class="site-logo" aria-label="{{ .Site.Title }}">
             {{ .Site.Title }}
         </a>
 
+        {{ $currentLang := .Page.Lang }}
+        {{ $catPages := where .Site.Pages "Section" "categories" }}
+        {{ $localCats := where $catPages "Lang" $currentLang }}
+
         <nav class="site-nav" role="navigation" aria-label="{{ i18n "nav_main" }}">
-            {{ range .Site.Menus.main }}
-            <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                {{ .Name }}
-            </a>
-            {{ end }}
+            <div class="nav-item-dropdown">
+                <button type="button" class="nav-link nav-dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+                    {{ i18n "nav_categories" }}
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
+                </button>
+                <div class="nav-dropdown-panel" role="menu">
+                    {{ range $localCats }}
+                    {{ $color := .Params.color | default "#1E40AF" }}
+                    <a href="{{ .RelPermalink }}" class="nav-dropdown-item" role="menuitem">
+                        <span class="nav-dropdown-icon" style="background-color: {{ $color }}15; color: {{ $color }};" aria-hidden="true">{{ .Params.icon | default "•" }}</span>
+                        <span class="nav-dropdown-text">
+                            <span class="nav-dropdown-title">{{ .Title }}</span>
+                            {{ with .Description }}<span class="nav-dropdown-desc">{{ . }}</span>{{ end }}
+                        </span>
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+            <a href="{{ "blog/" | relLangURL }}" class="nav-link">{{ i18n "nav_blog" }}</a>
         </nav>
 
         <!-- Language switcher -->
         {{ if gt (len .Site.Languages) 1 }}
         <div class="lang-switcher" aria-label="Language switcher">
-            {{ $defaultLang := .Site.LanguageCode | default "fr" }}
             {{ $currentLang := .Site.Language.Lang }}
             {{ range .Site.Languages }}
             {{ $lang := . }}
@@ -41,9 +58,14 @@
     </div>
 
     <nav class="nav-mobile" aria-label="{{ i18n "nav_mobile" }}">
-        {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}" class="nav-link-mobile">{{ .Name }}</a>
+        <div class="nav-mobile-section-label">{{ i18n "nav_categories" }}</div>
+        {{ range $localCats }}
+        <a href="{{ .RelPermalink }}" class="nav-link-mobile">
+            <span aria-hidden="true">{{ .Params.icon | default "•" }}</span>
+            {{ .Title }}
+        </a>
         {{ end }}
+        <a href="{{ "blog/" | relLangURL }}" class="nav-link-mobile">{{ i18n "nav_blog" }}</a>
         {{ if gt (len .Site.Languages) 1 }}
         <div class="lang-switcher-mobile">
             {{ $currentLangM := .Site.Language.Lang }}
@@ -69,6 +91,7 @@
 
 <script>
 (function() {
+    // Mobile menu toggle
     var toggle = document.querySelector('.menu-toggle');
     var mobileNav = document.querySelector('.nav-mobile');
     if (toggle && mobileNav) {
@@ -77,5 +100,24 @@
             toggle.setAttribute('aria-expanded', String(isOpen));
         });
     }
+
+    // Dropdown Categories
+    var dropdowns = document.querySelectorAll('.nav-item-dropdown');
+    dropdowns.forEach(function(d) {
+        var btn = d.querySelector('.nav-dropdown-toggle');
+        var panel = d.querySelector('.nav-dropdown-panel');
+        if (!btn || !panel) return;
+        btn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            var opened = d.classList.toggle('open');
+            btn.setAttribute('aria-expanded', String(opened));
+        });
+        document.addEventListener('click', function(e) {
+            if (!d.contains(e.target)) {
+                d.classList.remove('open');
+                btn.setAttribute('aria-expanded', 'false');
+            }
+        });
+    });
 })();
 </script>
