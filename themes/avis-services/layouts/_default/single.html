@@ -105,17 +105,17 @@
                         {{ .TableOfContents }}
                     </nav>
                     {{ end }}
-
-                    <!-- Share buttons (vertical sticky) -->
-                    {{ partial "share.html" . }}
                 </aside>
 
                 <div class="article-main">
+                    <!-- Share buttons HAUT (en ligne) -->
+                    {{ partial "share-inline.html" . }}
+
                     <div class="prose article-content">
                         {{ .Content }}
                     </div>
 
-                    <!-- Share buttons (fin d'article, horizontal) -->
+                    <!-- Share buttons BAS (en ligne) -->
                     {{ partial "share-inline.html" . }}
 
                     <!-- Tags -->
