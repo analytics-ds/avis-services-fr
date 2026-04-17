@@ -72,3 +72,8 @@ enableEmoji = false
     baseName = "search-index"
     isPlainText = true
     notAlternative = true
+
+# Desactiver la minification XML pour avoir un sitemap lisible
+[minify]
+  disableXML = true
+
