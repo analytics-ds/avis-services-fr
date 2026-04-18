@@ -23,8 +23,12 @@
 <link rel="alternate" hreflang="x-default" href="{{ $xDefault }}">
 {{- end }}
 
-{{- /* Robots */ -}}
+{{- /* Robots : noindex sur les pages tags (taxonomy + term) pour eviter la dilution */ -}}
+{{- if and (or (eq .Kind "taxonomy") (eq .Kind "term")) (eq .Data.Singular "tag") }}
+<meta name="robots" content="noindex, follow">
+{{- else }}
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{{- end }}
 
 {{- /* Author */ -}}
 {{- if .IsPage }}
@@ -84,7 +88,8 @@
 
 {{- /* Favicon */ -}}
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
-<link rel="apple-touch-icon" href="{{ "favicon.svg" | relURL }}">
+<link rel="alternate icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
 
 {{- /* RSS */ -}}
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ "index.xml" | absLangURL }}">
