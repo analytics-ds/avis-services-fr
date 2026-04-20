@@ -7,7 +7,7 @@
 {{- /* Include other translations. Determine lang by URL prefix (more reliable than .Lang in multi-contentDir setups) */ -}}
 {{- range .Translations -}}
     {{- $urlLang := "fr" -}}
-    {{- if hasPrefix .RelPermalink "/en/" -}}{{- $urlLang = "en" -}}{{- end -}}
+    {{- if in .RelPermalink "/en/" -}}{{- $urlLang = "en" -}}{{- end -}}
     {{- $translationsByLang = merge $translationsByLang (dict $urlLang .RelPermalink) -}}
 {{- end -}}
 {{- /* Flags + language names */ -}}
@@ -20,7 +20,7 @@
         {{- if hasSuffix .LogicalName "_index.md" -}}{{- $isRealCat = true -}}{{- end -}}
     {{- end -}}
     {{- if $isRealCat -}}
-        {{- $isEN := hasPrefix .RelPermalink "/en/" -}}
+        {{- $isEN := in .RelPermalink "/en/" -}}
         {{- if or (and (eq $currentLang "en") $isEN) (and (eq $currentLang "fr") (not $isEN)) -}}
             {{- $localCats = $localCats | append . -}}
         {{- end -}}
