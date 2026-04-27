@@ -77,12 +77,78 @@
 #   longue traine).
 
 articles:
-  # ----- exemple (a supprimer ou remplacer) -----
-  - kw: "exemple de mot cle"
-    category: "Exemple de categorie"
-    volume: 1200
-    kd: 35
+
+  - kw: "acheter telephone reconditionne"
+    category: "Electromenager reconditionne"
+    volume: null
+    kd: null
     scheduled_date: "2026-04-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "hammam ou spa difference"
+    category: "Spa de luxe"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur lave linge reconditionne"
+    category: "Electromenager reconditionne"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "massage suedois bienfaits"
+    category: "Spa de luxe"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "reconditionne ou neuf que choisir"
+    category: "Electromenager reconditionne"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "prix spa luxe paris"
+    category: "Spa de luxe"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "ipad reconditionne avis"
+    category: "Electromenager reconditionne"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-19"
     status: todo
     published_date: null
     published_url_fr: null
