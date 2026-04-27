@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 18 (27/04/2026 - 03/05/2026)
+- 2026-04-27 | Où acheter un lave-linge reconditionné ? (FR+EN) | Electromenager reconditionne
+
 ## Semaine 17 (20/04/2026 - 26/04/2026)
 - 2026-04-24 | Quelle est la meilleure entreprise de nettoyage en 2026 ? (FR+EN) | Services aux entreprises
 - 2026-04-24 | Quelle est la meilleure mutuelle pour les entreprises ? (FR+EN) | Services aux entreprises
