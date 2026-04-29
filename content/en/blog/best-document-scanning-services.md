@@ -8,9 +8,9 @@ description: "Adobe Scan, Microsoft Lens, ABBYY, Zeendoc: comparison of the best
 categories: ["Digital services"]
 tags: ["document scanning", "PDF scanner", "Adobe Scan", "ABBYY", "document management"]
 author: thomas-durand
-image: "/images/blog/meilleurs-services-numerisation-documents.jpg"
-imageAlt: "Professional document scanning station with high-speed scanner"
-imageCredit: "Photo by public.resource.org via Flickr (CC0 1.0)"
+image: "/images/blog/meilleurs-services-numerisation-documents.webp"
+imageAlt: "Fujitsu ScanSnap document scanner for high-resolution document digitisation"
+imageCredit: "Photo by Biswarup Ganguly via Wikimedia (CC BY 3.0)"
 faq:
   - question: "What is the best app for scanning documents?"
     answer: "In 2026, Adobe Scan is the reference for mobile scanning thanks to its built-in OCR, automatic perspective correction, and integration with Adobe Acrobat. Microsoft Lens is recommended for Office 365 users (direct export to Word or PowerPoint). Google Drive scan suits Google users who want a simple and free solution. For heavy use, CamScanner Pro (€4.99/month) offers advanced batch processing features."

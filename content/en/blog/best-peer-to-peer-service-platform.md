@@ -8,9 +8,9 @@ description: "AlloVoisins, Yoojo, NeedHelp: comparison of the best peer-to-peer 
 categories: ["Peer-to-peer services"]
 tags: ["peer-to-peer services", "jobbing", "AlloVoisins", "Yoojo", "NeedHelp"]
 author: thomas-durand
-image: "/images/blog/meilleur-site-service-entre-particuliers.jpg"
-imageAlt: "Digital interface connecting people for peer-to-peer services"
-imageCredit: "Photo by juhansonin via Flickr (CC BY 2.0)"
+image: "/images/blog/meilleur-site-service-entre-particuliers.webp"
+imageAlt: "Mobile app interface connecting users for peer-to-peer services"
+imageCredit: "Photo by freestocks.org via Flickr (CC0 1.0)"
 faq:
   - question: "What is the best peer-to-peer service platform in France?"
     answer: "In 2026, AlloVoisins remains the leading platform for local peer-to-peer services in France, with over 8 million members and national coverage. Yoojo stands out for verified professional home services. NeedHelp suits paid jobbing, Kiwiiz community-based local services, and Easyjobber one-off odd jobs. The best choice depends on the type of service, budget, and location."

@@ -8,9 +8,9 @@ description: "Adobe Scan, Microsoft Lens, ABBYY, Zeendoc : comparatif des meille
 categories: ["Services numériques"]
 tags: ["numérisation de documents", "scanner PDF", "Adobe Scan", "ABBYY", "GED"]
 author: thomas-durand
-image: "/images/blog/meilleurs-services-numerisation-documents.jpg"
-imageAlt: "Station de numérisation de documents avec scanner professionnel"
-imageCredit: "Photo par public.resource.org via Flickr (CC0 1.0)"
+image: "/images/blog/meilleurs-services-numerisation-documents.webp"
+imageAlt: "Scanner Fujitsu ScanSnap pour numérisation de documents en haute résolution"
+imageCredit: "Photo par Biswarup Ganguly via Wikimedia (CC BY 3.0)"
 faq:
   - question: "Quelle est la meilleure application pour numériser des documents ?"
     answer: "En 2026, Adobe Scan est la référence pour la numérisation mobile grâce à son OCR intégré, sa correction automatique de perspective et son intégration avec Adobe Acrobat. Microsoft Lens est recommandé pour les utilisateurs de la suite Office 365 (export direct en Word ou PowerPoint). Google Drive scan convient aux utilisateurs Google souhaitant une solution simple et gratuite. Pour un usage intensif, CamScanner Pro (4,99€/mois) offre des fonctionnalités avancées de traitement par lots."

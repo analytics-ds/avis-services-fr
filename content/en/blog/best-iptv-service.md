@@ -8,9 +8,9 @@ description: "Molotov, myCANAL, DAZN, Pluto TV: comparison of the best legal IPT
 categories: ["Digital services"]
 tags: ["IPTV service", "TV streaming", "Molotov", "myCANAL", "DAZN"]
 author: kevin-moreau
-image: "/images/blog/meilleur-service-iptv.jpg"
+image: "/images/blog/meilleur-service-iptv.webp"
 imageAlt: "Television screen displaying a video streaming service"
-imageCredit: "Photo by dpstyles™ via Flickr (CC BY 2.0)"
+imageCredit: "Photo by jurvetson via Flickr (CC BY 2.0)"
 faq:
   - question: "What is the best legal IPTV service in France?"
     answer: "In 2026, Molotov remains the reference for free IPTV with 40 channels accessible without a subscription. For a premium package including Canal+, myCANAL is essential starting at 15.99€/month. For live sport, DAZN (19.99€/month) and beIN Sports Connect (15€/month) stand out. Subscribers to SFR, Orange, Bouygues or Free internet box packages also benefit from IPTV included in their plan."
