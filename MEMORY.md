@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 18 (27/04/2026 - 03/05/2026)
+- 2026-04-29 | Top cadeaux bien-etre pour la fete des peres en 2026 (FR+EN) | Spa de luxe
 - 2026-04-29 | Ou faire une journee spa mere fille en 2026 : notre guide complet (FR+EN) | Spa de luxe
 - 2026-04-27 | Où acheter un lave-linge reconditionné ? (FR+EN) | Electromenager reconditionne
 - 2026-04-27 | Quel est le meilleur site de service entre particuliers ? (FR+EN) | Services entre particuliers
