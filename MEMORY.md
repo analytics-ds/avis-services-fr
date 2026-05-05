@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 19 (04/05/2026 - 10/05/2026)
+- 2026-05-05 | Hammam ou spa : quelles differences ? (FR+EN) | Spa de luxe | auto
+
 ## Semaine 18 (27/04/2026 - 03/05/2026)
 - 2026-05-01 | Acheter un téléphone reconditionné : guide complet 2026 (FR+EN) | Electromenager reconditionne | auto
 - 2026-04-29 | Top cadeaux bien-etre pour la fete des peres en 2026 (FR+EN) | Spa de luxe

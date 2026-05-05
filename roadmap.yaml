@@ -94,10 +94,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-05"
+    published_url_fr: "https://avis-services.fr/blog/hammam-ou-spa-difference/"
+    published_url_en: "https://avis-services.fr/en/blog/hammam-or-spa-difference/"
     error: null
 
   - kw: "meilleur lave linge reconditionne"
