@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 19 (04/05/2026 - 10/05/2026)
+- 2026-05-06 | Quels sont les meilleurs services de prospection commerciale ? (FR+EN) | Review
 - 2026-05-05 | Hammam ou spa : quelles differences ? (FR+EN) | Spa de luxe | auto
 
 ## Semaine 18 (27/04/2026 - 03/05/2026)
