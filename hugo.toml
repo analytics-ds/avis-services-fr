@@ -14,7 +14,6 @@ enableEmoji = false
     languageName = "Francais"
     weight = 1
     title = "Avis Services"
-    contentDir = "content"
     [languages.fr.params]
       description = "Avis et comparatifs de services en ligne : electromenager reconditionne, spa de luxe et bien plus."
 
@@ -23,9 +22,19 @@ enableEmoji = false
     languageName = "English"
     weight = 2
     title = "Avis Services"
-    contentDir = "content/en"
     [languages.en.params]
       description = "Reviews and comparisons of online services: refurbished appliances, luxury spas and more."
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+    lang = "fr"
+    excludeFiles = "en/**"
+  [[module.mounts]]
+    source = "content/en"
+    target = "content"
+    lang = "en"
 
 [taxonomies]
   category = "categories"
