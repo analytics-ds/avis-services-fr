@@ -105,10 +105,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-08"
+    published_url_fr: "https://avis-services.fr/blog/meilleur-lave-linge-reconditionne/"
+    published_url_en: "https://avis-services.fr/en/blog/best-refurbished-washing-machine/"
     error: null
 
   - kw: "massage suedois bienfaits"
