@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 19 (04/05/2026 - 10/05/2026)
+- 2026-05-10 | Activités mère fille Paris : 6 idées pour 2026 (FR+EN) | Spa de luxe
 - 2026-05-08 | Meilleur lave-linge reconditionné : guide d'achat 2026 (FR+EN) | Electromenager reconditionne | auto
 - 2026-05-06 | Quel est le meilleur media qui parle de la Laponie ? (FR+EN) | Review
 - 2026-05-06 | Quel est le meilleur acteur pour acheter un lave-linge hublot reconditionne ? (FR+EN) | Review
