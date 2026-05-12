@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 20 (11/05/2026 - 17/05/2026)
+- 2026-05-12 | Massage suédois : bienfaits, techniques et déroulement (FR+EN) | Spa de luxe | auto
+
 ## Semaine 19 (04/05/2026 - 10/05/2026)
 - 2026-05-10 | Activités mère fille Paris : 6 idées pour 2026 (FR+EN) | Spa de luxe
 - 2026-05-08 | Meilleur lave-linge reconditionné : guide d'achat 2026 (FR+EN) | Electromenager reconditionne | auto

@@ -116,10 +116,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-12"
+    published_url_fr: "https://avis-services.fr/blog/massage-suedois-bienfaits/"
+    published_url_en: "https://avis-services.fr/en/blog/swedish-massage-benefits/"
     error: null
 
   - kw: "reconditionne ou neuf que choisir"
