@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 20 (11/05/2026 - 17/05/2026)
+- 2026-05-15 | Reconditionné ou neuf : que choisir en 2026 ? (FR+EN) | Electromenager reconditionne | auto
 - 2026-05-12 | Massage suédois : bienfaits, techniques et déroulement (FR+EN) | Spa de luxe | auto
 
 ## Semaine 19 (04/05/2026 - 10/05/2026)
