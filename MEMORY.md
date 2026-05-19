@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 21 (18/05/2026 - 24/05/2026)
+- 2026-05-19 | Prix spa luxe Paris : tarifs et adresses en 2026 (FR+EN) | Spa de luxe | auto
+
 ## Semaine 20 (11/05/2026 - 17/05/2026)
 - 2026-05-15 | Reconditionné ou neuf : que choisir en 2026 ? (FR+EN) | Electromenager reconditionne | auto
 - 2026-05-12 | Massage suédois : bienfaits, techniques et déroulement (FR+EN) | Spa de luxe | auto
