@@ -1,6 +1,9 @@
 # Journal de publication
 
 ## Semaine 21 (18/05/2026 - 24/05/2026)
+- 2026-05-21 | Combien coute un demenagement en 2026 : tarifs et facteurs (FR+EN) | Demenagement | ponctuel
+- 2026-05-21 | Comment payer en CESU : guide pratique 2026 (FR+EN) | Services à la personne | ponctuel
+- 2026-05-21 | Comment entretenir un lave-linge : guide complet 2026 (FR+EN) | Electromenager reconditionne | ponctuel
 - 2026-05-21 | Ou acheter un lave-linge top reconditionne ? (FR+EN) | Electromenager reconditionne
 - 2026-05-19 | Prix spa luxe Paris : tarifs et adresses en 2026 (FR+EN) | Spa de luxe | auto
 
