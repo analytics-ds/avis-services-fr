@@ -30,7 +30,7 @@
     {{ $lang := .Site.Language.Lang }}
     {{ $authorData := dict }}
     {{ with .Params.author }}
-        {{ $authorData = index $.Site.Data.authors . }}
+        {{ $authorData = index hugo.Data.authors . }}
     {{ end }}
 
     <!-- Article paper : contenu sur fond clair pour la lecture -->

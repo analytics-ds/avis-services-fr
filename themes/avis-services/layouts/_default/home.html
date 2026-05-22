@@ -149,7 +149,7 @@
                         <div class="article-card-body">
                             <div class="article-meta">
                                 {{ with .Params.author }}
-                                {{ $authorData := index $.Site.Data.authors . }}
+                                {{ $authorData := index hugo.Data.authors . }}
                                 {{ with $authorData }}<span class="article-meta-author">{{ .name }}</span>{{ end }}
                                 <span class="meta-separator">·</span>
                                 {{ end }}
@@ -186,7 +186,7 @@
                         <h3>{{ .Title }}</h3>
                         <div class="featured-card-meta">
                             {{ with .Params.author }}
-                            {{ $authorData := index $.Site.Data.authors . }}
+                            {{ $authorData := index hugo.Data.authors . }}
                             {{ with $authorData }}{{ i18n "by_author" }} <strong>{{ .name }}</strong> · {{ end }}
                             {{ end }}
                             {{ .Date.Format "2 January 2006" }}

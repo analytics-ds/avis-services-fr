@@ -41,7 +41,7 @@
         </nav>
 
         <div class="header-right">
-            {{ if gt (len .Site.Languages) 1 }}
+            {{ if gt (len hugo.Sites) 1 }}
             {{ $currentFlag := index $flags $currentLang }}
             <div class="lang-switcher" data-lang-switcher>
                 <button type="button" class="lang-switcher-trigger" aria-haspopup="listbox" aria-expanded="false" aria-label="Select language">
@@ -50,8 +50,8 @@
                     <svg width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true"><path d="M2 3.5L5 6.5L8 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
                 </button>
                 <ul class="lang-switcher-menu" role="listbox">
-                    {{ range .Site.Languages }}
-                    {{ $targetLang := .Lang }}
+                    {{ range hugo.Sites }}
+                    {{ $targetLang := .Language.Lang }}
                     {{ $flagData := index $flags $targetLang }}
                     {{ $isCurrent := eq $targetLang $currentLang }}
                     {{ $target := index $translationsByLang $targetLang }}
@@ -92,11 +92,11 @@
         {{ end }}
         <div class="nav-mobile-section-label">{{ i18n "navigation" }}</div>
         <a href="{{ "blog/" | relLangURL }}" class="nav-link-mobile">{{ i18n "nav_blog" }}</a>
-        {{ if gt (len .Site.Languages) 1 }}
+        {{ if gt (len hugo.Sites) 1 }}
         <div class="nav-mobile-section-label">Language</div>
         <div class="lang-switcher-mobile">
-            {{ range .Site.Languages }}
-            {{ $targetLang := .Lang }}
+            {{ range hugo.Sites }}
+            {{ $targetLang := .Language.Lang }}
             {{ $flagData := index $flags $targetLang }}
             {{ $isCurrent := eq $targetLang $currentLang }}
             {{ $target := index $translationsByLang $targetLang }}

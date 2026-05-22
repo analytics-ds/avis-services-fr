@@ -10,31 +10,23 @@ enableEmoji = false
 
 [languages]
   [languages.fr]
-    languageCode = "fr-FR"
-    languageName = "Francais"
+    locale = "fr-FR"
+    label = "Francais"
     weight = 1
+    contentDir = "content/fr"
     title = "Avis Services"
     [languages.fr.params]
       description = "Avis et comparatifs de services en ligne : electromenager reconditionne, spa de luxe et bien plus."
 
   [languages.en]
-    languageCode = "en-US"
-    languageName = "English"
+    locale = "en-US"
+    label = "English"
     weight = 2
+    contentDir = "content/en"
     title = "Avis Services"
     [languages.en.params]
       description = "Reviews and comparisons of online services: refurbished appliances, luxury spas and more."
 
-[module]
-  [[module.mounts]]
-    source = "content"
-    target = "content"
-    lang = "fr"
-    excludeFiles = "en/**"
-  [[module.mounts]]
-    source = "content/en"
-    target = "content"
-    lang = "en"
 
 [taxonomies]
   category = "categories"
