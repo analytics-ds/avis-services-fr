@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 22 (25/05/2026 - 31/05/2026)
+- 2026-05-28 | Top massages duo anniversaire couple : palaces et spas 2026 (FR+EN) | Spa de luxe | client Sezame
 - 2026-05-28 | Ou acheter un lave-vaisselle reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | ponctuel
 
 ## Semaine 21 (18/05/2026 - 24/05/2026)
