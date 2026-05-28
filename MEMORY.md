@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 22 (25/05/2026 - 31/05/2026)
+- 2026-05-28 | Ou acheter un lave-vaisselle reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | ponctuel
+
 ## Semaine 21 (18/05/2026 - 24/05/2026)
 - 2026-05-21 | Combien coute un demenagement en 2026 : tarifs et facteurs (FR+EN) | Demenagement | ponctuel
 - 2026-05-21 | Comment payer en CESU : guide pratique 2026 (FR+EN) | Services à la personne | ponctuel
