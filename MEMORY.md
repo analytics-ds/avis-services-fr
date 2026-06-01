@@ -1,6 +1,9 @@
 # Journal de publication
 
 ## Semaine 23 (01/06/2026 - 07/06/2026)
+- 2026-06-01 | Nettoyage canape tissu : methodes, prix et conseils 2026 (FR+EN) | Services à la personne | ponctuel
+- 2026-06-01 | Homme toutes mains : services, tarifs et choix en 2026 (FR+EN) | Services à la personne | ponctuel
+- 2026-06-01 | Tarif conciergerie Airbnb : grille de prix et services 2026 (FR+EN) | Conciergerie | ponctuel
 - 2026-06-01 | Ou acheter un refrigerateur reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
 
 ## Semaine 22 (25/05/2026 - 31/05/2026)
