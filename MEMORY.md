@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 23 (01/06/2026 - 07/06/2026)
+- 2026-06-01 | Ou acheter un refrigerateur reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
+
 ## Semaine 22 (25/05/2026 - 31/05/2026)
 - 2026-05-28 | Meilleure carte cadeau spa duo : guide d'achat et top 4 en 2026 (FR+EN) | Spa de luxe | client Sezame
 - 2026-05-28 | Top massages duo anniversaire couple : palaces et spas 2026 (FR+EN) | Spa de luxe | client Sezame
