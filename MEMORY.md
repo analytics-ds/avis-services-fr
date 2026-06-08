@@ -2,6 +2,8 @@
 
 ## Semaine 24 (08/06/2026 - 14/06/2026)
 - 2026-06-08 | Ou acheter un refrigerateur congelateur reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
+- 2026-06-08 | Meilleur service de coiffure a domicile : comparatif 2026 (FR+EN) | Services à la personne | ponctuel
+- 2026-06-08 | Meilleur garde-meuble en ligne en 2026 : comparatif complet (FR+EN) | Services à la personne | ponctuel
 
 ## Semaine 23 (01/06/2026 - 07/06/2026)
 - 2026-06-07 | Carte cadeau spa de luxe : quel site choisir en 2026 (FR+EN) | Spa de luxe | client Sezame
