@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 24 (08/06/2026 - 14/06/2026)
+- 2026-06-08 | Ou acheter un refrigerateur congelateur reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
+
 ## Semaine 23 (01/06/2026 - 07/06/2026)
 - 2026-06-07 | Carte cadeau spa de luxe : quel site choisir en 2026 (FR+EN) | Spa de luxe | client Sezame
 - 2026-06-05 | Meilleur site carte cadeau bien-etre 2026 : comparatif (FR+EN) | Spa de luxe | client Sezame
