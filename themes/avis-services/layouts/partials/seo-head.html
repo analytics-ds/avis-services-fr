@@ -123,8 +123,8 @@
 {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": {{ .Title | jsonify }},
-    "description": {{ .Description | jsonify }},
+    "headline": "{{ .Title }}",
+    "description": "{{ .Description }}",
     "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
@@ -139,18 +139,18 @@
     {{ with $author }}
     "author": {
         "@type": "{{ if eq .type "organization" }}Organization{{ else }}Person{{ end }}",
-        "name": {{ .name | jsonify }}{{ with .avatar }},
+        "name": "{{ .name }}"{{ with .avatar }},
         "image": "{{ . | absURL }}"{{ end }}{{ with index .jobTitle $lang }},
-        "jobTitle": {{ . | jsonify }}{{ end }}{{ with index .bio $lang }},
-        "description": {{ . | jsonify }}{{ end }}{{ with .expertise }},
-        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e | jsonify }}{{ end }}]{{ end }}{{ with .linkedinUrl }},
+        "jobTitle": "{{ . }}"{{ end }}{{ with index .bio $lang }},
+        "description": "{{ . }}"{{ end }}{{ with .expertise }},
+        "knowsAbout": [{{ range $i, $e := . }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }}]{{ end }}{{ with .linkedinUrl }},
         "sameAs": ["{{ . }}"]{{ end }},
         "worksFor": { "@id": "{{ $.Site.BaseURL }}#organization" }
     },
     {{ end }}
     "publisher": {
         "@type": "Organization",
-        "name": {{ .Site.Title | jsonify }},
+        "name": "{{ .Site.Title }}",
         "@id": "{{ .Site.BaseURL }}#organization"
     },
     "mainEntityOfPage": {
@@ -159,10 +159,10 @@
     },
     "isPartOf": {
         "@type": "Blog",
-        "name": {{ .Site.Title | jsonify }},
+        "name": "{{ .Site.Title }}",
         "url": "{{ .Site.BaseURL }}"
     }{{ with .Params.tags }},
-    "keywords": [{{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t | jsonify }}{{ end }}]{{ end }}
+    "keywords": [{{ range $i, $t := . }}{{ if $i }}, {{ end }}"{{ $t }}"{{ end }}]{{ end }}
 }
 </script>
 
@@ -175,25 +175,25 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": {{ (i18n "breadcrumb_home") | jsonify }},
+            "name": "{{ i18n "breadcrumb_home" }}",
             "item": "{{ .Site.BaseURL }}"
         },
         {
             "@type": "ListItem",
             "position": 2,
-            "name": {{ (i18n "breadcrumb_blog") | jsonify }},
+            "name": "{{ i18n "breadcrumb_blog" }}",
             "item": "{{ "blog/" | absLangURL }}"
         }{{ with .Params.categories }}{{ range . }},
         {
             "@type": "ListItem",
             "position": 3,
-            "name": {{ . | jsonify }},
+            "name": "{{ . }}",
             "item": "{{ (printf "categories/%s/" (. | urlize)) | absLangURL }}"
         }{{ end }}{{ end }},
         {
             "@type": "ListItem",
             "position": 4,
-            "name": {{ .Title | jsonify }},
+            "name": "{{ .Title }}",
             "item": "{{ .Permalink }}"
         }
     ]
@@ -210,10 +210,10 @@
         {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
         {
             "@type": "Question",
-            "name": {{ $item.question | jsonify }},
+            "name": "{{ $item.question }}",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ $item.answer | jsonify }}
+                "text": "{{ $item.answer }}"
             }
         }
         {{ end }}
@@ -230,8 +230,8 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": "{{ .Site.BaseURL }}#website",
-    "name": {{ .Site.Title | jsonify }},
-    "description": {{ .Site.Params.description | jsonify }},
+    "name": "{{ .Site.Title }}",
+    "description": "{{ .Site.Params.description }}",
     "url": "{{ .Site.BaseURL }}",
     "publisher": { "@id": "{{ .Site.BaseURL }}#organization" },
     "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
@@ -253,8 +253,8 @@
 {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": {{ .Title | jsonify }},
-    "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.description | jsonify }}{{ end }},
+    "name": "{{ .Title }}",
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "url": "{{ .Permalink }}",
     "inLanguage": "{{ .Site.Language.Locale | default "fr-FR" }}",
     "isPartOf": { "@id": "{{ .Site.BaseURL }}#website" },
@@ -267,7 +267,7 @@
                 "@type": "ListItem",
                 "position": {{ add $i 1 }},
                 "url": "{{ $p.Permalink }}",
-                "name": {{ $p.Title | jsonify }}
+                "name": "{{ $p.Title }}"
             }
             {{ end }}
         ]
@@ -282,13 +282,13 @@
         {
             "@type": "ListItem",
             "position": 1,
-            "name": {{ (i18n "breadcrumb_home") | jsonify }},
+            "name": "{{ i18n "breadcrumb_home" }}",
             "item": "{{ .Site.BaseURL }}"
         },
         {
             "@type": "ListItem",
             "position": 2,
-            "name": {{ .Title | jsonify }},
+            "name": "{{ .Title }}",
             "item": "{{ .Permalink }}"
         }
     ]

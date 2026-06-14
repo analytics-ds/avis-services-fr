@@ -23,7 +23,10 @@
                     <ul>
                         <li><a href="{{ "/" | relLangURL }}">{{ i18n "nav_home" }}</a></li>
                         <li><a href="{{ "blog/" | relLangURL }}">{{ i18n "nav_blog" }}</a></li>
-                        <li><a href="{{ "plan-du-site/" | relLangURL }}">{{ i18n "sitemap_link" }}</a></li>
+                        {{ $sitemapPage := index (where (where .Site.Pages "Lang" $currentLang) "TranslationKey" "sitemap") 0 }}
+                        {{ with $sitemapPage }}
+                        <li><a href="{{ .RelPermalink }}">{{ i18n "sitemap_link" }}</a></li>
+                        {{ end }}
                     </ul>
                 </nav>
             </div>
