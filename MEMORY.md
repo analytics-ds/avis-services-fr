@@ -1,5 +1,11 @@
 # Journal de publication
 
+## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-22 | Meilleur VPN 2026 : comparatif des fournisseurs et criteres de choix (FR+EN) | Services numeriques | ponctuel (queued)
+
+## Semaine 25 (15/06/2026 - 21/06/2026)
+- 2026-06-18 | Spa privatif en couple : guide complet, prix et reservations (FR+EN) | Spa de luxe | ponctuel (queued)
+
 ## Semaine 24 (08/06/2026 - 14/06/2026)
 - 2026-06-14 | Massage duo en palace a Paris : ou reserver en 2026 (FR+EN) | Spa de luxe | client Sezame
 - 2026-06-14 | Quel site pour reserver un spa : comparatif 2026 (FR+EN) | Spa de luxe | client Sezame

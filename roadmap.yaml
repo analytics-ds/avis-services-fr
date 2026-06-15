@@ -154,3 +154,27 @@ articles:
     published_url_fr: "https://avis-services.fr/blog/ipad-reconditionne-avis/"
     published_url_en: "https://avis-services.fr/en/blog/refurbished-ipad-review/"
     error: null
+
+  - kw: "spa privatif couple"
+    category: "Spa de luxe"
+    volume: 2300
+    kd: null
+    scheduled_date: "2026-06-18"
+    status: queued
+    queued_date: "2026-06-15"
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur vpn"
+    category: "Services numériques"
+    volume: 508
+    kd: null
+    scheduled_date: "2026-06-22"
+    status: queued
+    queued_date: "2026-06-15"
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
