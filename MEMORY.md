@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-23 | Ou acheter un seche-linge reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
 - 2026-06-22 | Meilleur VPN 2026 : comparatif des fournisseurs et criteres de choix (FR+EN) | Services numeriques | ponctuel (queued)
 
 ## Semaine 25 (15/06/2026 - 21/06/2026)
