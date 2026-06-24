@@ -34,9 +34,7 @@
         </a>
 
         <nav class="site-nav" role="navigation" aria-label="{{ i18n "nav_main" }}">
-            {{ range $localCats }}
-            <a href="{{ .RelPermalink }}" class="nav-link">{{ .Title }}</a>
-            {{ end }}
+            <a href="{{ "categories/" | relLangURL }}" class="nav-link">{{ i18n "our_categories" }}</a>
             <a href="{{ "blog/" | relLangURL }}" class="nav-link">{{ i18n "nav_blog" }}</a>
         </nav>
 
@@ -83,14 +81,8 @@
     </div>
 
     <nav class="nav-mobile" aria-label="{{ i18n "nav_mobile" }}">
-        <div class="nav-mobile-section-label">{{ i18n "nav_categories" }}</div>
-        {{ range $localCats }}
-        <a href="{{ .RelPermalink }}" class="nav-link-mobile">
-            <span aria-hidden="true">{{ .Params.icon | default "◆" }}</span>
-            {{ .Title }}
-        </a>
-        {{ end }}
         <div class="nav-mobile-section-label">{{ i18n "navigation" }}</div>
+        <a href="{{ "categories/" | relLangURL }}" class="nav-link-mobile">{{ i18n "our_categories" }}</a>
         <a href="{{ "blog/" | relLangURL }}" class="nav-link-mobile">{{ i18n "nav_blog" }}</a>
         {{ if gt (len hugo.Sites) 1 }}
         <div class="nav-mobile-section-label">Language</div>
