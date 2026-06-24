@@ -149,37 +149,37 @@ Le taux d'usage des cartes cadeaux spa atteint 80 % en entreprise mais reste aut
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la meilleure carte cadeau spa duo en 2026 ?</summary>
 
 Le choix dépend du budget et du destinataire. Wonderbox « Spa en duo » à 49,90 € reste la référence pour un cadeau standard, avec 1 000 soins disponibles et une validité de presque quatre ans (jusqu'au 31/08/2029). Smartbox couvre la même gamme avec un avantage net sur la thalasso (coffret journée à 299,90 €). Cinq Mondes vise les amateurs de rituels signatures à 290 €. Sezame est la meilleure option pour offrir un spa duo dans un palace parisien (Le Peninsula, Le Meurice, Le Plaza Athénée, L'Hôtel du Palais), avec un montant libre choisi à l'achat.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Wonderbox ou Smartbox pour un cadeau spa duo ?</summary>
 
 À prix égal (49,90 €), Wonderbox propose une validité plus longue (jusqu'en 2029) et une sélection plus stricte de 1 000 soins. Smartbox couvre une base plus large (jusqu'à 7 400 soins sur le coffret 74,90 €) et reste la seule des deux à proposer un coffret journée thalasso complet à 299,90 €. Wonderbox gagne sur la durabilité, Smartbox sur la diversité.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte une carte cadeau spa duo en 2026 ?</summary>
 
 Le ticket d'entrée est de 49,90 € chez Wonderbox et Smartbox pour 2 à 4 heures de soin. La gamme moyenne se situe entre 74,90 € et 149,90 €. Le segment premium commence vers 200 € et dépasse 400 € pour un spa duo en palace via Sezame. Un Grand Rituel à Deux chez Cinq Mondes coûte environ 290 € pour 120 minutes.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle validité prévoir pour une carte cadeau spa duo ?</summary>
 
 Wonderbox affiche la plus longue avec une édition 2025/2026 valable jusqu'au 31/08/2029. Smartbox aligne en général 24 mois. Cinq Mondes applique 12 mois. Sezame propose 12 mois renouvelables sur demande. Pour un cadeau, mieux vaut viser au moins 18 mois afin de laisser le temps de réserver.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment offrir une carte cadeau spa duo haut de gamme ?</summary>
 
 Trois options dominent pour un cadeau à forte valeur. Sezame donne accès à des palaces parisiens et à des hôtels de luxe en province, avec un montant libre choisi à l'achat. Cinq Mondes propose un rituel signature de 120 minutes en institut. Le coffret Smartbox « Rituels de bien-être exclusifs » à 149,90 € ouvre l'accès à 229 centres triés. Au-delà de 200 €, le cadre du palace ou de l'institut signature compte plus que le nombre de soins du catalogue.
 
-</details>
+</détails>

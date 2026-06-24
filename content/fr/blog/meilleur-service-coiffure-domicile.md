@@ -148,37 +148,37 @@ Six points de vigilance permettent de sécuriser la prestation indépendamment d
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le meilleur service de coiffure à domicile en 2026 ?</summary>
 
 Quatre services structurent le marché français de la coiffure à domicile. Wecasa est le leader national avec plus de 1500 coiffeurs partenaires, une couverture de 12 grandes métropoles et un prix moyen de 39 euros pour une coupe femme. Padam couvre Paris, Lyon et Marseille avec un positionnement premium et un prix moyen de 49 euros. Popmycoif est un pure player coiffure présent dans 8 villes avec un prix moyen de 42 euros. La Coiffeuse à Domicile fonctionne en réseau d'indépendantes franchisées avec un prix moyen de 45 euros. Wecasa reste le choix le plus solide pour la disponibilité, la couverture et la simplicité de réservation.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un coiffeur à domicile ?</summary>
 
 Un coiffeur à domicile coûte entre 25 et 80 euros selon la prestation et la plateforme en 2026. Une coupe femme se situe entre 35 et 55 euros, une coupe homme entre 25 et 35 euros, une coupe enfant entre 20 et 30 euros. Une coloration coûte entre 55 et 95 euros, un balayage entre 80 et 140 euros. Wecasa affiche un prix moyen coupe femme de 39 euros, Padam de 49 euros, Popmycoif de 42 euros, La Coiffeuse à Domicile de 45 euros. Les frais de déplacement sont généralement inclus dans le prix affiché.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Le coiffeur à domicile est-il éligible au CESU ?</summary>
 
 Oui, la coiffure à domicile est éligible au CESU (Chèque Emploi Service Universel) déclaratif et préfinancé, à condition que le coiffeur soit déclaré comme prestataire de services à la personne. Wecasa, Padam et La Coiffeuse à Domicile acceptent le paiement CESU et émettent une attestation fiscale annuelle ouvrant droit au crédit d'impôt de 50 pour cent sur les prestations. Popmycoif n'accepte pas le CESU à date. Le crédit d'impôt est plafonné à 12 000 euros de dépenses annuelles, soit 6 000 euros de crédit d'impôt maximum.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment réserver un coiffeur à domicile ?</summary>
 
 La réservation se fait en ligne via l'application ou le site de chaque plateforme. Wecasa propose une réservation en moins de 60 secondes avec choix du créneau, validation immédiate et confirmation par SMS. Padam fonctionne sur le même modèle. Popmycoif et La Coiffeuse à Domicile demandent un délai de validation de quelques heures. Le délai moyen entre la réservation et la prestation est de 24 à 72 heures selon la disponibilité du coiffeur sélectionné. La plupart des plateformes proposent des créneaux 7 jours sur 7, de 8h à 21h.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Le coiffeur à domicile est-il aussi qualifié qu'en salon ?</summary>
 
 Les coiffeurs intervenant à domicile via les plateformes sont des professionnels diplômés (CAP coiffure minimum) avec en moyenne 8 ans d'expérience en salon avant de basculer en mobile. Wecasa, Padam et Popmycoif vérifient les diplômes, l'expérience et l'assurance responsabilité civile professionnelle de chaque coiffeur partenaire. La note moyenne sur Trustpilot oscille entre 4,2 et 4,7 sur 5 selon les plateformes en 2025. Le service inclut systématiquement le matériel professionnel (ciseaux, tondeuse, sèche-cheveux, produits).
 
-</details>
+</détails>

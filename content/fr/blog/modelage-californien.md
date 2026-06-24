@@ -134,37 +134,37 @@ Les aidants familiaux qui accompagnent un proche âgé figurent parmi les profil
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Qu'est-ce que le modelage californien et quels sont ses bienfaits ?</summary>
 
 Le modelage californien est un massage relaxant enchaînant des mouvements longs, lents et enveloppants sur l'ensemble du corps. Il réduit le stress de 40 pour cent en moyenne, améliore le sommeil et favorise la détente musculaire. Une séance dure généralement 60 à 90 minutes et coûte entre 80 et 150 euros en spa de luxe.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle différence entre un modelage californien et un massage suédois ?</summary>
 
 Le californien est un modelage enveloppant aux mouvements lents et continus axé sur la détente émotionnelle. Le suédois alterne pressions fortes, percussions et pétrissages ciblés sur les zones tendues. Le californien vise la relaxation globale, le suédois vise la récupération musculaire.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un modelage californien ?</summary>
 
 Le prix d'un modelage californien en spa de luxe se situe entre 80 et 150 euros pour une séance de 60 minutes. Une formule 90 minutes oscille entre 120 et 200 euros. Les hôtels 5 étoiles facturent jusqu'à 250 euros pour une expérience signature.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelles sont les contre-indications du modelage californien ?</summary>
 
 Le modelage californien est déconseillé en cas de fièvre, infection cutanée, phlébite, cancer en phase active, troubles cardiovasculaires graves ou juste après une intervention chirurgicale. La grossesse n'est pas une contre-indication mais nécessite un praticien formé aux femmes enceintes.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>À quelle fréquence faire un modelage californien ?</summary>
 
 Une fréquence idéale se situe entre une et deux séances par mois pour un effet cumulatif sur le stress et le sommeil. Une séance hebdomadaire est possible dans des périodes de fort stress professionnel ou de récupération, sans risque pour la majorité des profils.
 
-</details>
+</détails>

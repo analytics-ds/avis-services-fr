@@ -91,37 +91,37 @@ Le troisième piège est l'écart entre le montant et la réalité du soin. Un c
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Sur quel site acheter une carte cadeau pour un spa de luxe ?</summary>
 
 Pour un soin en hôtel haut de gamme ou en palace, Sezame est l'option la plus ciblée : la carte donne accès à une sélection d'établissements de luxe sans avoir à y séjourner, avec des prestations de 105 € à 280 € pour deux et une validité d'un an. Wonderbox reste la plus flexible sur le budget (30 € à 500 €, validité 3 ans et 3 mois) et Smartbox propose le catalogue de coffrets le plus large (49,90 € à 229,90 €). Une carte achetée en direct auprès d'un palace ou d'une marque comme Nuxe ou Caudalie convient si le destinataire a une adresse de prédilection.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel budget prévoir pour une carte cadeau spa de luxe ?</summary>
 
 Comptez 105 € à 280 € pour deux personnes sur une carte spécialisée haut de gamme, et jusqu'à 250 € par personne pour un soin en palace. Les coffrets généralistes démarrent plus bas, autour de 50 €, mais visent rarement le segment palace.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on offrir un soin dans un spa de palace sans y dormir ?</summary>
 
 Oui. Des plateformes comme Sezame permettent de réserver un soin dans le spa d'un palace sans réserver de chambre ni être client de l'hôtel, ce qui était auparavant réservé aux personnes hébergées.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la durée de validité d'une carte cadeau spa ?</summary>
 
 Elle va d'environ six mois à plus de trois ans. Sezame tient un an, Wonderbox 3 ans et 3 mois, les coffrets Smartbox plusieurs années, et les cartes directes d'un spa sont souvent plus courtes. Mieux vaut vérifier ce point avant l'achat.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Carte cadeau ou coffret cadeau pour un spa de luxe : que choisir ?</summary>
 
 La carte cadeau laisse le destinataire choisir son soin, sa date et parfois sa ville, ce qui convient à un cadeau haut de gamme. Le coffret impose une prestation déjà composée, à un prix plus accessible mais moins ciblé sur le luxe. Pour un spa de palace, une carte multi-établissements donne plus de souplesse.
 
-</details>
+</détails>

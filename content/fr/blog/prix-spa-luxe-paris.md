@@ -124,30 +124,30 @@ Pour ceux qui souhaitent compléter leur parcours bien-être, les [bienfaits du 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le prix d'un spa de luxe à Paris ?</summary>
 
 Le prix d'un spa de luxe à Paris varie entre 80 et 350 euros pour un soin de 60 minutes. L'accès à la journée aux espaces thermaux des palaces oscille entre 140 et 250 euros par personne. Les spas privatifs pour deux personnes proposent des formules d'une heure à partir de 119 euros.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le meilleur spa de luxe à Paris ?</summary>
 
 Parmi les adresses les plus réputées en 2026 figurent le Dior Spa du Cheval Blanc, le spa La Réserve Paris, le Guerlain Spa du Royal Monceau et le Carita Spa. Chaque établissement se distingue par des soins signatures, des marques exclusives et des espaces thermaux d'exception.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'un spa privatif à Paris pour 2 personnes ?</summary>
 
 Un spa privatif à Paris pour deux personnes coûte entre 119 euros pour une heure et 399 euros pour cinq heures en semaine. Les week-ends et jours fériés appliquent généralement une majoration de 10 à 30 euros selon les établissements.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'entrée au spa Chanel du Ritz Club ?</summary>
 
 Le spa Chanel du Ritz Club Paris propose des soins à partir de 200 euros environ pour une séance de 60 minutes. L'accès à l'espace piscine et bien-être est réservé aux résidents ou membres du Ritz Club, avec des tarifs journaliers autour de 200 euros hors soins.
 
-</details>
+</détails>

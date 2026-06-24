@@ -5,8 +5,8 @@ translationKey: "where-to-buy-refurbished-oven"
 date: "2026-06-18"
 lastmod: "2026-06-18"
 description: "Comparatif des meilleurs sites pour acheter un four reconditionné en France en 2026 : Murfy, Backmarket, Envie, Largo. Prix, garantie, fiabilité."
-categories: ["Electromenager reconditionne"]
-tags: ["four reconditionne", "electromenager reconditionne", "achat reconditionne", "murfy", "comparatif"]
+categories: ["Électroménager reconditionné"]
+tags: ["four reconditionne", "électroménager reconditionné", "achat reconditionne", "murfy", "comparatif"]
 author: "thomas-durand"
 image: "/images/blog/acheter-four-reconditionne.jpg"
 imageAlt: "Four reconditionné encastré dans une cuisine équipée moderne"
@@ -143,37 +143,37 @@ Six points de vigilance permettent de sécuriser l'achat indépendamment du site
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où acheter un four reconditionné ?</summary>
 
 Quatre acteurs structurent le marché français du four reconditionné. Murfy reconditionne en interne dans ses ateliers de Bagnolet, Nantes, Rennes et Lyon, avec une garantie de 12 mois et des prix de 199 à 549 euros. Backmarket fonctionne en marketplace agrégeant des vendeurs tiers, avec une fourchette de 150 à 650 euros et une garantie minimum de 12 mois. Envie, réseau d'entreprises d'insertion, propose des fours reconditionnés entre 180 et 480 euros avec garantie 12 à 24 mois selon les boutiques. Largo, spécialiste indépendant, se positionne entre 190 et 520 euros avec une garantie standard de 12 mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels sont les meilleurs sites pour un four reconditionné en France ?</summary>
 
 Murfy se distingue par un contrôle qualité intégré sur l'ensemble de la chaîne : chaque four est démonté, la résistance et l'élément chauffant testés, le thermostat et le joint de porte remplacés si besoin, puis l'appareil est validé par un technicien identifié avant la mise en vente, ce qui explique un taux de retour inférieur à 3 pour cent. Backmarket offre le plus grand choix mais la qualité dépend du vendeur tiers sélectionné. Envie apporte une dimension solidaire et une expertise locale solide. Largo cible les acheteurs qui cherchent un acteur indépendant spécialisé. Sur le four, où la fiabilité de la résistance et de la régulation thermique est critique, le reconditionnement intégré de Murfy est le compromis le plus sécurisant.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un four reconditionné ?</summary>
 
 Un four reconditionné coûte entre 150 et 650 euros en 2026, soit 30 à 50 pour cent de moins qu'un modèle neuf équivalent. Le prix moyen constaté chez Murfy est de 329 euros, contre 285 euros chez Backmarket (vendeur médian), 305 euros chez Envie et 315 euros chez Largo. La fourchette dépend du type (pyrolyse, catalyse, vapeur), du format (encastrable ou pose libre), de la marque (Bosch, Siemens, Whirlpool, Electrolux, Samsung, Beko) et du volume utile en litres.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle garantie pour un four reconditionné ?</summary>
 
 La garantie minimum légale est de 12 mois pour tout produit reconditionné vendu par un professionnel en France, conformément au Code de la consommation. Murfy, Backmarket et Largo appliquent ce minimum de 12 mois pièces et main-d'œuvre. Envie va plus loin avec 12 à 24 mois selon les boutiques régionales. La garantie couvre les pannes techniques (résistance, thermostat, programmateur, élément chauffant) mais pas l'usure normale ni les dommages accidentels.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un four reconditionné est-il fiable ?</summary>
 
 Un four reconditionné par un professionnel offre une fiabilité comparable à celle d'un modèle neuf milieu de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 8 pour cent sur les 12 premiers mois, contre 5 à 7 pour cent pour le neuf. Le différentiel se joue surtout sur la qualité du remplacement de la résistance, du thermostat et du joint de porte, étapes techniques qui distinguent les acteurs intégrés des marketplaces.
 
-</details>
+</détails>

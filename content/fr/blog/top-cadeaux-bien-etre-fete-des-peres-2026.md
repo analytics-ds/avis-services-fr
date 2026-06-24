@@ -115,37 +115,37 @@ Un cadeau bien-être réussi pour la fête des pères se construit autour de cin
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quels sont les meilleurs cadeaux bien-être pour la fête des pères en 2026 ?</summary>
 
 Les cinq formats les plus performants pour la fête des pères 2026 sont la carte cadeau spa (de 50 à 500 euros), le massage en institut (de 70 à 150 euros l'heure), le coffret bien-être Smartbox ou Wonderbox (de 30 à 200 euros), le séjour thalasso ou spa (de 200 à 600 euros par personne) et l'accès aux équipements spa hammam, jacuzzi et sauna (de 30 à 80 euros). La carte cadeau spa reste l'option la plus offerte grâce à sa flexibilité.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la date de la fête des pères en 2026 ?</summary>
 
 En France, la fête des pères 2026 se tient le dimanche 21 juin, soit le troisième dimanche de juin selon la tradition nationale. La date varie ailleurs en Europe : en Italie, la célébration tombe le 19 mars.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel budget faut-il pour un cadeau bien-être à offrir à son père ?</summary>
 
 Le budget moyen observé pour un cadeau de fête des pères en France se situe entre 50 et 100 euros. Pour rester dans cette enveloppe, un massage d'une heure (70 à 100 euros) ou un coffret bien-être Smartbox (à partir de 30 euros) sont des options solides. Au-delà, comptez 100 à 200 euros pour une carte cadeau spa généraliste, et 300 à 600 euros pour un séjour spa premium.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel cadeau choisir pour un père qui a déjà tout ?</summary>
 
 Pour un père qui n'a plus besoin de rien, le cadeau d'expérience est la meilleure réponse. Une carte cadeau spa dans un palace, un séjour bien-être dans une région qu'il aime ou un soin signature dans un établissement reconnu fonctionnent particulièrement bien. La valeur perçue se loge dans la qualité du cadre, plus que dans le ticket payé.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la durée de validité d'une carte cadeau spa ?</summary>
 
 En France, la durée de validité standard d'une carte cadeau spa est de 12 mois à compter de la date d'achat. Les coffrets Smartbox et Wonderbox proposent une validité de 3 ans, avec une option d'échange si le soin choisi est indisponible. Il reste recommandé de vérifier les conditions exactes à l'achat.
 
-</details>
+</détails>

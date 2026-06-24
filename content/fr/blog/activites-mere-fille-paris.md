@@ -154,37 +154,37 @@ Les **activités mère fille Paris** s'adaptent aux moments. Anniversaire rond (
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelles activités faire entre mère et fille à Paris ?</summary>
 
 Six grands formats se partagent la demande en 2026 à Paris : la journée spa en palace ou en spa urbain (75 à 560 euros pour deux), le brunch ou afternoon tea en palace (90 à 180 euros par personne), l'atelier cuisine ou pâtisserie (95 à 220 euros par personne), le shopping avec personal shopper (gratuit à 250 euros pour une demi-journée), le dîner-croisière sur la Seine (75 à 165 euros par personne) et l'atelier parfum chez Fragonard ou Galimard (85 à 140 euros par personne). La journée spa reste la formule la plus complète sur les critères durée, déconnexion et prestige.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel budget prévoir pour une activité mère fille à Paris ?</summary>
 
 Les écarts sont importants entre formats. De 35 euros pour deux pour une expo immersive courte à plus de 560 euros pour une journée spa en palace avec brunch. La fourchette moyenne se situe entre 150 et 300 euros pour deux pour une activité de 2 à 3 heures avec un cadre soigné.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle activité mère fille pour la fête des mères 2026 ?</summary>
 
 La fête des mères tombe le dimanche 7 juin 2026. Les trois formats les plus plébiscités pour cette occasion sont la journée spa en palace (à réserver 3 à 4 semaines avant), le brunch dominical en hôtel de luxe (à réserver 2 à 3 semaines avant) et l'atelier cuisine signé par un chef étoilé (à réserver 2 semaines avant). La carte cadeau spa reste la formule la plus flexible quand l'agenda de la mère n'est pas connu.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>À partir de quel âge peut-on faire un spa mère fille ?</summary>
 
 Les spas urbains parisiens accueillent les enfants dès 11 ans avec des soins juniors adaptés. Les palaces relèvent généralement l'âge minimum à 16 ans pour les protocoles corps complets, avec quelques exceptions à 12 ans pour des soins limités au visage et aux mains. L'autorisation parentale est requise pour les mineurs.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle activité choisir pour une mère et sa fille adolescente ?</summary>
 
 Les formats courts et ludiques fonctionnent mieux avec une fille adolescente : escape game (1 heure, 25 à 35 euros par personne), exposition immersive type Atelier des Lumières (1 h 30, 18 à 25 euros), atelier pâtisserie chez un chef étoilé (2 heures, 95 à 130 euros) ou demi-journée spa avec soin du visage adapté aux peaux jeunes (2 à 3 heures, 120 à 200 euros par personne). Le dîner-croisière sur la Seine fonctionne aussi très bien pour une grande occasion.
 
-</details>
+</détails>

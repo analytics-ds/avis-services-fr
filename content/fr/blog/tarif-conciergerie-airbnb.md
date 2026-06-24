@@ -120,37 +120,37 @@ Cinq points de vigilance permettent de sécuriser le choix d'une conciergerie Ai
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le tarif d'une conciergerie Airbnb ?</summary>
 
 Le tarif d'une conciergerie Airbnb se situe entre 15 et 25 pour cent du chiffre d'affaires généré en 2026, avec une moyenne nationale de 20 pour cent. Pour un appartement parisien loué 150 euros la nuit avec 18 nuitées par mois (chiffre d'affaires de 2 700 euros), la commission de conciergerie représente entre 405 et 675 euros mensuels. Certaines conciergeries facturent à la place un forfait fixe par check-in (40 à 80 euros) ou une formule au forfait mensuel (entre 250 et 600 euros), surtout en province.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Que comprend une conciergerie Airbnb ?</summary>
 
 Une conciergerie Airbnb gère pour le propriétaire l'ensemble des opérations liées à la location courte durée. Le service standard inclut : annonce et photos professionnelles, gestion du calendrier et du pricing dynamique, communication avec les voyageurs avant et pendant le séjour, check-in et check-out (remise des clés ou boîte à clés), ménage entre chaque locataire, fourniture du linge et des consommables, blanchisserie, maintenance de premier niveau, gestion des litiges avec la plateforme et reporting mensuel. Les options payantes incluent souvent la déclaration fiscale et la gestion des sinistres.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle conciergerie Airbnb choisir ?</summary>
 
 Quatre acteurs dominent le marché français en 2026 : GuestReady (présent dans 8 grandes villes, commission 18 à 22 pour cent), BnbLord (Île-de-France, Lyon, Bordeaux, commission 20 à 25 pour cent), HostnFly (national, formule au forfait), et Sweet Inn (gamme premium, commission 22 à 28 pour cent). Le choix dépend de la ville, du standing du bien, du volume de nuitées et du niveau de service souhaité (basique ou full management).
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Est-ce rentable de passer par une conciergerie Airbnb ?</summary>
 
 Une conciergerie Airbnb devient rentable au-delà de 10 nuitées louées par mois, ou pour les propriétaires éloignés du bien (résidence secondaire, expatriation). L'étude AirDNA 2024 montre que les biens gérés par une conciergerie professionnelle génèrent en moyenne 18 à 25 pour cent de chiffre d'affaires en plus qu'un propriétaire gestionnaire, grâce au pricing dynamique, à un meilleur taux d'occupation et à une qualité de service constante. La commission est donc absorbée en partie par cette progression du chiffre d'affaires.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment fonctionne une conciergerie Airbnb ?</summary>
 
 Une conciergerie Airbnb prend en charge la gestion opérationnelle d'un bien en location courte durée à la place du propriétaire. Concrètement, le propriétaire signe un mandat de gestion (souvent 12 mois) avec la conciergerie qui devient l'interlocuteur unique pour les voyageurs. La conciergerie publie l'annonce sous le compte du propriétaire ou son compte propre, gère le pricing, organise le ménage, accueille les voyageurs, traite les incidents et reverse au propriétaire son net mensuel après commission. Le propriétaire reçoit un reporting détaillé chaque mois.
 
-</details>
+</détails>

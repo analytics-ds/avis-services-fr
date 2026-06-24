@@ -36,7 +36,7 @@ Le **nettoyage professionnel** est un secteur structuré et fortement réglement
 
 La demande est portée par plusieurs tendances convergentes : le renforcement des obligations sanitaires post-Covid, la montée des exigences environnementales dans les appels d'offres, et la généralisation du recours à la sous-traitance pour les fonctions support dans les entreprises.
 
-### Chiffres clés du secteur
+### Chiffrés clés du secteur
 
 - **20,3 milliards d'euros** de chiffre d'affaires en 2024 (source : FEP, 2024)
 - **500 000 salariés** actifs dans les entreprises de propreté
@@ -105,7 +105,7 @@ Son positionnement sectoriel en fait un choix pertinent pour les structures de s
 **Derichebourg Multiservices** (groupe Derichebourg) concentre son activité sur les secteurs industriels, l'aéronautique, la défense et l'énergie. Avec 30 000 salariés, le groupe propose des prestations de nettoyage industriel, de décontamination et de maintenance technique sur des sites à contraintes fortes (Airbus, EDF, SNCF).
 
 > "Le recours à un prestataire de propreté certifié NF Services réduit de 30 % les non-conformités constatées lors des audits internes liés aux conditions de travail."
-> Etude AFNOR Certification, 2023
+> Étude AFNOR Certification, 2023
 
 ## Critères pour choisir son entreprise de nettoyage
 
@@ -158,37 +158,37 @@ Pour les TPE qui découvrent ces obligations sociales, l'article sur l'[aide à 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la meilleure entreprise de nettoyage en 2026 ?</summary>
 
 Onet est le leader historique du nettoyage professionnel en France avec 2 milliards d'euros de chiffre d'affaires et 75 000 salariés. ISS France et GSF se positionnent comme alternatives solides pour les grandes structures, tandis qu'Elior Services et Derichebourg Multiservices se distinguent sur les secteurs industriels et agroalimentaires. Le choix dépend du secteur d'activité, de la superficie des locaux et des certifications exigées.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'une entreprise de nettoyage pour des bureaux ?</summary>
 
 Le tarif horaire pour l'entretien courant de bureaux se situe entre 18 et 28 euros HT en 2026, selon la fréquence, la superficie et la localisation géographique. Les contrats annuels permettent de négocier des tarifs forfaitaires. Les opérations ponctuelles de remise en état ou de nettoyage de fin de bail sont facturées entre 30 et 50 euros HT de l'heure.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment choisir une entreprise de nettoyage professionnelle ?</summary>
 
 Quatre critères sont déterminants : les certifications obtenues (ISO 9001, certification NF Services Propreté AFNOR), la couverture assurance responsabilité civile, l'expérience sectorielle du prestataire et la qualité du suivi client (reporting, référent dédié). Vérifier également que l'entreprise respecte la convention collective des entreprises de propreté (CCN Propreté).
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelles certifications exiger d'une entreprise de nettoyage ?</summary>
 
 La certification NF Services Propreté délivrée par AFNOR est la référence en France. Elle garantit la conformité aux normes de qualité, de sécurité et d'environnement. La certification ISO 9001 atteste d'un système de management de la qualité. Le label Ecocert ou Ecolabel européen indique l'usage de produits respectueux de l'environnement, un critère de plus en plus intégré dans les appels d'offres.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle différence entre nettoyage ponctuel et contrat de maintenance ?</summary>
 
 Le nettoyage ponctuel correspond à une intervention unique : remise en état, nettoyage de vitres, désinfection post-travaux. Le contrat de maintenance prévoit des passages réguliers (quotidien, hebdomadaire) à fréquence définie, souvent plus économique à l'heure. La grande majorité des entreprises de taille intermédiaire optent pour un contrat annuel, plus prévisible budgétairement.
 
-</details>
+</détails>

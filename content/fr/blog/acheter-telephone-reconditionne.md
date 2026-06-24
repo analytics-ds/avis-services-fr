@@ -4,7 +4,7 @@ translationKey: "acheter-telephone-reconditionne"
 date: 2026-05-01
 lastmod: 2026-05-01
 description: "Acheter un téléphone reconditionné en 2026 : meilleures plateformes, garanties et critères de choix pour trouver le bon appareil au meilleur prix."
-categories: ["Electromenager reconditionne"]
+categories: ["Électroménager reconditionné"]
 tags: ["téléphone reconditionné", "smartphone reconditionné", "Back Market", "Recommerce", "guide achat"]
 author: thomas-durand
 image: "/images/blog/acheter-telephone-reconditionne.jpg"
@@ -134,26 +134,26 @@ La même rigueur s'applique à tous les segments du reconditionné : [équiper s
 
 ## Questions fréquentes
 
-<details><summary>Quel est le meilleur site pour acheter un téléphone reconditionné en France ?</summary>
+<détails><summary>Quel est le meilleur site pour acheter un téléphone reconditionné en France ?</summary>
 
 En 2026, Back Market reste la référence généraliste avec plus de 1 000 modèles, une garantie de 12 mois et une politique de retour claire. Recommerce, acteur 100 % français, se distingue par son bilan carbone affiché et sa garantie 3 ans. CertiDeal propose la durée de garantie la plus longue du marché (30 mois). Le choix dépend du modèle recherché, du budget et de l'importance accordée à la durée de garantie.
 
-</details>
+</détails>
 
-<details><summary>Est-ce que ça vaut vraiment le coup d'acheter un téléphone reconditionné ?</summary>
+<détails><summary>Est-ce que ça vaut vraiment le coup d'acheter un téléphone reconditionné ?</summary>
 
 Oui, dans la grande majorité des cas. Un smartphone reconditionné de grade A ou B coûte 30 à 50 % moins cher qu'un neuf équivalent, avec les mêmes fonctionnalités. La batterie est souvent remplacée ou testée à plus de 80 % de capacité. Le risque principal porte sur l'état cosmétique (micro-rayures sur grade C) et la compatibilité 5G pour les modèles anciens.
 
-</details>
+</détails>
 
-<details><summary>Quelle garantie exiger quand on achète un téléphone reconditionné ?</summary>
+<détails><summary>Quelle garantie exiger quand on achète un téléphone reconditionné ?</summary>
 
 La durée légale minimale est de 6 mois pour les produits reconditionnés depuis janvier 2022. Les principales plateformes vont bien au-delà : 12 mois chez Back Market, 24 mois chez Smaaart, 30 mois chez CertiDeal, 3 ans chez Recommerce. Il est conseillé de ne pas descendre en dessous de 12 mois et de vérifier que la garantie couvre les défauts fonctionnels.
 
-</details>
+</détails>
 
-<details><summary>Quelle est la différence entre un téléphone reconditionné et un téléphone d'occasion ?</summary>
+<détails><summary>Quelle est la différence entre un téléphone reconditionné et un téléphone d'occasion ?</summary>
 
 Un téléphone d'occasion est revendu en l'état, sans contrôle technique ni remise à niveau. Un téléphone reconditionné a été inspecté par un professionnel, réparé si nécessaire, nettoyé et réinitialisé. Il est livré avec une garantie commerciale. L'occasion coûte moins cher mais offre beaucoup moins de garanties pour un usage quotidien.
 
-</details>
+</détails>

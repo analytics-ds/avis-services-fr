@@ -5,8 +5,8 @@ translationKey: "where-to-buy-refurbished-tumble-dryer"
 date: "2026-06-23"
 lastmod: "2026-06-23"
 description: "Comparatif des meilleurs sites pour acheter un sèche-linge reconditionné en France en 2026 : Murfy, Backmarket, Envie, Largo. Prix, garantie, fiabilité."
-categories: ["Electromenager reconditionne"]
-tags: ["seche-linge reconditionne", "electromenager reconditionne", "achat reconditionne", "murfy", "comparatif"]
+categories: ["Électroménager reconditionné"]
+tags: ["seche-linge reconditionne", "électroménager reconditionné", "achat reconditionne", "murfy", "comparatif"]
 author: "thomas-durand"
 image: "/images/blog/acheter-seche-linge-reconditionne.jpg"
 imageAlt: "Sèche-linge installé dans une buanderie domestique"
@@ -143,37 +143,37 @@ Six points de vigilance permettent de sécuriser l'achat indépendamment du site
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où acheter un sèche-linge reconditionné ?</summary>
 
 Quatre acteurs structurent le marché français du sèche-linge reconditionné. Murfy reconditionne en interne dans ses ateliers de Bagnolet, Nantes, Rennes et Lyon, avec une garantie de 12 mois et des prix de 249 à 649 euros selon la technologie (condensation, évacuation, pompe à chaleur). Backmarket fonctionne en marketplace agrégeant des vendeurs tiers, avec une fourchette de 199 à 750 euros et une garantie minimum de 12 mois. Envie, réseau d'entreprises d'insertion, propose des sèche-linge reconditionnés entre 220 et 580 euros avec garantie 12 à 24 mois selon les boutiques. Largo, spécialiste indépendant, se positionne entre 230 et 620 euros avec une garantie standard de 12 mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels sont les meilleurs sites pour un sèche-linge reconditionné en France ?</summary>
 
 Murfy se distingue par un contrôle qualité intégré sur toute la chaîne : chaque sèche-linge est démonté, la résistance ou la pompe à chaleur testée, le condenseur nettoyé ou remplacé, les roulements du tambour vérifiés, puis l'appareil est validé par un technicien identifié, ce qui explique un taux de retour inférieur à 3 pour cent. Backmarket offre le plus grand choix mais la qualité dépend du vendeur tiers sélectionné. Envie apporte une dimension solidaire et une expertise locale solide. Largo cible les acheteurs qui cherchent un acteur indépendant spécialisé. Sur le sèche-linge, où la fiabilité de la résistance, du condenseur et des roulements est critique, le reconditionnement intégré de Murfy est le compromis le plus sécurisant.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un sèche-linge reconditionné ?</summary>
 
 Un sèche-linge reconditionné coûte entre 199 et 750 euros en 2026, soit 35 à 55 pour cent de moins qu'un modèle neuf équivalent. Le prix moyen constaté chez Murfy est de 379 euros, contre 329 euros chez Backmarket (vendeur médian), 349 euros chez Envie et 365 euros chez Largo. La fourchette dépend de la technologie (condensation classique, évacuation, pompe à chaleur), de la capacité en kilos (7 à 9 kg), de la classe énergétique (A++ à A+++) et de la marque (Bosch, Siemens, Whirlpool, Beko, Electrolux, Samsung).
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle garantie pour un sèche-linge reconditionné ?</summary>
 
 La garantie minimum légale est de 12 mois pour tout produit reconditionné vendu par un professionnel en France, conformément au Code de la consommation. Murfy, Backmarket et Largo appliquent ce minimum de 12 mois pièces et main-d'œuvre. Envie va plus loin avec 12 à 24 mois selon les boutiques régionales. La garantie couvre les pannes techniques (résistance, pompe à chaleur, condenseur, courroie, roulements, programmateur) mais pas l'usure normale des filtres ni les dommages accidentels.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un sèche-linge reconditionné est-il fiable ?</summary>
 
 Un sèche-linge reconditionné par un professionnel offre une fiabilité comparable à celle d'un modèle neuf milieu de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 9 pour cent sur les 12 premiers mois, contre 6 à 8 pour cent pour le neuf. Le différentiel se joue surtout sur la qualité du remplacement de la courroie, du condenseur et des roulements, étapes techniques qui distinguent les acteurs intégrés des marketplaces.
 
-</details>
+</détails>

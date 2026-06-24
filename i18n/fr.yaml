@@ -9,7 +9,7 @@
 - id: explore_blog
   translation: "Explorez le blog"
 - id: our_categories
-  translation: "Nos categories"
+  translation: "Nos catégories"
 - id: latest_articles
   translation: "Derniers articles"
 - id: read_more
@@ -19,17 +19,17 @@
 - id: articles_count_other
   translation: "articles"
 - id: categories
-  translation: "Categories"
+  translation: "Catégories"
 - id: navigation
   translation: "Navigation"
 - id: sitemap_link
   translation: "Plan du site"
 - id: all_rights_reserved
-  translation: "Tous droits reserves"
+  translation: "Tous droits réservés"
 - id: error_404_title
   translation: "Page introuvable"
 - id: error_404_description
-  translation: "La page que vous recherchez n'existe pas ou a ete deplacee."
+  translation: "La page que vous recherchez n'existe pas ou a été déplacée."
 - id: error_404_home
   translation: "Retour a l'accueil"
 - id: error_404_blog
@@ -53,7 +53,7 @@
 - id: next_article
   translation: "Article suivant"
 - id: faq_title
-  translation: "Questions frequentes"
+  translation: "Questions fréquentes"
 - id: breadcrumb_label
   translation: "Fil d'Ariane"
 - id: breadcrumb_home
@@ -63,31 +63,31 @@
 - id: nav_articles
   translation: "Navigation articles"
 - id: explore_topics
-  translation: "Explorez nos thematiques"
+  translation: "Explorez nos thématiques"
 - id: featured_post
   translation: "Article en vedette"
 - id: newsletter_title
   translation: "Recevez nos avis par email"
 - id: newsletter_subtitle
-  translation: "Inscrivez-vous a notre newsletter pour recevoir nos derniers tests et comparatifs directement dans votre boite mail."
+  translation: "Inscrivez-vous a notre newsletter pour recevoir nos derniers tests et comparatifs directement dans votre boîte mail."
 - id: newsletter_placeholder
   translation: "Votre adresse email"
 - id: newsletter_cta
   translation: "S'inscrire"
 - id: newsletter_footnote
-  translation: "Desinscription en un clic. Zero spam."
+  translation: "Désinscription en un clic. Zero spam."
 - id: by_author
   translation: "par"
 - id: on_date
   translation: "le"
 - id: about_site_title
-  translation: "Un media d'avis independants"
+  translation: "Un média d'avis indépendants"
 - id: about_site_body
-  translation: "Avis Services publie des tests, comparatifs et guides approfondis pour vous aider a choisir les bons services du quotidien. Nos analyses sont factuelles, chiffrees et basees sur des retours d'experience concrets."
+  translation: "Avis Services publie des tests, comparatifs et guides approfondis pour vous aider a choisir les bons services du quotidien. Nos analyses sont factuelles, chiffrées et basées sur des retours d'expérience concrets."
 - id: discover_category
-  translation: "Decouvrir"
+  translation: "Découvrir"
 - id: search_placeholder
-  translation: "Rechercher un avis, une thematique, une marque..."
+  translation: "Rechercher un avis, une thématique, une marque..."
 - id: search_placeholder_short
   translation: "Rechercher..."
 - id: search_button
@@ -97,43 +97,43 @@
 - id: search_results_count
   translation: "resultats"
 - id: popular_topics
-  translation: "Thematiques populaires"
+  translation: "Thématiques populaires"
 - id: all_articles
   translation: "Tous les articles"
 - id: view_all
   translation: "Voir tout"
 - id: nav_categories
-  translation: "Categories"
+  translation: "Catégories"
 - id: nav_blog
   translation: "Le Blog"
 - id: nav_home
   translation: "Accueil"
 - id: hero_independent
-  translation: "100% independants"
+  translation: "100% indépendants"
 - id: explore_by_category
-  translation: "Explorer par categorie"
+  translation: "Explorer par catégorie"
 - id: benefits_lead_strong
   translation: "Un nouveau standard d'avis en ligne."
 - id: benefits_lead
-  translation: "Methodologie transparente, tests reels, independance totale. Nos comparatifs sont concus pour vous aider a decider vite et bien."
+  translation: "Méthodologie transparente, tests réels, indépendance totale. Nos comparatifs sont conçus pour vous aider a decider vite et bien."
 - id: benefit_1_title
   translation: "Tests rigoureux"
 - id: benefit_1_desc
-  translation: "Produits et services testes selon une grille d'evaluation claire et reproductible."
+  translation: "Produits et services testes selon une grille d'évaluation claire et reproductible."
 - id: benefit_2_title
-  translation: "Mises a jour regulieres"
+  translation: "Mises a jour régulières"
 - id: benefit_2_desc
-  translation: "Nos avis evoluent avec le marche. Chaque article est date et actualise."
+  translation: "Nos avis évoluent avec le marche. Chaque article est date et actualise."
 - id: benefit_3_title
-  translation: "100% independants"
+  translation: "100% indépendants"
 - id: benefit_3_desc
   translation: "Pas de contenu sponsorise deguise. Nos recommandations ne sont pas a vendre."
 - id: latest
-  translation: "Derniers publies"
+  translation: "Derniers publiés"
 - id: in_numbers
-  translation: "En chiffres"
+  translation: "En chiffrés"
 - id: independent
-  translation: "independants"
+  translation: "indépendants"
 - id: cta_final_pre
   translation: "Trouvez"
 - id: cta_final_accent

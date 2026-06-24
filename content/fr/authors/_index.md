@@ -1,5 +1,5 @@
 ---
 title: "Nos auteurs"
-description: "Decouvrez l'equipe editoriale : experts independants qui signent nos articles, comparatifs et guides."
+description: "Découvrez l'equipe editoriale : experts indépendants qui signent nos articles, comparatifs et guides."
 translationKey: "authors-list"
 ---

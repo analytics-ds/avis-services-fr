@@ -127,37 +127,37 @@ Le créneau compte autant que l'adresse. Les plages du matin en semaine restent 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où réserver un hammam privatif à Paris ?</summary>
 
 Cinq plateformes couvrent la demande à Paris. Sezame cible les spas d'hôtels de luxe et de palaces (The Peninsula, Le Plaza Athénée, Le Meurice), avec accès sans nuitée et carte cadeau. Treatwell référence des centaines d'instituts avec avis clients. Funbooker positionne des hammams dès 30 € pour un accès partagé. Aladinia met en avant les formules hammam privatif avec gommage. Wonderbox vend des coffrets cadeaux multi-prestataires. Le choix dépend du budget, du standing et de l'occasion.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'un hammam privatif à Paris ?</summary>
 
 Comptez 80 € à 150 € par personne pour une privatisation en institut, et 120 € et plus dans un spa d'hôtel de luxe. Un accès hammam partagé démarre autour de 30 €. Un forfait hammam, gommage et modelage va de 100 € à 250 € par personne selon l'adresse et la durée.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle plateforme choisir pour un hammam privatif haut de gamme ?</summary>
 
 Pour un hammam dans le spa d'un hôtel cinq étoiles, Sezame est l'option la plus ciblée car elle donne accès à des palaces sans obligation d'y séjourner. Aladinia convient pour une privatisation avec gommage en institut, Treatwell et Funbooker pour un budget plus serré, et Wonderbox pour offrir sans fixer d'adresse.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on réserver un hammam privatif à deux à Paris ?</summary>
 
 Oui. La formule duo est la plus demandée. Toutes les plateformes proposent des créneaux pour deux personnes, souvent affichés à part. Comptez 80 € à 150 € par personne en institut, et davantage en spa de palace, où le hammam s'intègre dans un parcours eau complet.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien de temps dure une séance de hammam privatif ?</summary>
 
 Une séance dure en général 45 minutes à 1 heure pour le hammam seul, et 1h30 à 2h avec gommage et modelage. Dans un spa d'hôtel, l'accès peut couvrir une demi-journée incluant sauna, piscine et espace de repos.
 
-</details>
+</détails>

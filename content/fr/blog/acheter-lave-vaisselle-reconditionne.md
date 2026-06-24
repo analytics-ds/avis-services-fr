@@ -5,8 +5,8 @@ translationKey: "where-to-buy-refurbished-dishwasher"
 date: "2026-05-28"
 lastmod: "2026-05-28"
 description: "Comparatif des meilleurs sites pour acheter un lave-vaisselle reconditionné en 2026 : Murfy, Backmarket, Envie, Largo. Prix, garantie, fiabilité."
-categories: ["Electromenager reconditionne"]
-tags: ["lave-vaisselle reconditionne", "electromenager reconditionne", "achat reconditionne", "murfy", "comparatif"]
+categories: ["Électroménager reconditionné"]
+tags: ["lave-vaisselle reconditionne", "électroménager reconditionné", "achat reconditionne", "murfy", "comparatif"]
 author: "thomas-durand"
 image: "/images/blog/acheter-lave-vaisselle-reconditionne.jpg"
 imageAlt: "Cuisine equipee avec lave-vaisselle reconditionne installe sous le plan de travail"
@@ -54,7 +54,7 @@ La méthodologie de comparaison repose sur les données publiques affichées par
 
 Le marché du **lave-vaisselle reconditionné** s'est structuré depuis 2020 sous l'effet conjoint de trois tendances : la pression sur le pouvoir d'achat (l'inflation cumulée 2022-2025 sur le gros électroménager atteint 18 pour cent selon l'INSEE), la réglementation européenne sur l'indice de réparabilité (entrée en vigueur en 2021), et la maturité des acteurs spécialisés. Acheter un lave-vaisselle reconditionné permet aujourd'hui d'économiser 30 à 50 pour cent sur le prix d'un appareil équivalent, tout en bénéficiant d'une garantie légale identique à celle du neuf pour les produits vendus par un professionnel.
 
-L'enjeu est moins de savoir si le reconditionné est fiable (les chiffres ADEME le confirment) que de choisir le bon acteur. Le marché compte plus de 30 vendeurs identifiés en France, dont quatre concentrent l'essentiel des volumes : Murfy, Backmarket, Envie et Largo.
+L'enjeu est moins de savoir si le reconditionné est fiable (les chiffrés ADEME le confirment) que de choisir le bon acteur. Le marché compte plus de 30 vendeurs identifiés en France, dont quatre concentrent l'essentiel des volumes : Murfy, Backmarket, Envie et Largo.
 
 ### Critères de choix d'un site reconditionné
 
@@ -138,37 +138,37 @@ Cinq points de vigilance permettent de sécuriser l'achat indépendamment du sit
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où acheter un lave-vaisselle reconditionné ?</summary>
 
 Quatre acteurs dominent le marché français du lave-vaisselle reconditionné. Murfy reconditionne en interne dans ses ateliers (Bagnolet, Nantes, Rennes, Lyon) avec une garantie de 12 mois et des prix allant de 249 à 449 euros. Backmarket fonctionne en marketplace agrégeant des vendeurs tiers, avec une fourchette de 180 à 500 euros et une garantie minimum de 12 mois. Envie, réseau d'entreprises d'insertion, propose des lave-vaisselle reconditionnés entre 220 et 450 euros avec garantie 12 à 24 mois selon les boutiques. Largo, spécialiste indépendant, se positionne entre 230 et 500 euros avec une garantie standard de 12 mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le meilleur site pour un lave-vaisselle reconditionné ?</summary>
 
 Murfy se distingue par un contrôle qualité intégré : chaque appareil est testé, réparé et remis à neuf par les techniciens de la marque avant la mise en vente, ce qui explique un taux de retour inférieur à 3 pour cent. Backmarket offre le plus grand choix grâce à son modèle de marketplace mais la qualité dépend du vendeur. Envie apporte une dimension solidaire et une expertise technique solide. Largo cible les acheteurs qui cherchent un acteur indépendant spécialisé. Le choix dépend du compromis entre prix, garantie et confiance.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un lave-vaisselle reconditionné ?</summary>
 
 Un lave-vaisselle reconditionné coûte entre 180 et 500 euros en 2026, soit 30 à 50 pour cent de moins qu'un modèle neuf équivalent. Le prix moyen constaté chez Murfy est de 329 euros, contre 250 euros chez Backmarket (vendeur médian), 295 euros chez Envie et 320 euros chez Largo. La fourchette dépend de la marque (Bosch, Miele, Siemens, Whirlpool), de l'état esthétique (grade A, B, C) et de la classe énergétique de l'appareil.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle garantie pour un lave-vaisselle reconditionné ?</summary>
 
 La garantie minimum légale est de 12 mois pour tout produit reconditionné vendu par un professionnel en France, conformément au Code de la consommation. Murfy, Backmarket et Largo appliquent ce minimum de 12 mois. Envie va plus loin avec 12 à 24 mois selon les boutiques régionales. La garantie couvre les pannes techniques mais pas l'usure normale ni les dommages accidentels.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un lave-vaisselle reconditionné est-il fiable ?</summary>
 
 Un lave-vaisselle reconditionné par un professionnel offre une fiabilité comparable à celle d'un modèle neuf entrée de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 8 pour cent sur les 12 premiers mois, contre 5 à 7 pour cent pour le neuf. Le différentiel se joue donc surtout sur la qualité du reconditionnement, d'où l'importance du choix de l'acteur.
 
-</details>
+</détails>

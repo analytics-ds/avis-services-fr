@@ -131,30 +131,30 @@ Pour les documents sensibles (contrats, fiches de paie, données médicales), se
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la meilleure application pour numériser des documents ?</summary>
 
 En 2026, Adobe Scan est la référence pour la numérisation mobile grâce à son OCR intégré, sa correction automatique de perspective et son intégration avec Adobe Acrobat. Microsoft Lens est recommandé pour les utilisateurs de la suite Office 365 (export direct en Word ou PowerPoint). Google Drive scan convient aux utilisateurs Google souhaitant une solution simple et gratuite. Pour un usage intensif, CamScanner Pro (4,99€/mois) offre des fonctionnalités avancées de traitement par lots.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la différence entre numérisation et OCR ?</summary>
 
 La numérisation consiste à convertir un document papier en image numérique (JPG, PNG, PDF image). L'OCR (Optical Character Recognition) va plus loin en analysant l'image pour en extraire le texte, rendant le document consultable et modifiable. Les principales applications de numérisation (Adobe Scan, Microsoft Lens, ABBYY FineReader) intègrent l'OCR, ce qui permet de rechercher dans le texte du document numérisé.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment numériser des documents en masse pour une entreprise ?</summary>
 
 Pour la numérisation de volumes importants, plusieurs solutions existent : un scanner de bureau multifonction (à partir de 300€ pour un modèle professionnel), un service GED comme Zeendoc à partir de 150€/mois, ou un prestataire de numérisation externe comme Iron Mountain ou Numen pour les archives historiques. Le choix dépend du volume, de la fréquence et des contraintes de confidentialité.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Les services de numérisation sont-ils conformes au RGPD ?</summary>
 
 Les principaux services de numérisation professionnels (Zeendoc, Iron Mountain, Numen) proposent des garanties de conformité RGPD avec stockage des données sur le territoire européen, chiffrement des données en transit et au repos, et contrats de traitement des données (DPA). Les solutions mobiles grand public (Adobe Scan, Microsoft Lens) stockent les données dans des cloud américains. Pour des documents sensibles, les solutions GED françaises ou européennes sont recommandées.
 
-</details>
+</détails>

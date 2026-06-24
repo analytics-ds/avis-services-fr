@@ -40,7 +40,7 @@ readingTime: true
 
 ## Le marché de l'aide à domicile pour senior en 2026
 
-1,5 million de personnes âgées bénéficient aujourd'hui d'une aide à domicile en France, d'après les chiffres DREES 2024. Le chiffre augmente d'environ 4 pour cent par an, porté par deux dynamiques qui se renforcent : une population qui vieillit (les plus de 75 ans seront 13 millions en 2050) et un rejet croissant de l'EHPAD, jugé trop impersonnel ou trop cher par 72 pour cent des familles selon une enquête Silver Alliance 2024.
+1,5 million de personnes âgées bénéficient aujourd'hui d'une aide à domicile en France, d'après les chiffrés DREES 2024. Le chiffre augmente d'environ 4 pour cent par an, porté par deux dynamiques qui se renforcent : une population qui vieillit (les plus de 75 ans seront 13 millions en 2050) et un rejet croissant de l'EHPAD, jugé trop impersonnel ou trop cher par 72 pour cent des familles selon une enquête Silver Alliance 2024.
 
 Derrière le terme **services d'aide à domicile pour senior** se cache un spectre très large. Un coup de main pour les courses n'a rien à voir avec une présence de nuit pour une personne atteinte de troubles cognitifs. Les prestations, les qualifications requises et les tarifs varient en conséquence. Comprendre ces distinctions évite des mauvaises surprises sur la facture comme sur la qualité du service.
 
@@ -55,7 +55,7 @@ La Charte nationale qualité impose en plus une formation minimale du personnel,
 
 ## Les services proposés
 
-Les **services d'aide à domicile** couvrent un large périmètre, de l'aide matérielle légère à l'accompagnement dans les actes essentiels de la vie quotidienne. Le panier type d'un senior en GIR 4 mobilise en moyenne 2,5 prestations différentes (chiffres DREES 2023).
+Les **services d'aide à domicile** couvrent un large périmètre, de l'aide matérielle légère à l'accompagnement dans les actes essentiels de la vie quotidienne. Le panier type d'un senior en GIR 4 mobilise en moyenne 2,5 prestations différentes (chiffrés DREES 2023).
 
 ### Les principales prestations
 
@@ -153,37 +153,37 @@ L'arrivée d'une aide extérieure soulage, mais l'aidant familial reste mobilis�
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Aide à domicile pour senior : quels services et tarifs en 2026 ?</summary>
 
 L'aide à domicile pour senior couvre l'aide à la toilette, aux repas, au ménage, aux courses et à l'accompagnement. Les tarifs 2026 oscillent entre 22 et 32 euros de l'heure en prestation classique, avec des aides financières de l'APA pouvant couvrir jusqu'à 90 pour cent du coût pour les personnes dépendantes.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle différence entre aide à domicile et auxiliaire de vie ?</summary>
 
 L'aide à domicile assure les tâches quotidiennes (ménage, courses, préparation des repas) tandis que l'auxiliaire de vie est qualifiée pour les actes essentiels de la vie (toilette, habillage, aide aux repas pour personne dépendante). L'auxiliaire de vie détient un diplôme d'État, contrairement à l'aide à domicile.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelles aides financières pour un senior ?</summary>
 
 Les principales aides sont l'Allocation Personnalisée d'Autonomie (APA) pour les GIR 1 à 4, l'aide sociale à domicile pour les plus modestes, le crédit d'impôt de 50 pour cent sur les services à la personne et les caisses de retraite qui peuvent financer jusqu'à 3 000 euros par an.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment choisir un service d'aide à domicile ?</summary>
 
 Il faut vérifier l'agrément ou l'autorisation du service, comparer au moins 3 devis, s'assurer que le prestataire propose un contrat clair, vérifier la formation des intervenants et s'informer sur la continuité de service en cas d'absence. Les labels Cap Handéo et Afnor sont des gages de sérieux.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment demander l'APA à domicile ?</summary>
 
 La demande d'APA se dépose auprès du conseil départemental via un dossier unique incluant justificatifs d'identité, de revenus et un certificat médical. Une équipe médico-sociale évalue ensuite le degré de perte d'autonomie (GIR). Le délai moyen de traitement est de 2 à 3 mois en 2026.
 
-</details>
+</détails>

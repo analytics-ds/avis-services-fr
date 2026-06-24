@@ -4,7 +4,7 @@ translationKey: "reconditionne-ou-neuf-que-choisir"
 date: "2026-05-15"
 lastmod: "2026-05-15"
 description: "Reconditionné ou neuf : économies réelles, garanties, qualité et impact écologique comparés. Guide complet pour décider en 2026."
-categories: ["Electromenager reconditionne"]
+categories: ["Électroménager reconditionné"]
 tags: ["reconditionné", "neuf vs reconditionné", "achat reconditionné", "guide achat", "électroménager"]
 author: "thomas-durand"
 faq:
@@ -49,11 +49,11 @@ Pour aller plus loin sur les nuances entre reconditionné, occasion et neuf, voi
 
 ## Avantages du reconditionné : économies, performances, écologie
 
-### Economies directes et immédiates
+### Économies directes et immédiates
 
 La remise moyenne tourne autour de 35 à 40 % toutes catégories confondues. Sur un smartphone à 1 000 € neuf, cela représente 350 à 400 € d'économie immédiate. Sur un [téléphone reconditionné acheté via une plateforme certifiée]({{< relref "acheter-telephone-reconditionne.md" >}}), les prix descendent encore plus bas sur les générations précédentes.
 
-| Catégorie | Prix neuf moyen | Prix reconditionné moyen | Economie |
+| Catégorie | Prix neuf moyen | Prix reconditionné moyen | Économie |
 |---|---|---|---|
 | Smartphone haut de gamme | 1 000 € | 500-650 € | 35-50 % |
 | Tablette | 600 € | 300-400 € | 33-50 % |
@@ -67,7 +67,7 @@ Sur les fonctions principales, un appareil reconditionné de grade A est indisce
 
 ### Impact environnemental significativement réduit
 
-Acheter reconditionné évite la fabrication d'un nouvel appareil. Un smartphone mobilise l'extraction d'une soixantaine de matières premières, dont des terres rares dont l'extraction est très polluante. Prolonger sa durée de vie réduit de 60 à 80 % les émissions de CO2 associées à sa fabrication. Sur l'électroménager, les chiffres sont encore plus significatifs en raison du poids et de la complexité des appareils.
+Acheter reconditionné évite la fabrication d'un nouvel appareil. Un smartphone mobilise l'extraction d'une soixantaine de matières premières, dont des terres rares dont l'extraction est très polluante. Prolonger sa durée de vie réduit de 60 à 80 % les émissions de CO2 associées à sa fabrication. Sur l'électroménager, les chiffrés sont encore plus significatifs en raison du poids et de la complexité des appareils.
 
 ## Quand vaut-il mieux acheter neuf ?
 
@@ -75,7 +75,7 @@ Le reconditionné n'est pas toujours la meilleure option. Plusieurs situations m
 
 **Usage professionnel critique** : un appareil destiné à un usage intensif quotidien (production vidéo, calcul, imagerie médicale) mérite souvent d'être acheté neuf pour bénéficier du support fabricant complet et d'une performance garantie dès le départ.
 
-**Ecart de prix trop faible** : sur certaines catégories d'entrée de gamme, la remise est insuffisante pour justifier le choix du reconditionné. Un petit appareil électroménager à 80 € neuf et 60 € reconditionné laisse peu de marge.
+**Écart de prix trop faible** : sur certaines catégories d'entrée de gamme, la remise est insuffisante pour justifier le choix du reconditionné. Un petit appareil électroménager à 80 € neuf et 60 € reconditionné laisse peu de marge.
 
 **Produits peu présents sur le marché du reconditionné** : certaines catégories sont mal couvertes. La qualité des opérateurs est très variable ; sans certification reconnue, le risque d'une mauvaise expérience augmente.
 
@@ -107,30 +107,30 @@ Les plateformes spécialisées (Back Market pour les appareils mobiles, Murfy et
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Qu'est-ce qu'un produit reconditionné exactement ?</summary>
 
 Un produit reconditionné est un appareil de seconde main qui a été inspecté, nettoyé, réparé si nécessaire, puis testé avant remise en vente. Contrairement à un appareil d'occasion vendu tel quel, il passe par un processus de contrôle qualité structuré. Il peut provenir d'un retour client, d'un stock invendu ou d'un appareil repris lors d'un échange.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un produit reconditionné est-il aussi fiable qu'un appareil neuf ?</summary>
 
 La fiabilité dépend du grade et du revendeur. Un appareil reconditionné de grade A vendu par un opérateur certifié affiche des taux de pannes comparables au neuf sur les deux premières années. Les revendeurs sérieux proposent des garanties de 12 à 36 mois, un filet de sécurité équivalent à celui du neuf.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelles garanties obtient-on avec un produit reconditionné ?</summary>
 
 La loi française impose une garantie légale de conformité de 12 mois minimum pour les produits reconditionnés vendus par un professionnel. La plupart des plateformes spécialisées (Back Market, Recommerce, Murfy) vont au-delà avec 24 à 36 mois de garantie commerciale, auxquels s'ajoute souvent une période satisfait-ou-remboursé de 14 à 30 jours.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Reconditionné ou neuf : quel impact sur l'environnement ?</summary>
 
 Choisir le reconditionné permet de réduire de 60 à 80 % les émissions de CO2 liées à la fabrication d'un appareil neuf. L'extraction des matières premières (terres rares, lithium, cobalt) représente la plus grande partie de l'empreinte carbone d'un appareil électronique. Prolonger sa durée de vie via le reconditionnement est l'un des gestes les plus efficaces pour réduire son impact numérique.
 
-</details>
+</détails>

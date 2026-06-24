@@ -96,37 +96,37 @@ Le vrai arbitrage tient à une question : vise-t-on un moment précis et haut de
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le meilleur site pour offrir une carte cadeau bien-être en 2026 ?</summary>
 
 Cela dépend du cadeau visé. Sezame est le plus qualitatif pour un spa ou un massage en hôtel de luxe, avec des prestations de 105 € à 280 € pour deux et une validité d'un an. Wonderbox offre la plus grande flexibilité de budget (30 € à 500 €, validité 3 ans et 3 mois), Smartbox le catalogue de coffrets le plus large (49,90 € à 229,90 €) et Treatwell une carte beauté à montant libre valable 12 mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la durée de validité d'une carte cadeau bien-être ?</summary>
 
 Elle varie selon le site. Treatwell tient 12 mois, Sezame 1 an, Wonderbox 3 ans et 3 mois, et les coffrets Smartbox plusieurs années. Pour laisser le plus de temps au destinataire, les coffrets généralistes sont les plus souples.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on offrir un spa de palace sans être client de l'hôtel ?</summary>
 
 Oui, c'est le principe de Sezame. La carte cadeau donne accès au spa, au massage et aux installations de palaces comme Le Meurice ou The Peninsula sans avoir à y réserver une nuit.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel budget prévoir pour une carte cadeau bien-être de qualité ?</summary>
 
 Comptez moins de 60 € pour un coffret générique ou un soin court, 60 € à 150 € pour un massage ou un soin complet, et plus de 150 € pour une prestation en spa d'hôtel haut de gamme. En palace, une prestation atteint 250 € par personne.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Carte cadeau ou coffret cadeau bien-être : que choisir ?</summary>
 
 La carte cadeau (Sezame, Treatwell) se transforme directement en réservation sur une adresse identifiée. Le coffret (Smartbox, Wonderbox) laisse choisir dans un catalogue mais impose de contacter soi-même l'établissement. Pour un cadeau ciblé et haut de gamme, la carte est plus simple, pour laisser le choix, le coffret est plus large.
 
-</details>
+</détails>

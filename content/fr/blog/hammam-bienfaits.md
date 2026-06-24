@@ -123,37 +123,37 @@ Pour les aidants familiaux qui accompagnent un proche âgé, le hammam représen
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quels sont les bienfaits du hammam et son déroulement ?</summary>
 
 Le hammam améliore la circulation sanguine, nettoie la peau en profondeur, détend les muscles et favorise l'élimination des toxines. Une séance dure 45 à 90 minutes et comprend une sudation progressive, un gommage au savon noir puis un rinçage. La température se situe entre 40 et 50 degrés avec 100 pour cent d'humidité.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la différence entre un hammam et un sauna ?</summary>
 
 Le hammam utilise une chaleur humide (40 à 50 degrés, 100 pour cent d'humidité) tandis que le sauna utilise une chaleur sèche (70 à 100 degrés, 10 à 20 pour cent d'humidité). Le hammam est plus doux pour la respiration et plus adapté aux personnes sensibles à la chaleur sèche.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien de temps dure une séance de hammam ?</summary>
 
 Une séance complète dure généralement entre 45 minutes et 1 heure 30. Elle alterne phases de sudation de 10 à 15 minutes et pauses de repos. Les rituels traditionnels marocains ou turcs peuvent s'étendre jusqu'à 2 heures avec gommage au savon noir et massage.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelles sont les contre-indications du hammam ?</summary>
 
 Le hammam est déconseillé en cas de problèmes cardiaques, d'hypertension non contrôlée, de grossesse, d'asthme sévère, de troubles circulatoires graves ou après un repas copieux. Il faut attendre au moins 2 heures après avoir mangé et éviter la consommation d'alcool avant et après.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on faire un hammam tous les jours ?</summary>
 
 Une fréquentation quotidienne est déconseillée pour la majorité des personnes. Elle peut assécher la peau, fatiguer le système cardiovasculaire et déséquilibrer le film hydrolipidique. Une séance hebdomadaire, voire bi-hebdomadaire maximum, reste optimale pour profiter des bienfaits sans effets secondaires.
 
-</details>
+</détails>

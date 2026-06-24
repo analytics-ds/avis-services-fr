@@ -126,37 +126,37 @@ Pour les entreprises qui emploient elles-mêmes des salariés et souhaitent exte
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la meilleure entreprise de service à la personne ?</summary>
 
 O2 est le leader du marché avec 360 agences, 14 000 intervenants et une présence nationale homogène. Shiva domine sur le segment ménage et repassage avec 450 agences. Vitalliance est la référence pour l'accompagnement des personnes en situation de handicap ou de dépendance lourde. Azaé (groupe A2micile) et Amelis complètent l'offre sur les besoins d'aide aux personnes âgées.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le tarif d'une entreprise de service à la personne ?</summary>
 
 Le tarif horaire brut d'un prestataire de services à la personne se situe entre 18 et 35 euros selon la prestation et la région. Grâce au crédit d'impôt de 50 % applicable aux particuliers, le coût réel après déduction fiscale est de 9 à 17,50 euros de l'heure. La TVA n'est pas applicable aux services à la personne agréés.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle différence entre prestataire, mandataire et emploi direct ?</summary>
 
 En mode prestataire, l'entreprise est l'employeur de l'intervenant : elle gère toute la partie administrative (contrat, fiche de paie, remplacement en cas d'absence). En mode mandataire, le particulier est l'employeur et l'entreprise ne gère que les formalités. En emploi direct (CESU), le particulier emploie directement son aide à domicile. Le mode prestataire est le plus simple mais généralement le plus coûteux.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Le service à la personne donne-t-il droit à une réduction d'impôt ?</summary>
 
 Oui. Les dépenses engagées auprès d'un organisme agréé de services à la personne ouvrent droit à un crédit d'impôt de 50 % sur les sommes versées, dans la limite de 12 000 euros par an (majoré selon la composition du foyer et la situation de dépendance). Ce crédit d'impôt s'applique aussi bien aux actifs qu'aux retraités.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Que faire si l'intervenant est absent ?</summary>
 
 Les réseaux structurés comme O2, Azaé et Amelis garantissent un remplacement en cas d'absence de l'intervenant habituel. C'est l'un des avantages du mode prestataire par rapport à l'emploi direct ou au mandataire. La continuité de service est un critère de sélection essentiel, notamment pour les personnes âgées ou dépendantes.
 
-</details>
+</détails>

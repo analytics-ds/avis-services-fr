@@ -123,30 +123,30 @@ Une fois inscrit, il est conseillé de soigner son profil (photo réelle, descri
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le meilleur site de service entre particuliers en France ?</summary>
 
 En 2026, AlloVoisins reste la plateforme de référence pour les services de proximité entre particuliers, avec plus de 8 millions de membres et une couverture nationale. Yoojo se distingue pour les services professionnels à domicile avec des prestataires vérifiés. NeedHelp est adapté au jobbing rémunéré, Kiwiiz aux services locaux gratuits ou à bas coût, et Easyjobber aux petits boulots ponctuels. Le choix dépend du type de service recherché, du budget et de la zone géographique.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Les services entre particuliers sont-ils légaux en France ?</summary>
 
 Oui, les services rémunérés entre particuliers sont légaux en France dans un cadre précis. Tout revenu tiré de prestations ponctuelles est soumis à déclaration fiscale. Pour exercer régulièrement, le statut de micro-entrepreneur est recommandé. Certaines activités (électricité, gaz, garde d'enfants) nécessitent une qualification ou un agrément. Les plateformes comme AlloVoisins, Yoojo ou NeedHelp intègrent des mécanismes de paiement sécurisé et de facturation conformes à la réglementation.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment proposer ses services sur ces plateformes ?</summary>
 
 Pour proposer ses services sur AlloVoisins, Yoojo ou NeedHelp, il suffit de créer un profil gratuit, de renseigner ses compétences et sa zone d'intervention, puis de répondre aux demandes ou de publier ses propres annonces. Certaines plateformes comme Yoojo effectuent une vérification d'identité et de compétences. La rémunération est généralement versée via la plateforme après validation de la prestation par le client.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle commission prennent les plateformes de jobbing ?</summary>
 
 Les commissions varient selon les plateformes. AlloVoisins prélève entre 15 et 20% sur chaque transaction. Yoojo facture environ 15% de commission au prestataire. NeedHelp applique une commission de l'ordre de 15 à 20%. Certaines plateformes comme Kiwiiz proposent des services gratuits ou en échange de services. Ces commissions couvrent le paiement sécurisé, l'assurance et le service client.
 
-</details>
+</détails>

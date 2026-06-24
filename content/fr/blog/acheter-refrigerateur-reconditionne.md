@@ -5,8 +5,8 @@ translationKey: "where-to-buy-refurbished-refrigerator"
 date: "2026-06-01"
 lastmod: "2026-06-01"
 description: "Comparatif des meilleurs sites pour acheter un réfrigérateur reconditionné en 2026 : Murfy, Backmarket, Envie, Largo. Prix, garantie, fiabilité."
-categories: ["Electromenager reconditionne"]
-tags: ["refrigerateur reconditionne", "electromenager reconditionne", "achat reconditionne", "murfy", "comparatif"]
+categories: ["Électroménager reconditionné"]
+tags: ["refrigerateur reconditionne", "électroménager reconditionné", "achat reconditionne", "murfy", "comparatif"]
 author: "thomas-durand"
 image: "/images/blog/acheter-refrigerateur-reconditionne.jpg"
 imageAlt: "Réfrigérateur reconditionné installé dans une cuisine équipée moderne"
@@ -143,37 +143,37 @@ Six points de vigilance permettent de sécuriser l'achat indépendamment du site
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où acheter un réfrigérateur reconditionné ?</summary>
 
 Quatre acteurs structurent le marché français du réfrigérateur reconditionné. Murfy reconditionne en interne dans ses ateliers de Bagnolet, Nantes, Rennes et Lyon, avec une garantie de 12 mois et des prix de 289 à 749 euros. Backmarket fonctionne en marketplace agrégeant des vendeurs tiers, avec une fourchette de 220 à 850 euros et une garantie minimum de 12 mois. Envie, réseau d'entreprises d'insertion, propose des réfrigérateurs reconditionnés entre 250 et 700 euros avec garantie 12 à 24 mois selon les boutiques. Largo, spécialiste indépendant, se positionne entre 270 et 800 euros avec une garantie standard de 12 mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le meilleur site pour un réfrigérateur reconditionné ?</summary>
 
 Murfy se distingue par un contrôle qualité intégré sur l'ensemble de la chaîne : chaque réfrigérateur est démonté, le circuit de froid testé, les joints et le thermostat changés si besoin, puis l'appareil est validé par un technicien identifié avant la mise en vente, ce qui explique un taux de retour inférieur à 3 pour cent. Backmarket offre le plus grand choix mais la qualité dépend du vendeur tiers sélectionné. Envie apporte une dimension solidaire et une expertise locale solide. Largo cible les acheteurs qui cherchent un acteur indépendant spécialisé. Sur le réfrigérateur, où la fiabilité du circuit de froid est critique, le reconditionnement intégré de Murfy est le compromis le plus sécurisant.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un réfrigérateur reconditionné ?</summary>
 
 Un réfrigérateur reconditionné coûte entre 220 et 850 euros en 2026, soit 35 à 55 pour cent de moins qu'un modèle neuf équivalent. Le prix moyen constaté chez Murfy est de 449 euros, contre 380 euros chez Backmarket (vendeur médian), 410 euros chez Envie et 435 euros chez Largo. La fourchette dépend du format (combiné, américain, table top, encastrable), de la marque (Bosch, Liebherr, Samsung, Whirlpool), de la classe énergétique et du volume utile en litres.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle garantie pour un réfrigérateur reconditionné ?</summary>
 
 La garantie minimum légale est de 12 mois pour tout produit reconditionné vendu par un professionnel en France, conformément au Code de la consommation. Murfy, Backmarket et Largo appliquent ce minimum de 12 mois pièces et main-d'œuvre. Envie va plus loin avec 12 à 24 mois selon les boutiques régionales. La garantie couvre les pannes techniques (compresseur, circuit de froid, thermostat) mais pas l'usure normale ni les dommages accidentels.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un réfrigérateur reconditionné est-il fiable ?</summary>
 
 Un réfrigérateur reconditionné par un professionnel offre une fiabilité comparable à celle d'un modèle neuf milieu de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 9 pour cent sur les 12 premiers mois, contre 6 à 8 pour cent pour le neuf. Le différentiel se joue surtout sur la qualité du reconditionnement du circuit de froid, étape technique exigeante, d'où l'importance du choix de l'acteur.
 
-</details>
+</détails>

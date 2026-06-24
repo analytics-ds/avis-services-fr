@@ -4,7 +4,7 @@ translationKey: "meilleur-lave-linge-reconditionne"
 date: 2026-05-08
 lastmod: 2026-05-08
 description: "Lave-linge reconditionné : comparatif des meilleurs modèles 2026, critères de choix, marques fiables et prix pour acheter en toute confiance."
-categories: ["Electromenager reconditionne"]
+categories: ["Électroménager reconditionné"]
 tags: ["lave-linge reconditionné", "électroménager reconditionné", "guide achat", "comparatif lave-linge", "reconditionné pas cher"]
 author: thomas-durand
 image: "/images/blog/meilleur-lave-linge-reconditionne.jpg"
@@ -106,26 +106,26 @@ Les appareils reconditionnés par des ateliers certifiés (Murfy, Satisfix) ont 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la marque la plus fiable pour un lave-linge reconditionné ?</summary>
 
 Bosch et Miele sont systématiquement citées comme les marques les plus fiables sur le long terme, notamment pour la solidité des roulements, des joints et des résistances. Samsung se distingue aussi par ses moteurs à induction moins sujets à l'usure. Ces marques se retrouvent en abondance sur les plateformes de reconditionné, avec des prix légèrement supérieurs aux marques d'entrée de gamme, mais un rapport qualité-durée de vie nettement meilleur.
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Les machines à laver reconditionnées sont-elles de bonne qualité ?</summary>
 
 Un lave-linge reconditionné par un professionnel est soumis à des tests de cycle complets, un nettoyage en profondeur et un remplacement des pièces usées. La qualité finale dépend directement du sérieux de l'atelier de reconditionnement. En choisissant un vendeur certifié (Murfy, Back Market avec label vérifié), la qualité d'usage est comparable à celle d'un appareil neuf, avec une garantie similaire.
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la durée de vie d'un lave-linge reconditionné ?</summary>
 
 La durée de vie moyenne d'un lave-linge, reconditionné ou neuf, est estimée entre 10 et 15 ans selon les modèles et l'utilisation. Un appareil reconditionné a déjà une partie de cette durée de vie entamée, mais les réparations effectuées lors du reconditionnement permettent souvent de repartir sur de bonnes bases. Avec un entretien régulier, une durée résiduelle de 8 à 12 ans est réaliste sur un appareil de grade A.
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels sont les meilleurs modèles de lave-linge reconditionné en 2026 ?</summary>
 
 En 2026, les modèles les plus appréciés sur le marché du reconditionné sont le Samsung WW11BB744DGW (11 kg, grand format fiable), le Bosch WGE02201FR (7 kg, silence et durabilité) et l'Electrolux EW6T3465DA (6 kg, excellent rapport qualité-prix). Pour le segment premium, le Miele WCE320 reste la référence en termes de longévité.
-</details>
+</détails>

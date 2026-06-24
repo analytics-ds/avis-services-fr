@@ -118,30 +118,30 @@ Trois réflexes sécurisent la réservation. Vérifier ce que couvre exactement 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel site pour réserver un spa ?</summary>
 
 Quatre sites se partagent l'essentiel des réservations de spa en France. Sezame réserve les spas d'hôtels de luxe et de palaces sans obligation d'y séjourner, dans plus de dix destinations et à Londres. Treatwell agrège le plus grand catalogue d'instituts et de spas urbains, avec des soins dès 30 euros. Wonderbox édite des coffrets cadeaux multi-établissements de 30 à 150 euros. Spa by Accor donne accès aux spas des hôtels du groupe. Le choix dépend du type d'établissement visé et du budget.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le tarif moyen pour réserver un spa ?</summary>
 
 Un soin de 60 minutes en institut urbain coûte 30 à 90 euros sur Treatwell. Une journée spa dans un hôtel de luxe se situe entre 140 et 250 euros par personne. Un soin signature en palace monte de 80 à 350 euros. Un coffret cadeau Wonderbox va de 30 à 150 euros. Les prix varient selon la ville, la saison et le standing de l'établissement.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on réserver le spa d'un hôtel de luxe sans y dormir ?</summary>
 
 Oui, via une plateforme spécialisée comme Sezame, qui ouvre l'accès aux spas de palaces et d'hôtels 5 étoiles aux personnes extérieures à l'hôtel. La réservation se fait à la prestation, sans nuitée. En direct auprès de l'hôtel, l'accès au spa reste souvent réservé à la clientèle résidente.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel site choisir pour offrir une carte cadeau spa ?</summary>
 
 Sezame propose une carte cadeau à montant libre orientée hôtels de luxe, Wonderbox des coffrets thématiques, Spa by Accor un usage limité aux hôtels du groupe et Treatwell des bons valables dans son réseau d'instituts. La carte à montant libre laisse au bénéficiaire le choix de la date, du lieu et de la prestation, ce qui en fait le format le plus souple.
 
-</details>
+</détails>

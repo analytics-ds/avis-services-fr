@@ -4,7 +4,7 @@ translationKey: "art-cuisine-reconditionne"
 date: 2026-04-17
 lastmod: 2026-04-18
 description: "Équiper sa cuisine en électroménager reconditionné : liste des appareils, budget, sites fiables et astuces en 2026."
-categories: ["Electromenager reconditionne"]
+categories: ["Électroménager reconditionné"]
 tags: ["cuisine equipee", "reconditionne", "budget", "astuces", "electromenager"]
 author: thomas-durand
 image: "/images/blog/equiper-cuisine-reconditionne.jpg"
@@ -136,37 +136,37 @@ Ces coûts restent identiques qu'on achète neuf ou reconditionné. Le budget to
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Comment équiper sa cuisine entière en électroménager reconditionné ?</summary>
 
 Il faut d'abord lister les appareils nécessaires (réfrigérateur, lave-vaisselle, four, plaque, hotte, petit électroménager), puis comparer les offres sur les marketplaces spécialisées (Back Market, Recommerce, Envie). Un budget total de 1 500 à 2 500 euros suffit pour équiper une cuisine complète, soit 40 à 60 pour cent d'économie par rapport au neuf.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel budget pour équiper une cuisine en reconditionné ?</summary>
 
 Le budget pour équiper une cuisine entière en reconditionné oscille entre 1 500 et 2 500 euros en 2026, contre 3 000 à 5 000 euros en neuf pour la même gamme. Le montant varie selon la taille des appareils, les marques choisies et le grade (bon, très bon, excellent).
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels appareils acheter en priorité en reconditionné ?</summary>
 
 Les lave-vaisselle, réfrigérateurs et fours encastrables offrent les meilleures économies (40 à 50 pour cent de réduction), avec un risque de panne équivalent au neuf une fois reconditionné. Les plaques de cuisson et hottes s'y prêtent très bien aussi. Le petit électroménager peut aussi s'acheter reconditionné avec profit.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment coordonner les commandes sur plusieurs sites ?</summary>
 
 Il faut prévoir une semaine pour repérer les meilleures offres, acheter sur 2 à 3 sites différents pour optimiser le rapport qualité-prix, coordonner les livraisons sur 2 semaines maximum et prévoir un professionnel pour les encastrables. Un dossier papier récapitulatif facilite la gestion des garanties.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Les appareils reconditionnés tiennent-ils autant que des neufs ?</summary>
 
 La durée de vie d'un appareil reconditionné grade très bon ou excellent est estimée entre 7 et 12 ans, contre 10 à 15 ans pour un neuf. Les composants remplacés lors du reconditionnement (joints, pompes, résistances) prolongent significativement la durée d'utilisation et réduisent le taux de panne.
 
-</details>
+</détails>

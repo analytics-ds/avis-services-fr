@@ -84,37 +84,37 @@ Alterner les deux lors d'une même visite est parfaitement possible et recommand
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la différence principale entre hammam et spa ?</summary>
 
 Le hammam utilise une chaleur humide (40-50 degrés, 100 % d'humidité) produite par de la vapeur d'eau dans une pièce fermée. Le spa est un bassin d'eau chaude (36-40 degrés) équipé de jets d'hydromassage. L'un agit par vapeur sur la peau et les voies respiratoires, l'autre par pression directe de l'eau sur les muscles.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Qu'est-ce qu'un sauna humide et en quoi diffère-t-il du hammam ?</summary>
 
 Le sauna humide désigne généralement le hammam (bain de vapeur). À l'inverse, le sauna classique délivre une chaleur de 70 à 100 degrés avec seulement 10 à 20 % d'humidité. Le hammam est plus doux pour les voies respiratoires et mieux toléré par les personnes sensibles à la chaleur sèche.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Le hammam est-il bénéfique pour les problèmes de peau ?</summary>
 
 La vapeur du hammam améliore la texture cutanée : elle ouvre les pores, facilite le gommage et réduit la desquamation liée au psoriasis après plusieurs séances régulières. Pour les peaux sensibles ou acnéiques, il est recommandé d'éviter le gommage agressif et d'hydrater la peau après la séance.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Hammam ou sauna : lequel pratiquer en premier lors d'une séance ?</summary>
 
 Il est généralement conseillé de commencer par le hammam : la chaleur humide et modérée prépare le corps progressivement, ouvre les pores et détend les muscles. Le sauna, plus chaud et plus sec, peut suivre pour une sudation plus intense. Terminer par une douche fraîche ou un spa clôture le circuit de manière optimale.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on utiliser hammam et spa lors de la même séance ?</summary>
 
 Oui, l'association est recommandée dans de nombreux circuits de bien-être. L'ordre conseillé est : hammam (sudation, ouverture des pores), douche tiède, puis spa (hydromassage, décontraction musculaire). La durée totale ne devrait pas dépasser 1h30 à 2h pour éviter la déshydratation. Boire de l'eau régulièrement entre les séquences est indispensable.
 
-</details>
+</détails>

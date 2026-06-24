@@ -48,7 +48,7 @@ Le comparatif porte sur cinq critères structurants : le prix mensuel, le nombre
 
 ## Qu'est-ce que l'IPTV et quelles sont les offres légales en France ?
 
-L'**IPTV** (Internet Protocol Television) désigne la diffusion de contenus télévisuels via le protocole internet, par opposition à la diffusion hertzienne terrestre (TNT) ou satellitaire. En France, le marché de l'IPTV légal s'est structuré autour de trois modèles distincts en 2026.
+L'**IPTV** (Internet Protocol Télévision) désigne la diffusion de contenus télévisuels via le protocole internet, par opposition à la diffusion hertzienne terrestre (TNT) ou satellitaire. En France, le marché de l'IPTV légal s'est structuré autour de trois modèles distincts en 2026.
 
 Les services financés par la publicité (AVOD) proposent un accès gratuit en échange de coupures publicitaires. Les plateformes par abonnement (SVOD ou TVOD) facturent un forfait mensuel en échange d'un accès sans publicité ou avec des contenus exclusifs. Enfin, l'IPTV opérateur est intégrée aux offres box internet des fournisseurs d'accès (SFR, Orange, Bouygues, Free).
 
@@ -130,30 +130,30 @@ Une connexion internet stable d'au moins 10 Mbps est recommandée pour un vision
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le meilleur service IPTV légal en France ?</summary>
 
 En 2026, Molotov reste la référence pour l'IPTV gratuit avec 40 chaînes accessibles sans abonnement. Pour un bouquet premium avec Canal+, myCANAL est incontournable à partir de 15,99€/mois. Pour le sport en direct, DAZN (19,99€/mois) et beIN Sports Connect (15€/mois) se distinguent. Les abonnés aux offres box de SFR, Orange, Bouygues ou Free bénéficient également de l'IPTV incluse dans leur forfait.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la différence entre IPTV légal et IPTV pirate ?</summary>
 
 L'IPTV légal désigne les services de diffusion de télévision via internet proposés par des opérateurs ou plateformes détenant les droits de diffusion des chaînes (Molotov, myCANAL, DAZN, Orange TV, etc.). L'IPTV pirate diffuse des chaînes sans autorisation, en violation des droits de propriété intellectuelle. L'utilisation de services IPTV pirates est passible de poursuites judiciaires en France depuis la loi de 2023 contre le piratage sportif.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on regarder la télévision en IPTV sans abonnement ?</summary>
 
 Oui, plusieurs services IPTV 100% gratuits et légaux existent en France : Molotov (version gratuite, 40+ chaînes), Pluto TV (100+ chaînes thématiques sans abonnement) et France.tv (chaînes du service public en direct et en replay). Ces services sont financés par la publicité ou par des fonds publics.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>L'IPTV fonctionne-t-il sur tous les appareils ?</summary>
 
 Les principaux services IPTV légaux (Molotov, myCANAL, DAZN, Amazon Prime Video, Disney+) sont disponibles sur smartphone, tablette, ordinateur, Smart TV et via une application sur box Android ou Apple TV. La plupart proposent une application dédiée sur les principaux systèmes d'exploitation (Android, iOS, Tizen, webOS). Une connexion internet stable d'au moins 10 Mbps est recommandée pour un visionnage en HD.
 
-</details>
+</détails>

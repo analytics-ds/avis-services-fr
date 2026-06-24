@@ -122,37 +122,37 @@ La question du financement global de l'entreprise est intimement liée à ces ch
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la meilleure mutuelle pour les entreprises ?</summary>
 
 Malakoff Humanis est le premier groupe de protection sociale en France avec 11 millions de personnes protégées. AG2R La Mondiale et Harmonie Mutuelle sont deux alternatives solides avec des réseaux de soins étendus. Pour les TPE et PME, Apicil et les contrats souscrits via un courtier en assurances collectives offrent souvent un meilleur rapport garanties/prix que les grands groupes paritaires.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>La mutuelle d'entreprise est-elle obligatoire ?</summary>
 
 Oui, depuis le 1er janvier 2016 (loi ANI de 2013), toutes les entreprises du secteur privé ont l'obligation de proposer une complémentaire santé collective à leurs salariés. L'employeur doit financer au minimum 50 % de la cotisation. Les salariés peuvent refuser dans des cas précis (déjà couverts par ailleurs), mais l'employeur reste tenu de mettre le contrat en place.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'une mutuelle d'entreprise ?</summary>
 
 Le coût mensuel d'une mutuelle d'entreprise varie entre 30 et 150 euros par salarié selon le niveau de garanties. Les contrats responsables (conformes au décret de 2014) se situent entre 40 et 90 euros par mois. L'employeur prend en charge au minimum 50 % de ce montant, soit 20 à 45 euros à sa charge par salarié et par mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle différence entre mutuelle, prévoyance et assurance santé ?</summary>
 
 La mutuelle (ou complémentaire santé) rembourse les frais médicaux non couverts par la Sécurité sociale : dépassements d'honoraires, optique, dentaire, médecines douces. La prévoyance couvre les risques lourds : arrêt de travail, invalidité, décès. L'assurance santé au sens strict désigne la couverture de base de l'Assurance maladie obligatoire. En entreprise, mutuelle et prévoyance sont souvent packagées ensemble.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels critères pour choisir une mutuelle d'entreprise ?</summary>
 
 Six critères sont déterminants : le taux de remboursement optique et dentaire (les postes les plus coûteux), l'accès à un réseau de soins partenaires, les délais de remboursement, la portabilité des droits en cas de départ du salarié, la qualité du service client et l'éligibilité au statut de contrat responsable (réduction de charges patronales).
 
-</details>
+</détails>

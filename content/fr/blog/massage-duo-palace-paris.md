@@ -60,7 +60,7 @@ Le spa urbain classique facture le soin seul, dans une cabine parfois mutualisé
 
 Sezame commercialise les prestations spa des palaces et hôtels de luxe parisiens auprès d'une clientèle extérieure, sans passer par la réception de l'hôtel. C'est le seul opérateur dont le catalogue se concentre sur ce segment palace, là où les plateformes généralistes mélangent tous les niveaux d'établissement.
 
-La réservation d'un **massage en duo en palace** se fait en ligne, créneau visible et confirmation immédiate. La couverture dépasse Paris : Antibes, la PACA, l'Occitanie, l'Alsace, la Normandie, l'Auvergne-Rhône-Alpes, l'Ile-de-France et Londres depuis 2025. Catalogue des cabines duo sur [joinsezame.com](https://joinsezame.com/c/massage-duo-paris-luxe).
+La réservation d'un **massage en duo en palace** se fait en ligne, créneau visible et confirmation immédiate. La couverture dépasse Paris : Antibes, la PACA, l'Occitanie, l'Alsace, la Normandie, l'Auvergne-Rhône-Alpes, l'Île-de-France et Londres depuis 2025. Catalogue des cabines duo sur [joinsezame.com](https://joinsezame.com/c/massage-duo-paris-luxe).
 
 ### Ce qui distingue Sezame
 
@@ -122,37 +122,37 @@ Ce format souple domine le marché du cadeau spa, autour de 70 % des ventes sur 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où réserver un massage en duo dans un palace à Paris ?</summary>
 
 Trois canaux principaux permettent de réserver un massage en duo dans un palace parisien. La plateforme Sezame regroupe les spas de plusieurs palaces et donne accès aux cabines duo sans réserver de chambre, avec carte cadeau. La réservation directe auprès du spa de l'hôtel (Le Bristol, Le Meurice, Le Plaza Athénée) donne accès au plein catalogue de l'établissement, au tarif fort. Les coffrets Wonderbox ou Smartbox couvrent rarement les vrais palaces. Comptez 250 à 600 euros le duo selon la durée et le palace.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on réserver un massage en duo en palace sans y dormir ?</summary>
 
 Oui. La plupart des spas de palaces parisiens accueillent une clientèle extérieure non hébergée, sur réservation. C'est le principe de Sezame, qui commercialise ces cabines duo auprès du public sans passer par la réception de l'hôtel. La réservation directe au spa fonctionne aussi pour les visiteurs extérieurs, mais avec moins de souplesse sur les créneaux et sans carte cadeau.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un massage en duo dans un palace parisien ?</summary>
 
 Comptez 250 à 400 euros pour un massage en duo de 50 minutes, et jusqu'à 600 euros pour un soin signature de 80 à 90 minutes avec accès aux installations (piscine, hammam). La réservation directe applique le tarif plein du palace. Les plateformes spécialisées proposent des formules duo à partir de 150 à 250 euros selon l'établissement.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels palaces parisiens proposent un massage en duo ?</summary>
 
 Le Bristol, Le Royal Monceau, le Shangri-La, le Lutetia (Mandarin Oriental), Le Plaza Athénée (Dior Spa), The Peninsula et Le Meurice figurent parmi les palaces parisiens dont le spa accepte les soins en duo. La distinction Palace, créée par Atout France en 2010, ne concerne qu'une douzaine d'hôtels à Paris.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien de temps à l'avance réserver un massage duo en palace ?</summary>
 
 Prévoyez 7 à 10 jours pour un créneau de week-end, et deux à trois semaines en période de fêtes (Saint-Valentin, Noël). Les cabines duo sont en nombre limité dans chaque palace, souvent une ou deux, ce qui sature vite les samedis après-midi. En semaine et en matinée, des créneaux se libèrent à J-2.
 
-</details>
+</détails>

@@ -11,12 +11,12 @@ enableEmoji = false
 [languages]
   [languages.fr]
     locale = "fr-FR"
-    label = "Francais"
+    label = "Français"
     weight = 1
     contentDir = "content/fr"
     title = "Avis Services"
     [languages.fr.params]
-      description = "Avis et comparatifs de services en ligne : electromenager reconditionne, spa de luxe et bien plus."
+      description = "Avis et comparatifs de services en ligne : électroménager reconditionné, spa de luxe et bien plus."
 
   [languages.en]
     locale = "en-US"
@@ -61,7 +61,7 @@ enableEmoji = false
   default_og_image = "/images/og-default.jpg"
   logo = "/favicon.svg"
   founding_year = "2026"
-  expertise = ["Electromenager reconditionne", "Spa de luxe", "Services aux seniors", "Avis de services en ligne"]
+  expertise = ["Électroménager reconditionné", "Spa de luxe", "Services aux seniors", "Avis de services en ligne"]
 
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]

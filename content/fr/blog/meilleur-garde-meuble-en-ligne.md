@@ -150,37 +150,37 @@ Six points de vigilance permettent de sécuriser la location indépendamment de 
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quel est le meilleur garde-meuble en ligne en 2026 ?</summary>
 
 Quatre acteurs structurent le marché français du garde-meuble en ligne. Costockage est le leader du stockage entre particuliers, avec plus de 15 000 espaces référencés en France et un prix moyen de 6 euros par mètre cube et par mois. Homebox est le leader historique du self-stockage classique digitalisé, avec 100 centres en France et un prix moyen de 25 euros par mètre cube. Jestocke est la deuxième plateforme P2P française avec 8000 espaces et un prix moyen de 7 euros par mètre cube. Shurgard est le leader européen du self-stockage premium, avec 70 centres en France et un prix moyen de 28 euros par mètre cube. Costockage reste le choix le plus économique et le plus flexible, Homebox et Shurgard le choix le plus sécurisé pour les biens de valeur.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un garde-meuble en ligne ?</summary>
 
 Un garde-meuble en ligne coûte entre 5 et 35 euros par mètre cube et par mois en 2026, selon le type de stockage et la localisation. Costockage et Jestocke (P2P) affichent un prix moyen de 6 à 7 euros par mètre cube, soit 30 à 50 euros par mois pour un studio (7 mètres cubes) ou 100 à 120 euros par mois pour un T3 (15 mètres cubes). Homebox et Shurgard (self-stockage classique) affichent un prix moyen de 25 à 28 euros par mètre cube, soit 180 à 220 euros par mois pour un studio ou 380 à 450 euros par mois pour un T3. Le centre-ville parisien renchérit les tarifs de 20 à 40 pour cent.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Le garde-meuble entre particuliers est-il fiable et assuré ?</summary>
 
 Oui, le stockage entre particuliers via Costockage ou Jestocke est assuré jusqu'à 5000 euros par défaut, avec extension possible jusqu'à 50 000 euros en option payante. Costockage applique une vérification d'identité du loueur, une caution de 200 à 500 euros et une assurance multirisque incluse dans le prix. Le taux de sinistre déclaré est inférieur à 1,5 pour cent sur l'ensemble des locations 2024 selon Costockage. La fiabilité est comparable à celle du self-stockage classique pour des biens de valeur courante, légèrement inférieure pour les biens de très grande valeur où Homebox et Shurgard apportent un niveau de sécurité physique supérieur (vidéosurveillance 24h sur 24, alarme, accès biométrique).
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la différence entre garde-meuble et self-stockage ?</summary>
 
 Le garde-meuble classique est un service de stockage géré par un opérateur professionnel (Homebox, Shurgard, Annexx) avec un box dédié dans un centre sécurisé, accès libre 7 jours sur 7, durée variable. Le self-stockage est un sous-segment du garde-meuble caractérisé par l'accès autonome du client à son box via badge ou code, sans intervention du personnel. Le stockage entre particuliers (Costockage, Jestocke) loue un espace chez un particulier (cave, grenier, garage, dépendance) à des conditions négociées, avec un prix 3 à 5 fois inférieur mais une accessibilité plus limitée et une sécurité variable.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment choisir entre Costockage, Homebox, Jestocke et Shurgard ?</summary>
 
 Le choix dépend du budget, du volume à stocker, de la durée et de la valeur des biens. Costockage convient pour un usage économique de moyenne à longue durée sur des biens de valeur courante (cartons, mobilier, électroménager). Homebox correspond aux acheteurs qui privilégient un accès libre 7 jours sur 7 et la sécurité d'un opérateur professionnel. Jestocke est une alternative P2P à Costockage avec un catalogue plus restreint mais des prix proches. Shurgard cible les biens de valeur, les usages professionnels et les particuliers qui acceptent un prix premium pour la sécurité maximale (vidéosurveillance, alarme, accès biométrique).
 
-</details>
+</détails>

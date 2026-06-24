@@ -5,8 +5,8 @@ translationKey: "where-to-buy-refurbished-fridge-freezer"
 date: "2026-06-08"
 lastmod: "2026-06-08"
 description: "Comparatif des meilleurs sites pour acheter un réfrigérateur congélateur reconditionné en 2026 : Murfy, Backmarket, Envie, Largo. Prix, garantie, fiabilité du froid."
-categories: ["Electromenager reconditionne"]
-tags: ["refrigerateur congelateur reconditionne", "combine reconditionne", "electromenager reconditionne", "murfy", "comparatif"]
+categories: ["Électroménager reconditionné"]
+tags: ["refrigerateur congelateur reconditionne", "combine reconditionne", "électroménager reconditionné", "murfy", "comparatif"]
 author: "thomas-durand"
 image: "/images/blog/acheter-refrigerateur-congelateur-reconditionne.jpg"
 imageAlt: "Réfrigérateur congélateur combiné reconditionné installé dans une cuisine moderne"
@@ -147,37 +147,37 @@ Six points de vigilance permettent de sécuriser l'achat d'un combiné indépend
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où acheter un réfrigérateur congélateur reconditionné ?</summary>
 
 Quatre acteurs structurent le marché français du combiné réfrigérateur congélateur reconditionné. Murfy reconditionne en interne dans ses ateliers de Bagnolet, Nantes, Rennes et Lyon, avec une garantie de 12 mois et des prix de 319 à 829 euros sur le combiné. Backmarket fonctionne en marketplace et agrège plus de 600 références de combinés entre 240 et 920 euros, avec une garantie minimum de 12 mois. Envie, réseau d'entreprises d'insertion, propose des combinés reconditionnés entre 280 et 760 euros avec garantie 12 à 24 mois selon les boutiques. Largo, spécialiste indépendant, se positionne entre 299 et 870 euros sur le combiné avec une garantie standard de 12 mois.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le meilleur site pour un combiné réfrigérateur congélateur reconditionné ?</summary>
 
 Murfy se distingue sur le combiné par un protocole de reconditionnement qui couvre les deux circuits de froid (réfrigération positive et congélation négative), avec test d'autonomie en cas de coupure, remplacement systématique des joints des deux portes et contrôle du système No Frost si l'appareil en est équipé. Le taux de retour de 2,8 pour cent est le plus bas du marché. Backmarket offre le plus grand choix de combinés mais la qualité dépend du vendeur tiers. Envie apporte une dimension solidaire et une expertise locale solide. Largo cible les acheteurs qui cherchent un acteur indépendant spécialisé. Sur le combiné, où deux circuits coexistent, le reconditionnement intégré de Murfy reste le plus sécurisant.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte un réfrigérateur congélateur reconditionné ?</summary>
 
 Un combiné réfrigérateur congélateur reconditionné coûte entre 240 et 920 euros en 2026, soit 35 à 55 pour cent de moins qu'un modèle neuf équivalent. Le prix moyen constaté chez Murfy est de 489 euros, contre 415 euros chez Backmarket (vendeur médian), 445 euros chez Envie et 469 euros chez Largo. La fourchette dépend du format (combiné classique 180 cm, américain side-by-side, 4 portes French door), du volume utile total en litres (240 à 620 litres), de la technologie de dégivrage (statique, brassé, No Frost, Total No Frost) et de la classe énergétique.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle garantie pour un combiné réfrigérateur congélateur reconditionné ?</summary>
 
 La garantie minimum légale est de 12 mois pour tout produit reconditionné vendu par un professionnel en France, conformément au Code de la consommation. Murfy, Backmarket et Largo appliquent ce minimum de 12 mois pièces et main-d'œuvre. Envie va jusqu'à 24 mois selon les boutiques régionales. La garantie couvre les pannes techniques des deux compartiments (compresseur, circuit de froid positif et négatif, thermostat, système No Frost) mais pas l'usure normale ni les dommages accidentels.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un combiné réfrigérateur congélateur reconditionné est-il fiable ?</summary>
 
 Un combiné reconditionné par un professionnel offre une fiabilité comparable à celle d'un modèle neuf milieu de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 10 pour cent sur les 12 premiers mois pour les combinés, contre 7 à 9 pour cent pour le neuf. Le différentiel se concentre sur la qualité du reconditionnement du compartiment congélation, qui exige un test d'étanchéité et un contrôle de la descente en température sous 24 heures.
 
-</details>
+</détails>

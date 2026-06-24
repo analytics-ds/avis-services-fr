@@ -119,37 +119,37 @@ Par ailleurs, les entreprises qui externalisent leur entretien à une [entrepris
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quelle est la meilleure banque pour les entreprises ?</summary>
 
 Qonto est la néo-banque professionnelle la mieux notée en 2026 avec 600 000 clients et une note de 4,5/5 sur Trustpilot. Pour les entreprises ayant besoin d'un accompagnement en financement (crédit, découvert), les banques traditionnelles comme BNP Paribas Pro, Crédit Mutuel Pro ou Banque Populaire Pro restent incontournables. Shine, rachetée par la Société Générale, est un bon compromis digital pour les indépendants et TPE.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Une entreprise est-elle obligée d'avoir un compte bancaire professionnel ?</summary>
 
 Les sociétés (SARL, SAS, SA, etc.) ont l'obligation légale d'ouvrir un compte bancaire dédié au nom de la personne morale. Pour les entrepreneurs individuels et auto-entrepreneurs, un compte dédié à l'activité professionnelle est fortement recommandé mais pas obligatoire jusqu'à un chiffre d'affaires de 10 000 euros sur deux années consécutives.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'un compte bancaire professionnel ?</summary>
 
 Les néo-banques comme Qonto ou Shine proposent des plans à partir de 9 à 10 euros par mois. Les banques traditionnelles facturent des packages entre 15 et 80 euros par mois selon les services inclus. Les frais annexes (virements internationaux, cartes supplémentaires, découvert autorisé) peuvent s'ajouter selon l'établissement.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle banque choisir pour une SAS ou SARL ?</summary>
 
 Pour une SAS ou une SARL, Qonto et Shine sont adaptées aux besoins courants (paiements, virements, comptabilité intégrée). Pour les structures ayant des besoins en financement, une banque traditionnelle avec un conseiller dédié (BNP Paribas Pro, Crédit Agricole Pro) reste préférable pour accéder à des lignes de crédit ou des cautions.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Les néo-banques pro sont-elles sûres ?</summary>
 
 Oui. Qonto est agréée en tant qu'établissement de paiement par l'ACPR (Autorité de Contrôle Prudentiel et de Résolution) et les fonds des clients sont protégés par le mécanisme de cantonnement obligatoire. Shine est désormais adossée à la Société Générale. Ces établissements ne bénéficient pas de la garantie des dépôts de 100 000 euros du FGDR, mais le cantonnement offre une protection équivalente.
 
-</details>
+</détails>

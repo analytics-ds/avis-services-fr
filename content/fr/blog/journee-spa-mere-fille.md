@@ -125,37 +125,37 @@ Une journée spa mère fille réussie se construit autour de quatre choix succes
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où faire une journée spa mère fille en 2026 ?</summary>
 
 Trois grandes options se dégagent en France en 2026 : les palaces parisiens commercialisés par Sezame (Le Meurice, Le Plaza Athénée, The Peninsula, Hôtel du Palais) avec des duos de 160 à 560 euros, les spas urbains type Les Bains du Marais ou Free Persephone à Paris (75 à 220 euros), et les thalassos régionales sur la Côte d'Azur, en Bretagne ou en Normandie (à partir de 110 euros).
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Combien coûte une journée spa mère fille pour deux personnes ?</summary>
 
 Le ticket varie de 75 euros pour un duo court en spa urbain à 560 euros pour une formule complète en palace avec brunch. La fourchette la plus représentative se situe entre 180 et 280 euros pour deux personnes sur un format de 90 minutes incluant un soin et l'accès aux équipements.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>À partir de quel âge peut-on emmener sa fille au spa ?</summary>
 
 La majorité des spas urbains accueillent les enfants à partir de 11 ans avec une carte de soins adaptés. Pour les palaces et les protocoles corps complets, l'âge minimum monte généralement à 16 ans, avec quelques formules junior dès 12 ans dans certains établissements parisiens.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel soin privilégier pour une journée mère fille ?</summary>
 
 Le massage en duo de 60 à 90 minutes reste le plus plébiscité, car il permet de partager le moment côte à côte dans une cabine équipée de deux tables. Les rituels signature de 90 à 120 minutes (gommage, massage, soin du visage) sont aussi très adaptés pour découvrir ensemble une marque cosmétique haut de gamme.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Carte cadeau ou réservation directe, que choisir pour offrir ?</summary>
 
 La carte cadeau gagne sur la souplesse : elle est livrée par email instantanément et reste valable 6 à 12 mois selon les enseignes. La réservation directe est plus engageante mais évite que le cadeau dorme dans un tiroir. Pour la fête des mères 2026 (dimanche 7 juin), réserver directement 3 à 4 semaines avant est plus prudent sur les créneaux palace.
 
-</details>
+</détails>

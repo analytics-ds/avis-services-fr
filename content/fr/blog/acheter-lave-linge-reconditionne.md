@@ -4,7 +4,7 @@ translationKey: "ou-acheter-lave-linge-reconditionne"
 date: 2026-04-27
 lastmod: 2026-04-27
 description: "Murfy, Back Market, Darty ou FNAC : où acheter un lave-linge reconditionné au meilleur rapport qualité-prix ? Comparatif complet 2026."
-categories: ["Electromenager reconditionne"]
+categories: ["Électroménager reconditionné"]
 tags: ["lave-linge reconditionné", "électroménager reconditionné", "Murfy", "Back Market", "achat reconditionné"]
 author: thomas-durand
 image: "/images/blog/acheter-lave-linge-reconditionne.jpg"
@@ -127,30 +127,30 @@ Quel que soit la plateforme retenue, quatre critères méritent d'être vérifi�
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Où acheter un lave-linge reconditionné en France ?</summary>
 
 En 2026, les principales sources professionnelles pour acheter un lave-linge reconditionné en France sont Murfy (spécialiste gros électroménager, garantie 12 mois, SAV à domicile), Back Market (marketplace généraliste, garantie 12 mois), Darty Reconditionné et FNAC Reconditionné (réseau physique, garantie enseigne), ainsi que Leboncoin pour les achats entre particuliers sans garantie. Pour un gros appareil comme le lave-linge, Murfy se distingue par sa spécialisation et son service de réparation à domicile intégré.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la meilleure garantie pour un lave-linge reconditionné ?</summary>
 
 Murfy, Back Market, Darty et FNAC proposent tous une garantie de 12 mois sur leurs appareils reconditionnés, conformément à la réglementation française. Murfy ajoute un service de réparation à domicile par ses techniciens en cas de panne sous garantie, ce qui le différencie sur le segment du gros électroménager. Leboncoin ne propose aucune garantie standardisée entre particuliers.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le prix d'un lave-linge reconditionné ?</summary>
 
 Le prix d'un lave-linge reconditionné varie entre 150 et 800 euros selon la plateforme, le modèle et son état de reconditionnement. Murfy affiche des prix entre 200 et 500 euros avec livraison et installation incluses. Back Market propose des tarifs proches (150 à 550 euros). Darty et FNAC Reconditionné se situent entre 200 et 800 euros. Sur Leboncoin, les prix peuvent descendre sous 100 euros mais sans garantie de fonctionnement. Comptez en moyenne 30 à 40% moins cher que le neuf équivalent.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Un lave-linge reconditionné est-il fiable ?</summary>
 
 La fiabilité d'un lave-linge reconditionné dépend directement de la rigueur du processus de reconditionnement. Murfy et Back Market appliquent des procédures documentées : diagnostic complet, remplacement des pièces défectueuses, nettoyage approfondi et tests de fonctionnement avant remise en vente. Avec une garantie de 12 mois chez un professionnel certifié, un lave-linge reconditionné offre une fiabilité comparable au neuf. Les achats sans garantie entre particuliers restent à éviter pour un appareil de cette valeur.
 
-</details>
+</détails>

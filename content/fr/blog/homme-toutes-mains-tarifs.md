@@ -141,37 +141,37 @@ Cinq points de vigilance permettent de sécuriser une intervention. Pour s'organ
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Qu'est-ce qu'un homme toutes mains et que peut-il faire ?</summary>
 
 Un homme toutes mains est un professionnel polyvalent qui réalise les petits travaux du quotidien à domicile : montage de meubles, fixation d'étagères, pose de tringles à rideaux, petite plomberie (joints, robinets), petite électricité (prises, interrupteurs), peinture de retouche, jardinage léger et bricolage divers. Il intervient en moyenne sur des missions de 1 à 4 heures et facture entre 25 et 45 euros de l'heure en 2026 selon la région et le statut (auto-entrepreneur ou société). Son code APE est généralement 81.21Z ou 96.09Z.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quel est le tarif horaire d'un homme toutes mains ?</summary>
 
 Le tarif horaire d'un homme toutes mains varie de 25 à 45 euros TTC en 2026, avec une moyenne nationale de 32 euros. En Île-de-France, le tarif moyen monte à 38 euros, contre 28 euros en province. Les plateformes type AlloVoisins, Yoojo ou Frizbiz pratiquent des tarifs souvent 15 à 20 pour cent inférieurs aux artisans indépendants traditionnels. Au-delà de 2 heures continues d'intervention, certains professionnels appliquent un tarif dégressif.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quels travaux peut faire un homme toutes mains ?</summary>
 
 Un homme toutes mains réalise tous les petits travaux ne nécessitant pas de qualification réglementée : montage de meubles en kit (IKEA, Maisons du Monde), fixation murale (tableaux, télévision, étagères), pose de tringles et rideaux, jointure de carrelage et silicone, petite plomberie hors raccordement réseau (joints, mitigeurs, chasse d'eau), petite électricité hors compteur (remplacement de prise, interrupteur, luminaire), peinture sur petite surface, jardinage léger, débroussaillage. Il ne peut pas faire d'installation gaz, d'électricité réglementée ni de plomberie sous pression sans qualification.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la différence entre un homme toutes mains et un artisan ?</summary>
 
 Un artisan est qualifié dans un métier spécifique (plombier, électricien, menuisier) avec un diplôme et une assurance professionnelle dédiée. Un homme toutes mains est polyvalent mais ne peut pas faire de travaux réglementés (gaz, électricité encastrée, plomberie sous pression). Le coût horaire est plus bas (25 à 45 euros contre 45 à 80 euros pour un artisan) mais le champ d'intervention plus restreint. Pour les petits travaux du quotidien, l'homme toutes mains est l'option la plus économique.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Où trouver un homme toutes mains de confiance ?</summary>
 
 Quatre canaux principaux existent pour trouver un homme toutes mains fiable : les plateformes de mise en relation (AlloVoisins, Yoojo, Frizbiz, ManoMano Services) qui notent les prestataires, les annuaires d'artisans (Pages Jaunes, Annuaire CMA), le bouche-à-oreille local, et les services à la personne agréés (Centre Services, O2, Domaliance) qui proposent des prestations de bricolage. Vérifier systématiquement les avis (minimum 20 avis, note supérieure à 4,5 sur 5), l'assurance responsabilité civile professionnelle et le statut juridique.
 
-</details>
+</détails>

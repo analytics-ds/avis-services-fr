@@ -112,26 +112,26 @@ Les plateformes de réservation en ligne (Sezame, Treatwell) permettent de compa
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Quels sont les effets d'un massage suédois ?</summary>
 
 Le massage suédois détend les muscles, améliore la circulation sanguine et lymphatique et favorise l'élimination des toxines. Il réduit significativement le niveau de cortisol (hormone du stress) et stimule la production d'endorphines, procurant une sensation de bien-être durable. Les effets sont perceptibles dès la première séance.
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelles sont les contre-indications du massage suédois ?</summary>
 
 Le massage suédois est déconseillé en cas de fièvre, d'infection cutanée active, de phlébite, de varices importantes, de fracture récente ou de cancer évolutif non stabilisé. Les femmes enceintes au premier trimestre et les personnes sous anticoagulants doivent consulter leur médecin avant de réserver une séance.
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment se passe un massage suédois ?</summary>
 
 Une séance dure généralement 60 à 90 minutes. Le praticien applique une huile végétale et enchaîne cinq types de mouvements : effleurage (glissements longs), pétrissage (malaxage des muscles), friction (pressions circulaires), tapotement (percussions légères) et vibrations. Le massage couvre l'ensemble du corps.
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Massage suédois ou massage californien : lequel choisir ?</summary>
 
 Le massage suédois est structuré et tonique, ciblant la libération des tensions musculaires et l'amélioration de la circulation. Le massage californien privilégie la fluidité et des mouvements lents centrés sur la détente globale du système nerveux. Pour un résultat thérapeutique ou post-sportif, le suédois est préférable ; pour un lâcher-prise émotionnel profond, le californien convient mieux.
-</details>
+</détails>

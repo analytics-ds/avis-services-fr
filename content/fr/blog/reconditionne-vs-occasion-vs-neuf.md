@@ -4,7 +4,7 @@ translationKey: "art-reconditionne-vs-occasion-vs-neuf"
 date: 2026-04-17
 lastmod: 2026-04-18
 description: "Reconditionné, occasion ou neuf : comparatif complet pour choisir son électroménager en 2026. Prix, garantie, fiabilité."
-categories: ["Electromenager reconditionne"]
+categories: ["Électroménager reconditionné"]
 tags: ["reconditionne", "occasion", "neuf", "guide", "comparatif"]
 author: thomas-durand
 image: "/images/blog/reconditionne-vs-occasion-vs-neuf.jpg"
@@ -132,37 +132,37 @@ Le cas des seniors ou des aidants qui équipent un domicile adapté mérite un t
 
 ## Questions fréquentes
 
-<details>
+<détails>
 <summary>Reconditionné, occasion ou neuf : que choisir pour son électroménager ?</summary>
 
 Le reconditionné offre le meilleur rapport qualité-prix en 2026, avec 20 à 50 pour cent d'économie par rapport au neuf et une garantie minimum de 12 mois. L'occasion reste la moins chère mais sans garantie. Le neuf s'impose pour les modèles dernière génération ou les usages intensifs.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle est la différence entre électroménager reconditionné et occasion ?</summary>
 
 Un appareil reconditionné a été testé, réparé et nettoyé par un professionnel avant revente, avec une garantie de 12 à 24 mois. Un appareil d'occasion est revendu en l'état, souvent entre particuliers, sans contrôle qualité ni garantie.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Quelle économie réaliser avec un appareil reconditionné ?</summary>
 
 L'économie moyenne est de 20 à 50 pour cent par rapport au prix du neuf selon le grade (bon, très bon, excellent) et l'ancienneté du modèle. Un lave-linge vendu 700 euros neuf se trouve entre 350 et 550 euros en reconditionné.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Comment s'assurer de la fiabilité d'un appareil reconditionné ?</summary>
 
 Acheter chez un professionnel audité (Back Market, Envie, Recommerce), vérifier la durée de garantie (minimum 12 mois), lire les avis clients sur le vendeur et privilégier les grades très bon ou excellent pour plus de sérénité.
 
-</details>
+</détails>
 
-<details>
+<détails>
 <summary>Peut-on encore bénéficier du bonus réparation en achetant reconditionné ?</summary>
 
 Non. Le bonus réparation de l'État (de 10 à 60 euros selon l'appareil) s'applique uniquement à la réparation d'un appareil en panne, pas à l'achat d'un appareil reconditionné. En revanche, certaines marketplaces proposent des codes de réduction équivalents.
 
-</details>
+</détails>
