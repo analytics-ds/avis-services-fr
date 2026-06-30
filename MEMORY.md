@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 27 (29/06/2026 - 05/07/2026)
+- 2026-06-30 | Ou acheter une table de cuisson reconditionnee en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
+
 ## Semaine 26 (22/06/2026 - 28/06/2026)
 - 2026-06-24 | Prime reparation electromenager 2026 : montants et conditions (FR+EN) | Electromenager reconditionne | ponctuel
 - 2026-06-23 | Ou acheter un seche-linge reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
