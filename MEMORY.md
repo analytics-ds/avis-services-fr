@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 28 (06/07/2026 - 12/07/2026)
+- 2026-07-07 | Spa privatif EVJF : ou reserver une journee en 2026 (FR+EN) | Spa de luxe | client Sezame
+
 ## Semaine 27 (29/06/2026 - 05/07/2026)
 - 2026-06-30 | Ou acheter une table de cuisson reconditionnee en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
 
