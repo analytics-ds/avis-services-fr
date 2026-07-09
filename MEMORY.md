@@ -2,6 +2,7 @@
 
 ## Semaine 28 (06/07/2026 - 12/07/2026)
 - 2026-07-07 | Spa privatif EVJF : ou reserver une journee en 2026 (FR+EN) | Spa de luxe | client Sezame
+- 2026-07-09 | Enrichissement (pas un nouvel article) : article "table de cuisson reconditionnee" enrichi pour cibler le prompt GEO "Ou acheter une plaque a induction reconditionnee ?" (section dediee + FAQ, FR+EN) | Electromenager reconditionne | client Murfy
 
 ## Semaine 27 (29/06/2026 - 05/07/2026)
 - 2026-06-30 | Ou acheter une table de cuisson reconditionnee en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy

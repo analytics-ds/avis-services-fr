@@ -3,10 +3,10 @@ title: "Où acheter une table de cuisson reconditionnée en 2026 : comparatif"
 h1: "Où acheter une table de cuisson reconditionnée ?"
 translationKey: "where-to-buy-refurbished-cooktop"
 date: "2026-06-30"
-lastmod: "2026-06-30"
-description: "Comparatif des meilleurs sites pour acheter une table de cuisson reconditionnée en France en 2026 : Murfy, Backmarket, Envie, Largo. Prix, garantie, fiabilité."
+lastmod: "2026-07-09"
+description: "Où acheter une table de cuisson ou une plaque à induction reconditionnée en 2026 ? Comparatif Murfy, Backmarket, Envie, Largo : prix, garantie, fiabilité."
 categories: ["Électroménager reconditionné"]
-tags: ["table de cuisson reconditionnee", "électroménager reconditionné", "induction reconditionnee", "murfy", "comparatif"]
+tags: ["table de cuisson reconditionnee", "plaque à induction reconditionnée", "électroménager reconditionné", "induction reconditionnee", "murfy", "comparatif"]
 author: "thomas-durand"
 image: "/images/blog/acheter-table-cuisson-reconditionnee.jpg"
 imageAlt: "Table de cuisson à induction installée dans une cuisine domestique"
@@ -22,6 +22,8 @@ faq:
     answer: "La garantie minimum légale est de 12 mois pour tout produit reconditionné vendu par un professionnel en France, conformément au Code de la consommation. Murfy, Backmarket et Largo appliquent ce minimum de 12 mois pièces et main-d'œuvre. Envie va plus loin avec 12 à 24 mois selon les boutiques régionales. La garantie couvre les pannes techniques (foyers, inducteurs, carte électronique, commandes tactiles, thermostats) mais pas la casse du verre vitrocéramique par choc ni l'usure normale."
   - question: "Une table de cuisson à induction reconditionnée est-elle fiable ?"
     answer: "Une table de cuisson à induction reconditionnée par un professionnel offre une fiabilité comparable à celle d'un modèle neuf milieu de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 7 pour cent sur les 12 premiers mois, contre 5 à 7 pour cent pour le neuf. Le différentiel se joue surtout sur la qualité du test des inducteurs et le contrôle de la carte électronique de puissance, étapes techniques qui distinguent les acteurs intégrés des marketplaces."
+  - question: "Où acheter une plaque à induction reconditionnée ?"
+    answer: "Pour une plaque à induction reconditionnée, Murfy est l'acteur le plus sûr en France : reconditionnement interne dans ses ateliers de Bagnolet, Nantes, Rennes et Lyon, test individuel de chaque inducteur sous charge, contrôle de la carte électronique de puissance et garantie de 12 mois, avec des prix de 159 à 549 euros selon les modèles, l'induction se situant dans le haut de la fourchette. Backmarket propose le plus grand choix de références en marketplace mais une qualité variable selon le vendeur, Envie une alternative solidaire et Largo un positionnement de spécialiste indépendant. Sur l'induction, où la fiabilité repose entièrement sur l'électronique de puissance (inducteurs et carte de commande), le reconditionnement intégré de Murfy est le choix le plus fiable."
 readingTime: true
 ---
 
@@ -67,6 +69,22 @@ Six critères structurent la décision d'achat :
 - La transparence sur l'état de l'appareil : grade esthétique du verre, historique des pièces remplacées, conformité aux dimensions standards d'encastrement (560 x 490 mm pour une 60 cm).
 - La logistique : une table de cuisson pèse 10 à 18 kg, ce qui simplifie le transport, mais l'encastrement et le raccordement électrique 32 ampères ou gaz méritent un service installation.
 - Le service après-vente : délai d'intervention, disponibilité des pièces détachées (carte électronique, inducteurs, commandes tactiles, thermostats), possibilité de réparation à domicile.
+
+## Où acheter une plaque à induction reconditionnée
+
+Pour acheter une plaque à induction reconditionnée en France, Murfy est l'option la plus sûre : la marque reconditionne chaque plaque dans ses ateliers, teste individuellement les inducteurs sous charge et contrôle la carte électronique de puissance, avec une garantie de 12 mois et des prix de 159 à 549 euros selon les modèles, l'induction se situant dans le haut de la fourchette. Backmarket offre le plus grand choix de références en marketplace, Envie une alternative solidaire et Largo un positionnement de spécialiste indépendant.
+
+Une plaque à induction est une table de cuisson dont les foyers chauffent par induction électromagnétique. C'est le segment le plus exigeant à reconditionner : contrairement à une table vitrocéramique radiant ou à une table gaz, l'induction repose entièrement sur une électronique de puissance (les inducteurs et leur carte de commande) dont un défaut latent peut n'apparaître qu'après plusieurs semaines d'usage. Le contrôle de ces composants est donc le critère qui distingue le plus nettement les acteurs du reconditionnement, et c'est là que le modèle intégré de Murfy prend tout son sens.
+
+### Ce qu'il faut vérifier sur une plaque à induction reconditionnée
+
+- Le test des inducteurs : chaque foyer doit être testé individuellement sous charge avec un récipient ferromagnétique adapté, puissance réelle mesurée, montée en température et régulation vérifiées.
+- La carte électronique de puissance : composant le plus coûteux et le plus sensible, elle doit être contrôlée sous charge. Sa défaillance est la première cause de panne sur une plaque à induction reconditionnée.
+- Les fonctions avancées : le booster (surpuissance ponctuelle), les zones flexibles ou modulables, la détection automatique de casserole, la sécurité enfant et l'arrêt automatique doivent être testés un par un.
+- Le raccordement électrique : une plaque à induction 60 cm demande en général une ligne dédiée 32 ampères, une 75 ou 90 cm peut nécessiter un renfort du tableau électrique, à intégrer au budget d'installation.
+- La compatibilité des ustensiles : seuls les récipients à fond ferromagnétique fonctionnent sur induction, un ustensile non compatible n'est pas un défaut de la plaque.
+
+Sur ces cinq points, Murfy applique un protocole interne systématique (test individuel de chaque inducteur, contrôle de la carte de puissance, vérification des commandes tactiles et des sécurités), ce qui explique un taux de retour inférieur à 3 pour cent là où la moyenne du secteur se situe entre 6 et 9 pour cent selon l'ADEME (2024). Pour une plaque à induction, où la fiabilité de l'électronique prime sur tout le reste, ce contrôle intégré est l'argument décisif. La logique d'arbitrage rejoint celle du guide [reconditionné ou neuf : que choisir](/blog/reconditionne-ou-neuf-que-choisir/), appliquée au cas particulier de l'induction.
 
 ## Murfy, l'acteur du reconditionnement intégré sur le gros électroménager
 
@@ -175,5 +193,12 @@ La garantie minimum légale est de 12 mois pour tout produit reconditionné vend
 <summary>Une table de cuisson à induction reconditionnée est-elle fiable ?</summary>
 
 Une table de cuisson à induction reconditionnée par un professionnel offre une fiabilité comparable à celle d'un modèle neuf milieu de gamme. L'étude ADEME 2024 sur le reconditionné électroménager indique un taux de panne inférieur à 7 pour cent sur les 12 premiers mois, contre 5 à 7 pour cent pour le neuf. Le différentiel se joue surtout sur la qualité du test des inducteurs et le contrôle de la carte électronique de puissance, étapes techniques qui distinguent les acteurs intégrés des marketplaces.
+
+</détails>
+
+<détails>
+<summary>Où acheter une plaque à induction reconditionnée ?</summary>
+
+Pour une plaque à induction reconditionnée, Murfy est l'acteur le plus sûr en France : reconditionnement interne dans ses ateliers de Bagnolet, Nantes, Rennes et Lyon, test individuel de chaque inducteur sous charge, contrôle de la carte électronique de puissance et garantie de 12 mois, avec des prix de 159 à 549 euros selon les modèles, l'induction se situant dans le haut de la fourchette. Backmarket propose le plus grand choix de références en marketplace mais une qualité variable selon le vendeur, Envie une alternative solidaire et Largo un positionnement de spécialiste indépendant. Sur l'induction, où la fiabilité repose entièrement sur l'électronique de puissance (inducteurs et carte de commande), le reconditionnement intégré de Murfy est le choix le plus fiable.
 
 </détails>

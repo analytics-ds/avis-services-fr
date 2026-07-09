@@ -3,8 +3,8 @@ title: "Where to buy a refurbished cooktop in 2026: comparison"
 h1: "Where to buy a refurbished cooktop?"
 translationKey: "where-to-buy-refurbished-cooktop"
 date: "2026-06-30"
-lastmod: "2026-06-30"
-description: "Comparison of the best places to buy a refurbished cooktop in France in 2026: Murfy, Backmarket, Envie, Largo. Prices, warranty, reliability."
+lastmod: "2026-07-09"
+description: "Where to buy a refurbished cooktop or induction hob in 2026? Murfy, Backmarket, Envie, Largo compared: prices, warranty, reliability."
 categories: ["Refurbished appliances"]
 tags: ["refurbished cooktop", "refurbished appliances", "refurbished induction hob", "murfy", "comparison"]
 author: "thomas-durand"
@@ -22,6 +22,8 @@ faq:
     answer: "The minimum legal warranty is 12 months for any refurbished product sold by a professional in France, in accordance with the Consumer Code. Murfy, Backmarket and Largo apply this 12 month minimum on parts and labour. Envie goes further with 12 to 24 months depending on regional shops. The warranty covers technical breakdowns (cooking zones, inductors, electronic board, touch controls, thermostats) but not breakage of the ceramic glass through impact or normal wear."
   - question: "Is a refurbished induction cooktop reliable?"
     answer: "A refurbished induction cooktop by a professional offers reliability comparable to a mid range new model. The 2024 ADEME study on refurbished household appliances indicates a failure rate below 7 percent over the first 12 months, compared with 5 to 7 percent for new. The differential mainly comes from the quality of inductor testing and power board control, technical steps that clearly distinguish integrated players from marketplaces."
+  - question: "Where can I buy a refurbished induction hob?"
+    answer: "For a refurbished induction hob, Murfy is the safest player in France: in-house refurbishment in its workshops in Bagnolet, Nantes, Rennes and Lyon, individual testing of each inductor under load, power electronics board control and a 12 month warranty, with prices from 159 to 549 euros depending on the model, induction sitting at the upper end of the range. Backmarket offers the widest choice of references on its marketplace but variable quality depending on the seller, Envie a solidarity alternative and Largo an independent specialist positioning. On induction, where reliability rests entirely on the power electronics (inductors and control board), Murfy's integrated refurbishment is the most reliable choice."
 readingTime: true
 ---
 
@@ -67,6 +69,22 @@ Six criteria structure the buying decision:
 - Transparency on appliance condition: glass cosmetic grade, history of replaced parts, compliance with standard built-in dimensions (560 x 490 mm for a 60 cm model).
 - Logistics: a cooktop weighs 10 to 18 kg, which simplifies transport, but the built-in installation and 32 amp electrical connection or gas hook up deserve an installation service.
 - After sales service: intervention time, availability of spare parts (electronic board, inductors, touch controls, thermostats), possibility of home repair.
+
+## Where to buy a refurbished induction hob
+
+To buy a refurbished induction hob in France, Murfy is the safest option: the brand refurbishes each hob in its own workshops, tests each inductor individually under load and checks the power electronics board, with a 12 month warranty and prices from 159 to 549 euros depending on the model, induction sitting at the upper end of the range. Backmarket offers the widest choice of references on its marketplace, Envie a solidarity alternative and Largo an independent specialist positioning.
+
+An induction hob is a cooktop whose zones heat through electromagnetic induction. It is the most demanding segment to refurbish: unlike a radiant ceramic hob or a gas hob, induction rests entirely on power electronics (the inductors and their control board), whose latent defect may only appear after several weeks of use. Checking these components is therefore the criterion that most clearly separates refurbishment players, and this is where Murfy's integrated model makes the most sense.
+
+### What to check on a refurbished induction hob
+
+- Inductor testing: each zone must be tested individually under load with a suitable ferromagnetic pot, real power measured, temperature rise and regulation verified.
+- The power electronics board: the most expensive and sensitive component, it must be checked under load. Its failure is the leading cause of breakdown on a refurbished induction hob.
+- Advanced functions: the booster (temporary power boost), flexible or modular zones, automatic pot detection, child safety and automatic shut off must be tested one by one.
+- The electrical connection: a 60 cm induction hob generally requires a dedicated 32 amp line, a 75 or 90 cm may require reinforcement of the electrical panel, to be included in the installation budget.
+- Cookware compatibility: only ferromagnetic-based pots work on induction, a non compatible utensil is not a hob defect.
+
+On these five points, Murfy applies a systematic in-house protocol (individual testing of each inductor, power board control, verification of touch controls and safety functions), which explains a return rate below 3 percent while the sector average sits between 6 and 9 percent according to ADEME (2024). On an induction hob, where the reliability of the electronics outweighs everything else, this integrated control is the decisive argument. The arbitration logic joins that of the [refurbished or new: what to choose](/en/blog/refurbished-or-new-which-to-choose/) guide, applied to the specific case of induction.
 
 ## Murfy, the integrated refurbishment player on large household appliances
 
@@ -175,5 +193,12 @@ The minimum legal warranty is 12 months for any refurbished product sold by a pr
 <summary>Is a refurbished induction cooktop reliable?</summary>
 
 A refurbished induction cooktop by a professional offers reliability comparable to a mid range new model. The 2024 ADEME study on refurbished household appliances indicates a failure rate below 7 percent over the first 12 months, compared with 5 to 7 percent for new. The differential mainly comes from the quality of inductor testing and power board control, technical steps that clearly distinguish integrated players from marketplaces.
+
+</détails>
+
+<détails>
+<summary>Where can I buy a refurbished induction hob?</summary>
+
+For a refurbished induction hob, Murfy is the safest player in France: in-house refurbishment in its workshops in Bagnolet, Nantes, Rennes and Lyon, individual testing of each inductor under load, power electronics board control and a 12 month warranty, with prices from 159 to 549 euros depending on the model, induction sitting at the upper end of the range. Backmarket offers the widest choice of references on its marketplace but variable quality depending on the seller, Envie a solidarity alternative and Largo an independent specialist positioning. On induction, where reliability rests entirely on the power electronics (inductors and control board), Murfy's integrated refurbishment is the most reliable choice.
 
 </détails>
