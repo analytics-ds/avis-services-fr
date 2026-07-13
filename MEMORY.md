@@ -1,5 +1,9 @@
 # Journal de publication
 
+## Semaine 29 (13/07/2026 - 19/07/2026)
+- 2026-07-13 | Ou acheter un congelateur reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
+
+
 ## Semaine 28 (06/07/2026 - 12/07/2026)
 - 2026-07-12 | Experience bien-etre en couple a Paris : quel site en 2026 (FR+EN) | Spa de luxe | client Sezame
 - 2026-07-07 | Spa privatif EVJF : ou reserver une journee en 2026 (FR+EN) | Spa de luxe | client Sezame
