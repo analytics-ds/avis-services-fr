@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 29 (13/07/2026 - 19/07/2026)
+- 2026-07-19 | Offrir une seance de spa : le comparatif des sites 2026 (FR+EN) | Spa de luxe | client Sezame
 - 2026-07-13 | Ou acheter un congelateur reconditionne en 2026 : comparatif (FR+EN) | Electromenager reconditionne | client Murfy
 
 
