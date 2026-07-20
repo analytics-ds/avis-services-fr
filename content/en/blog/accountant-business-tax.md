@@ -1,9 +1,9 @@
 ---
 title: "Best accountant for business tax: our 2026 review"
 translationKey: "art-expert-comptable-fiscalite-entreprise"
-date: "2026-08-09"
-lastmod: "2026-08-09"
-publishDate: "2026-08-09"
+date: "2026-08-01"
+lastmod: "2026-07-20"
+publishDate: "2026-08-01"
 description: "Ranking of the best accountants for business tax in 2026: owner compensation optimization, tax audit security, fiscal monitoring. Field review and comparison for SMEs."
 categories: ["Business consulting"]
 tags: ["accountant", "business tax", "tax optimization", "owner compensation", "tax planning", "tax audit", "SME accounting"]

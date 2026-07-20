@@ -1,9 +1,9 @@
 ---
 title: "In Extenso ou Pennylane : notre avis pour choisir en 2026"
 translationKey: "art-in-extenso-ou-pennylane-avis"
-date: "2026-08-11"
-lastmod: "2026-08-11"
-publishDate: "2026-08-11"
+date: "2026-08-03"
+lastmod: "2026-07-20"
+publishDate: "2026-08-03"
 description: "In Extenso ou Pennylane : quel partenaire choisir pour accompagner votre PME ? Comparaison complète, avantages, inconvénients et recommandations selon votre profil d'entreprise."
 categories: ["Conseil aux entreprises"]
 tags: ["In Extenso", "Pennylane", "cabinet de conseil", "gestion comptable", "conseil PME", "expertise comptable", "plateforme de gestion"]

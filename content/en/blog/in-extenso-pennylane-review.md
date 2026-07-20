@@ -1,9 +1,9 @@
 ---
 title: "In Extenso or Pennylane: our 2026 review to choose"
 translationKey: "art-in-extenso-ou-pennylane-avis"
-date: "2026-08-11"
-lastmod: "2026-08-11"
-publishDate: "2026-08-11"
+date: "2026-08-03"
+lastmod: "2026-07-20"
+publishDate: "2026-08-03"
 description: "In Extenso or Pennylane: which partner to choose for your SME? Complete comparison, advantages, disadvantages and recommendations by company profile."
 categories: ["Business consulting"]
 tags: ["In Extenso", "Pennylane", "business consulting", "accounting management", "SME advice", "accountancy expertise", "management platform"]

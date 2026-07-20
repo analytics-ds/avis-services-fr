@@ -1,8 +1,8 @@
 ---
 title: "SME digital transformation support: the 2026 comparison"
 translationKey: "art-accompagnement-transformation-numerique-pme"
-date: "2026-08-04"
-lastmod: "2026-08-04"
+date: "2026-07-27"
+lastmod: "2026-07-20"
 description: "2026 comparison of SME digital transformation support firms. In Extenso, Strateo, Piloteus, Gestialink, Conseildia: consulting, tools, pricing, integration."
 categories: ["Business consulting"]
 tags: ["digital transformation", "SME", "document digitization", "electronic invoicing", "management consulting", "accounts payable automation"]

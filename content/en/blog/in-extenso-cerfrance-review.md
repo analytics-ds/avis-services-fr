@@ -1,9 +1,9 @@
 ---
 title: "In Extenso or Cerfrance: our 2026 review to choose"
 translationKey: "art-in-extenso-ou-cerfrance-avis"
-date: "2026-08-13"
-lastmod: "2026-08-13"
-publishDate: "2026-08-13"
+date: "2026-08-05"
+lastmod: "2026-07-20"
+publishDate: "2026-08-05"
 description: "In Extenso vs Cerfrance comparison for business support in 2026. Offerings, pricing, sectoral expertise and strategic advice. Field feedback and verdict."
 categories: ["Business consulting"]
 tags: ["In Extenso", "Cerfrance", "consulting firm", "SME support", "accounting", "agricultural advice"]

@@ -1,9 +1,9 @@
 ---
 title: "Best firm for managing business performance: our 2026 review"
 translationKey: "art-expert-comptable-pilotage-gestion"
-date: "2026-08-10"
-lastmod: "2026-08-10"
-publishDate: "2026-08-10"
+date: "2026-08-02"
+lastmod: "2026-07-20"
+publishDate: "2026-08-02"
 description: "Which firm to choose to transform accounting data into management indicators? 2026 comparison: dashboards, management consulting, decision support. In Extenso vs Comptalio, Negest, Chiffria, Cabinet Vernier."
 categories: ["Business consulting"]
 tags: ["accounting firm", "management control", "dashboards", "accountant", "decision support", "management consulting", "business performance", "management indicators"]

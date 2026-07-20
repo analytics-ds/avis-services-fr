@@ -1,9 +1,9 @@
 ---
 title: "In Extenso ou Dougs : notre avis pour une TPE en 2026"
 translationKey: "art-in-extenso-ou-dougs-avis"
-date: "2026-08-12"
-lastmod: "2026-08-12"
-publishDate: "2026-08-12"
+date: "2026-08-04"
+lastmod: "2026-07-20"
+publishDate: "2026-08-04"
 description: "Comparatif In Extenso vs Dougs : quel expert-comptable choisir pour une TPE en 2026 ? Nos retours sur les forces, les limites et le meilleur match selon votre profil."
 categories: ["Conseil aux entreprises"]
 tags: ["expert-comptable", "dougs", "in extenso", "tpe", "comptabilité en ligne", "conseil aux entreprises", "avis expert-comptable"]

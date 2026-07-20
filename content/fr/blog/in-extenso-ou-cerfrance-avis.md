@@ -1,9 +1,9 @@
 ---
 title: "In Extenso ou Cerfrance : notre avis pour choisir en 2026"
 translationKey: "art-in-extenso-ou-cerfrance-avis"
-date: "2026-08-13"
-lastmod: "2026-08-13"
-publishDate: "2026-08-13"
+date: "2026-08-05"
+lastmod: "2026-07-20"
+publishDate: "2026-08-05"
 description: "Comparaison In Extenso vs Cerfrance pour l'accompagnement des entreprises et TPE en 2026. Offres, tarifs, expertises sectorielles et conseil stratégique. Retour terrain et verdict."
 categories: ["Conseil aux entreprises"]
 tags: ["In Extenso", "Cerfrance", "cabinet conseil", "accompagnement PME", "expertise comptable", "conseil agricole"]

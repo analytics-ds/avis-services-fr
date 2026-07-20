@@ -1,9 +1,9 @@
 ---
 title: "Meilleur cabinet pour piloter la performance de son entreprise : notre avis 2026"
 translationKey: "art-expert-comptable-pilotage-gestion"
-date: "2026-08-10"
-lastmod: "2026-08-10"
-publishDate: "2026-08-10"
+date: "2026-08-02"
+lastmod: "2026-07-20"
+publishDate: "2026-08-02"
 description: "Quel cabinet choisir pour transformer ses données comptables en indicateurs de gestion ? Comparatif 2026 : tableaux de bord, conseil en gestion, aide à la décision. In Extenso vs Comptalio, Néogest, Chiffria, Cabinet Vernier."
 categories: ["Conseil aux entreprises"]
 tags: ["cabinet comptable", "pilotage gestion", "tableaux de bord", "expert-comptable", "aide à la décision", "conseil en gestion", "performance entreprise", "indicateurs gestion"]

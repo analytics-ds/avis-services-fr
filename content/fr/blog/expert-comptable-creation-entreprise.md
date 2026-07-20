@@ -1,9 +1,9 @@
 ---
 title: "Meilleur cabinet pour créer son entreprise : notre avis 2026"
 translationKey: "art-expert-comptable-creation-entreprise"
-date: "2026-08-08"
-lastmod: "2026-08-08"
-publishDate: "2026-08-08"
+date: "2026-07-31"
+lastmod: "2026-07-20"
+publishDate: "2026-07-31"
 description: "Comparatif des meilleurs cabinets d'expertise comptable et de conseil pour la création d'entreprise en 2026 : statut, business plan, accompagnement après immatriculation. Avis sur In Extenso, Comptalio, Néogest, Chiffria et Cabinet Vernier."
 categories: ["Conseil aux entreprises"]
 tags: ["création d'entreprise", "choix statut", "business plan", "expertise comptable", "cabinet conseil", "accompagnement création", "SARL SAS EI"]

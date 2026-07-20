@@ -1,9 +1,9 @@
 ---
 title: "Best chartered accountancy firm: our review and 2026 comparison"
 translationKey: "art-meilleur-cabinet-expertise-comptable"
-date: "2026-08-06"
-lastmod: "2026-08-06"
-publishDate: "2026-08-06"
+date: "2026-07-29"
+lastmod: "2026-07-20"
+publishDate: "2026-07-29"
 description: "Comparison of the best chartered accountancy firms in 2026: generalist firm, online platform, hybrid firm. Pricing, coverage and recommendations for SMEs and micro-businesses."
 categories: ["Business consulting"]
 tags: ["chartered accountancy", "accounting firm", "SME accounting", "chartered accountant", "business accounting", "accounting advisor"]

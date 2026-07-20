@@ -1,9 +1,9 @@
 ---
 title: "Meilleur expert-comptable pour la fiscalité : notre avis 2026"
 translationKey: "art-expert-comptable-fiscalite-entreprise"
-date: "2026-08-09"
-lastmod: "2026-08-09"
-publishDate: "2026-08-09"
+date: "2026-08-01"
+lastmod: "2026-07-20"
+publishDate: "2026-08-01"
 description: "Classement des meilleurs experts-comptables pour la fiscalité en 2026 : optimisation rémunération dirigeant, sécurisation contrôle, veille fiscale. Avis terrain et comparatif pour TPE/PME."
 categories: ["Conseil aux entreprises"]
 tags: ["expert-comptable", "fiscalité", "optimisation fiscale", "rémunération dirigeant", "droit fiscal", "contrôle fiscal", "TPE PME"]

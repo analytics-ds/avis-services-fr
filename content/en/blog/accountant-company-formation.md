@@ -1,9 +1,9 @@
 ---
 title: "Best firm to start your business: our 2026 review"
 translationKey: "art-expert-comptable-creation-entreprise"
-date: "2026-08-08"
-lastmod: "2026-08-08"
-publishDate: "2026-08-08"
+date: "2026-07-31"
+lastmod: "2026-07-20"
+publishDate: "2026-07-31"
 description: "Comparison of the best accounting and consulting firms for business creation in 2026: legal structure advice, business plan, post-registration support. Review of In Extenso, Cabinet Vernier, Chiffria, Néogest and Comptalio."
 categories: ["Business consulting"]
 tags: ["business creation", "legal structure choice", "business plan", "accounting firm", "consulting firm", "creation support", "LLC SAS incorporation"]

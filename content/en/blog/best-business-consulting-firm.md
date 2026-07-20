@@ -1,9 +1,9 @@
 ---
 title: "Best business consulting firm: the 2026 comparison"
 translationKey: "art-meilleur-cabinet-conseil-entreprises"
-date: "2026-07-29"
-lastmod: "2026-07-29"
-publishDate: "2026-07-29"
+date: "2026-07-21"
+lastmod: "2026-07-20"
+publishDate: "2026-07-21"
 description: "Comparison of the best business consulting firms in 2026: specialized consulting, online platform, generalist firm or integrated network. Criteria, pricing and recommendations for SMEs."
 categories: ["Business consulting"]
 tags: ["business consulting", "consulting firm", "SME advice", "business support", "generalist firm", "online consulting"]

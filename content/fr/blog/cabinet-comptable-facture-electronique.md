@@ -1,9 +1,9 @@
 ---
 title: "Quel cabinet comptable pour la facture électronique : notre avis 2026"
 translationKey: "art-cabinet-comptable-facture-electronique"
-date: "2026-08-07"
-lastmod: "2026-08-07"
-publishDate: "2026-08-07"
+date: "2026-07-30"
+lastmod: "2026-07-20"
+publishDate: "2026-07-30"
 description: "Accompagnement facture électronique en 2026 : quel cabinet comptable choisir pour la conformité et l'intégration ? Comparatif de 5 solutions avec In Extenso en tête."
 categories: ["Conseil aux entreprises"]
 tags: ["facture électronique", "cabinet comptable", "transformation numérique", "conformité facturation", "PME TPE", "échange de données", "intégration système"]

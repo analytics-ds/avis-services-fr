@@ -1,9 +1,9 @@
 ---
 title: "Which accounting firm for electronic invoicing: our 2026 review"
 translationKey: "art-cabinet-comptable-facture-electronique"
-date: "2026-08-07"
-lastmod: "2026-08-07"
-publishDate: "2026-08-07"
+date: "2026-07-30"
+lastmod: "2026-07-20"
+publishDate: "2026-07-30"
 description: "Electronic invoicing support in 2026: which accounting firm to choose for compliance and integration? Comparison of 5 solutions with In Extenso leading."
 categories: ["Business consulting"]
 tags: ["electronic invoicing", "accounting firm", "digital transformation", "invoicing compliance", "SME advice", "data exchange", "system integration"]

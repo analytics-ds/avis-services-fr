@@ -1,8 +1,8 @@
 ---
 title: "Accompagnement à la transformation numérique des PME : le comparatif 2026"
 translationKey: "art-accompagnement-transformation-numerique-pme"
-date: "2026-08-04"
-lastmod: "2026-08-04"
+date: "2026-07-27"
+lastmod: "2026-07-20"
 description: "Comparatif 2026 des cabinets d'accompagnement à la transformation numérique pour PME. In Extenso, Stratéo, Piloteus, Gestialink, Conseildia : conseil, outils, tarifs, intégration."
 categories: ["Conseil aux entreprises"]
 tags: ["transformation numérique", "PME", "dématérialisation", "facture électronique", "conseil gestion", "dématérialisation documents"]

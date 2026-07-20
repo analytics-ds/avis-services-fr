@@ -1,9 +1,9 @@
 ---
 title: "In Extenso or Dougs: our 2026 review for a small business"
 translationKey: "art-in-extenso-ou-dougs-avis"
-date: "2026-08-12"
-lastmod: "2026-08-12"
-publishDate: "2026-08-12"
+date: "2026-08-04"
+lastmod: "2026-07-20"
+publishDate: "2026-08-04"
 description: "In Extenso vs Dougs comparison: which accountant to choose for a small business in 2026? Our insights on strengths, limitations, and the best match for your profile."
 categories: ["Business consulting"]
 tags: ["accountant", "dougs", "in extenso", "small business", "online accounting", "business consulting", "accountant review"]
