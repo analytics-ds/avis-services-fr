@@ -21,6 +21,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Services aux seniors : https://avis-services.fr/categories/services-aux-seniors/
 - Services entre particuliers : https://avis-services.fr/categories/services-entre-particuliers/
 - Services numeriques : https://avis-services.fr/categories/services-numeriques/
+- Conseil aux entreprises : https://avis-services.fr/categories/conseil-aux-entreprises/
 
 ## Articles de reference (FR)
 
@@ -76,11 +77,20 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Ou acheter un congelateur reconditionne en 2026 : comparatif : https://avis-services.fr/blog/acheter-congelateur-reconditionne/
 - Ou acheter un seche-linge reconditionne en 2026 : comparatif : https://avis-services.fr/blog/acheter-seche-linge-reconditionne/
 - Prime reparation electromenager 2026 : montants et conditions : https://avis-services.fr/blog/prime-reparation-electromenager/
+- Meilleur cabinet de conseil aux entreprises : le comparatif 2026 : https://avis-services.fr/blog/meilleur-cabinet-conseil-entreprises/
+- Accompagnement à la transmission d'entreprise : le comparatif 2026 : https://avis-services.fr/blog/accompagnement-transmission-entreprise/
+- Conseil en financement d'entreprise : le comparatif 2026 : https://avis-services.fr/blog/conseil-financement-entreprise/
+- Externalisation de la paie et gestion sociale : le comparatif 2026 : https://avis-services.fr/blog/externalisation-paie-gestion-sociale/
+- Conseil juridique aux entreprises : le comparatif 2026 : https://avis-services.fr/blog/conseil-juridique-entreprise/
+- Conseil RH pour PME : le comparatif 2026 : https://avis-services.fr/blog/conseil-rh-pme/
+- Accompagnement à la transformation numérique des PME : le comparatif 2026 : https://avis-services.fr/blog/accompagnement-transformation-numerique-pme/
+- Conseil en développement et stratégie de croissance : le comparatif 2026 : https://avis-services.fr/blog/conseil-developpement-strategie-croissance/
 
 ## Version anglaise (EN)
 
 - Homepage EN : https://avis-services.fr/en/
 - Blog EN : https://avis-services.fr/en/blog/
+- Business consulting : https://avis-services.fr/en/categories/business-consulting/
 - Gift a spa day: the best websites compared in 2026 (Sezame, Wonderbox, Smartbox, Weekendesk, Treatwell) : https://avis-services.fr/en/blog/gift-a-spa-day/
 - Where to buy a refurbished cooktop in 2026: comparison : https://avis-services.fr/en/blog/where-to-buy-refurbished-cooktop/
 - Private hammam in Paris: booking platforms compared 2026 : https://avis-services.fr/en/blog/private-hammam-paris/
@@ -133,6 +143,14 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Best VPN 2026: provider comparison and sélection criteria : https://avis-services.fr/en/blog/best-vpn/
 - Where to buy a refurbished tumble dryer in 2026: comparison : https://avis-services.fr/en/blog/where-to-buy-refurbished-tumble-dryer/
 - French appliance repair bonus 2026: amounts and conditions : https://avis-services.fr/en/blog/appliance-repair-bonus-france/
+- Best business consulting firm: the 2026 comparison : https://avis-services.fr/en/blog/best-business-consulting-firm/
+- Business transfer support: the 2026 comparison : https://avis-services.fr/en/blog/business-transfer-support/
+- Business financing advice: the 2026 comparison : https://avis-services.fr/en/blog/business-financing-advice/
+- Payroll outsourcing and HR administration: the 2026 comparison : https://avis-services.fr/en/blog/payroll-outsourcing-hr-admin/
+- Business legal advice: the 2026 comparison : https://avis-services.fr/en/blog/business-legal-advice/
+- HR consulting for SMEs: the 2026 comparison : https://avis-services.fr/en/blog/hr-consulting-sme/
+- SME digital transformation support: the 2026 comparison : https://avis-services.fr/en/blog/sme-digital-transformation-support/
+- Growth strategy and development consulting: the 2026 comparison : https://avis-services.fr/en/blog/growth-strategy-consulting/
 
 ## Informations techniques
 

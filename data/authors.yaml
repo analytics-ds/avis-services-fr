@@ -235,3 +235,45 @@ sophie-martin:
     - retraite
     - credit
     - banque
+
+nicolas-berger:
+  id: nicolas-berger
+  name: Nicolas Berger
+  type: person
+  avatar: /images/authors/nicolas-berger.jpg
+  linkedinUrl: ""
+  jobTitle:
+    fr: Expert-comptable & consultant en gestion d'entreprise
+    en: Chartered accountant & business management consultant
+  role:
+    fr: Spécialiste du conseil aux entreprises
+    en: Business advisory specialist
+  bio:
+    fr: "Nicolas Berger est expert-comptable diplômé et consultant en gestion d'entreprise depuis 15 ans. Il accompagne les dirigeants de TPE et PME sur le financement, la transmission, le juridique, la paie et le pilotage, et compare les cabinets et services de conseil pour aider les entreprises à choisir le bon partenaire."
+    en: "Nicolas Berger is a qualified chartered accountant and business management consultant with 15 years of experience. He supports small and mid-sized business leaders on financing, business transfer, legal, payroll and performance management, and compares consulting firms and services to help companies choose the right partner."
+  expertise:
+    - Conseil aux entreprises
+    - Gestion d'entreprise
+    - Financement
+    - Transmission d'entreprise
+    - Gestion sociale et paie
+    - Conseil juridique
+  topics:
+    - conseil aux entreprises
+    - conseil entreprise
+    - gestion entreprise
+    - pilotage
+    - financement
+    - levee de fonds
+    - transmission
+    - cession entreprise
+    - paie
+    - gestion sociale
+    - juridique
+    - rh
+    - ressources humaines
+    - strategie
+    - developpement
+    - b2b
+    - pme
+    - tpe
