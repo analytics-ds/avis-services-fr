@@ -22,9 +22,11 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Services entre particuliers : https://avis-services.fr/categories/services-entre-particuliers/
 - Services numeriques : https://avis-services.fr/categories/services-numeriques/
 - Conseil aux entreprises : https://avis-services.fr/categories/conseil-aux-entreprises/
+- Coworking : https://avis-services.fr/categories/coworking/
 
 ## Articles de reference (FR)
 
+- Quel est le meilleur coworking à Paris en 2026 : comparatif (Morning, WeWork, Wojo, Deskeo) : https://avis-services.fr/blog/meilleur-coworking-paris/
 - Offrir une seance de spa : le comparatif des sites 2026 (Sezame, Wonderbox, Smartbox, Weekendesk, Treatwell) : https://avis-services.fr/blog/offrir-une-seance-de-spa/
 - Ou acheter une table de cuisson reconditionnee en 2026 : comparatif : https://avis-services.fr/blog/acheter-table-cuisson-reconditionnee/
 - Hammam privatif à Paris : comparatif des plateformes pour réserver en 2026 : https://avis-services.fr/blog/hammam-privatif-paris/
@@ -99,6 +101,8 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Homepage EN : https://avis-services.fr/en/
 - Blog EN : https://avis-services.fr/en/blog/
 - Business consulting : https://avis-services.fr/en/categories/business-consulting/
+- Coworking : https://avis-services.fr/en/categories/coworking/
+- What is the best coworking space in Paris in 2026: comparison (Morning, WeWork, Wojo, Deskeo) : https://avis-services.fr/en/blog/best-coworking-paris/
 - Gift a spa day: the best websites compared in 2026 (Sezame, Wonderbox, Smartbox, Weekendesk, Treatwell) : https://avis-services.fr/en/blog/gift-a-spa-day/
 - Where to buy a refurbished cooktop in 2026: comparison : https://avis-services.fr/en/blog/where-to-buy-refurbished-cooktop/
 - Private hammam in Paris: booking platforms compared 2026 : https://avis-services.fr/en/blog/private-hammam-paris/
