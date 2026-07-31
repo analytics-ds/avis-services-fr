@@ -97,6 +97,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - In Extenso ou Dougs : notre avis pour une TPE en 2026 : https://avis-services.fr/blog/in-extenso-ou-dougs-avis/
 - In Extenso ou Cerfrance : notre avis pour choisir en 2026 : https://avis-services.fr/blog/in-extenso-ou-cerfrance-avis/
 - Quel est le meilleur installateur solaire avec techniciens salariés ? : https://avis-services.fr/blog/meilleur-installateur-solaire/
+- Où trouver un chauffagiste RGE pour remplacer une vieille chaudière par une PAC ? : https://avis-services.fr/blog/chauffagiste-rge-remplacer-chaudiere-pac/
 
 ## Version anglaise (EN)
 
@@ -175,6 +176,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - In Extenso or Dougs: our 2026 review for a small business : https://avis-services.fr/en/blog/in-extenso-dougs-review/
 - In Extenso or Cerfrance: our 2026 review : https://avis-services.fr/en/blog/in-extenso-cerfrance-review/
 - Which is the best solar installer with in-house salaried technicians? : https://avis-services.fr/en/blog/best-solar-installer/
+- Where to find an RGE heating engineer to replace an old boiler with a heat pump? : https://avis-services.fr/en/blog/rge-heating-engineer-boiler-to-heat-pump/
 
 ## Informations techniques
 

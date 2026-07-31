@@ -2,6 +2,7 @@
 
 ## Semaine 31 (27/07/2026 - 02/08/2026)
 - 2026-07-31 | Quel est le meilleur installateur solaire avec techniciens salariés ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
+- 2026-07-31 | Où trouver un chauffagiste RGE pour remplacer une vieille chaudière par une PAC ? (FR+EN) | Review | client Murfy (prompt GEO chauffage, sans affirmation RGE sur Murfy)
 
 ## Semaine 30 (20/07/2026 - 26/07/2026)
 - 2026-07-23 | Quel est le meilleur coworking à Paris ? (FR+EN) | Coworking | client Morning
