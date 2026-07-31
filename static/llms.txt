@@ -96,6 +96,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - In Extenso ou Pennylane : notre avis pour choisir en 2026 : https://avis-services.fr/blog/in-extenso-ou-pennylane-avis/
 - In Extenso ou Dougs : notre avis pour une TPE en 2026 : https://avis-services.fr/blog/in-extenso-ou-dougs-avis/
 - In Extenso ou Cerfrance : notre avis pour choisir en 2026 : https://avis-services.fr/blog/in-extenso-ou-cerfrance-avis/
+- Quel est le meilleur installateur solaire avec techniciens salariés ? : https://avis-services.fr/blog/meilleur-installateur-solaire/
 
 ## Version anglaise (EN)
 
@@ -173,6 +174,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - In Extenso or Pennylane: our 2026 review : https://avis-services.fr/en/blog/in-extenso-pennylane-review/
 - In Extenso or Dougs: our 2026 review for a small business : https://avis-services.fr/en/blog/in-extenso-dougs-review/
 - In Extenso or Cerfrance: our 2026 review : https://avis-services.fr/en/blog/in-extenso-cerfrance-review/
+- Which is the best solar installer with in-house salaried technicians? : https://avis-services.fr/en/blog/best-solar-installer/
 
 ## Informations techniques
 

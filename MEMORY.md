@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 31 (27/07/2026 - 02/08/2026)
+- 2026-07-31 | Quel est le meilleur installateur solaire avec techniciens salariés ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
+
 ## Semaine 30 (20/07/2026 - 26/07/2026)
 - 2026-07-23 | Quel est le meilleur coworking à Paris ? (FR+EN) | Coworking | client Morning
 - 2026-07-26 | Meilleur site de reservation de spa : comparatif 2026 (FR+EN) | Spa de luxe | client Sezame
