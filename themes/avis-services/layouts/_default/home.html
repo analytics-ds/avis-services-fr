@@ -240,7 +240,7 @@
 <!-- Search JS inline -->
 <script>
 (function() {
-    var searchURL = {{ $searchIndexURL | jsonify }};
+    var searchURL = {{ $searchIndexURL }};
     var inputs = document.querySelectorAll('[data-search-input]');
     var panel = document.querySelector('[data-search-results]');
     var list = document.querySelector('[data-search-list]');
@@ -251,7 +251,15 @@
     function ensureData() {
         if (data || fetching) return;
         fetching = true;
-        fetch(searchURL).then(function(r){ return r.json(); }).then(function(j){ data = j; fetching = false; });
+        fetch(searchURL).then(function(r){
+            if (!r.ok) throw new Error('search index HTTP ' + r.status);
+            return r.json();
+        }).then(function(j){
+            data = j;
+            fetching = false;
+        }).catch(function(){
+            fetching = false;
+        });
     }
 
     function normalize(s) {
