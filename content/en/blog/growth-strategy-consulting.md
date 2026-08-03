@@ -152,3 +152,7 @@ Common levers: retained earnings (portion of profits), bank loans, shareholder c
 ---
 
 For guidance on business financing for growing or restructuring companies, see the [business financing advice guide](/en/blog/business-financing-advice/). For operational integration challenges, also read the [SME digital transformation support comparison](/en/blog/sme-digital-transformation-support/) and [business transfer support recommendations](/en/blog/business-transfer-support/). Also consult the [best business consulting firm hub](/en/blog/best-business-consulting-firm/) for a comprehensive overview.
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*
