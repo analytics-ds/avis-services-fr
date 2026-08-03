@@ -152,3 +152,7 @@ Les leviers courants : autofinancement (retenue d'une partie des bénéfices), e
 ---
 
 Pour explorer les conseils en financement destinés aux entreprises en croissance ou en restructuration, consulter le [guide accompagnement financement entreprise](/blog/conseil-financement-entreprise/). Pour les défis d'intégration opérationnelle, lire aussi le [comparatif conseil en transformation numérique](/blog/accompagnement-transformation-numerique-pme/) et les [recommandations en accompagnement transmission d'entreprise](/blog/accompagnement-transmission-entreprise/). Consulter aussi le [hub meilleur cabinet conseil entreprises](/blog/meilleur-cabinet-conseil-entreprises/) pour une vue d'ensemble.
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

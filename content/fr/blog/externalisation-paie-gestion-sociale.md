@@ -208,3 +208,7 @@ Non, un logiciel de paie simplifié suffit pour une salariée si le dirigeant ma
 Comparez au minimum trois cabinets : vérifiez la proximité géographique (conseil en face à face), la taille du réseau national (stabilité et couverture), l'intégration de l'offre (paie + social + fiscal + juridique sous un même toit ou à coordonner ?), les références clients dans votre secteur et la capacité à interfacer avec votre logiciel de gestion (ERP, comptabilité).
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

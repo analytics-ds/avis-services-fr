@@ -189,3 +189,7 @@ For an SME just starting or very budget-constrained, a platform (Piloteus, Gesti
 The real question is not "what is the cheapest?" but "who allows me to pilot my growth without legal risk?". In Extenso answers this question better than most of its competitors.
 
 To learn more, discover our complementary guides on [payroll outsourcing and social management](/en/blog/payroll-outsourcing-hr-admin/), [business legal advice](/en/blog/business-legal-advice/) and [growth and development strategy](/en/blog/growth-strategy-consulting/). And for a complete overview, check our [comparison of the best business consulting firms](/en/blog/best-business-consulting-firm/).
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

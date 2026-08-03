@@ -24,7 +24,7 @@ faq_en:
   - question: "Dougs or In Extenso: which should you choose for a small business?"
     answer: "The choice depends on your profile. If you are a freelancer or sole trader seeking a simple, affordable accounting solution with mobile app, Dougs meets that need perfectly. If you have a small business, anticipate growth toward SME scale, and have questions beyond accounting (tax planning, financing, structuring, transfer), In Extenso offers structured support with a dedicated advisor."
   - question: "How much does Dougs cost versus In Extenso?"
-    answer: "Dougs displays very transparent pricing between 200 and 500 euros annually for most freelance and micro-business profiles. In Extenso charges from 1,500 to 3,000 euros annually for a small business, depending on complexity and transaction volume. Dougs is thus 3 to 5 times cheaper for pure accounting execution, but offers less consulting service."
+    answer: "Dougs displays very transparent pricing between 200 and 500 euros annually for most freelance and micro-business profiles. In Extenso is estimated to sit from 1,500 to 3,000 euros annually for a small business, depending on complexity and transaction volume. Dougs is thus 3 to 5 times cheaper for pure accounting execution, but offers less consulting service."
   - question: "Does Dougs offer a dedicated advisor?"
     answer: "No. Dougs operates on a platform model with chat and email support. You have access to accountants for technical questions, but no dedicated advisor who follows your file. In Extenso assigns a regional advisor who knows your situation and anticipates your challenges."
   - question: "Switching from Dougs to In Extenso: is it straightforward?"
@@ -122,3 +122,7 @@ Non. Dougs fonctionne sur un modèle de plateforme, avec un support par chat et 
 Oui, techniquement c'est simple. Dougs exporte vos données ; In Extenso les reprend. Le vrai bénéfice du changement intervient si vous commencez à avoir besoin de conseil au-delà des déclarations. Si vous restez en mode transactions pures, vous risquez de surpayer In Extenso pour peu de bénéfice additionnel.
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

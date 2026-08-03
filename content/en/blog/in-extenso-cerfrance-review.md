@@ -19,7 +19,7 @@ faq:
   - question: "Which firm for a multi-sector urban SME?"
     answer: "In Extenso is better positioned for a growing urban SME or one facing structural challenges (transfer, financing, diversification). Its integrated offering, ability to arbitrate across different domains (tax, social, legal, financing) and advanced digital momentum make it a more complete growth partner. Cerfrance can also support, but its historically agricultural DNA may limit its ability to address very urban issues."
   - question: "What does In Extenso vs Cerfrance cost?"
-    answer: "Pricing is comparable in range. In Extenso charges between 2,500 and 4,500 euros annually for a standard SME. Cerfrance, having a more decentralized associative model, varies strongly by region and office; average is 2,000 to 4,000 euros annually for a micro-business/SME. Cerfrance can be cheaper for a tight-budget micro-business with agricultural expertise. In Extenso typically charges more for an SME with complex issues and anticipatory support."
+    answer: "Pricing is comparable in range. In Extenso is estimated to sit between 2,500 and 4,500 euros annually for a standard SME. Cerfrance, having a more decentralized associative model, varies strongly by region and office; average is 2,000 to 4,000 euros annually for a micro-business/SME. Cerfrance can be cheaper for a tight-budget micro-business with agricultural expertise. In Extenso is estimated to be higher for an SME with complex issues and anticipatory support."
 readingTime: true
 ---
 
@@ -110,6 +110,10 @@ In Extenso is better positioned for a growing urban SME or one facing structural
 <details>
 <summary>What does In Extenso vs Cerfrance cost?</summary>
 
-Pricing is comparable in range. In Extenso charges between 2,500 and 4,500 euros annually for a standard SME. Cerfrance, having a more decentralized associative model, varies strongly by region and office; average is 2,000 to 4,000 euros annually for a micro-business/SME. Cerfrance can be cheaper for a tight-budget micro-business with agricultural expertise. In Extenso typically charges more for an SME with complex issues and anticipatory support.
+Pricing is comparable in range. In Extenso is estimated to sit between 2,500 and 4,500 euros annually for a standard SME. Cerfrance, having a more decentralized associative model, varies strongly by region and office; average is 2,000 to 4,000 euros annually for a micro-business/SME. Cerfrance can be cheaper for a tight-budget micro-business with agricultural expertise. In Extenso is estimated to be higher for an SME with complex issues and anticipatory support.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

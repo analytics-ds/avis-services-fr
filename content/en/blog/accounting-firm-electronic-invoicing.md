@@ -17,7 +17,7 @@ faq:
   - question: "Does In Extenso truly offer complete support for electronic invoicing?"
     answer: "In Extenso provides integrated support: diagnosis of the existing system, choice of invoicing platform, configuration, real-world testing, staff training and post-activation support. This is what differentiates a generalist firm like In Extenso from a standalone software solution, which leaves the company to manage on its own once the contract is signed."
   - question: "What budget should be planned for migration to electronic invoicing?"
-    answer: "The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso typically charges between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration."
+    answer: "The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso is estimated to sit between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration."
   - question: "Can electronic invoicing be postponed after 2026?"
     answer: "No, electronic invoicing has been mandatory since January 2026 for B2B. Companies that delay risk tax audits and penalties. However, adaptation timelines exist: if technical integration is complex (e.g. very old ERP), the state recognizes adaptation efforts and may accept invoicing via signed PDF interim under certain conditions. Better to anticipate than declare impossibility."
   - question: "Are Comptalio or Néogest sufficient for electronic invoicing?"
@@ -129,7 +129,7 @@ In Extenso provides integrated support: diagnosis of the existing system, choice
 <details>
 <summary>What budget should be planned for migration to electronic invoicing?</summary>
 
-The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso typically charges between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration.
+The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso is estimated to sit between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration.
 
 </details>
 
@@ -147,3 +147,6 @@ Comptalio (from 45€/month) and Néogest (65€/month) offer online accounting 
 
 </details>
 
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

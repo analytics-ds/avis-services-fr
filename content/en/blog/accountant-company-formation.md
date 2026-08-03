@@ -116,3 +116,7 @@ LLC suits a small collaborative structure (2-3 partners, limited external ambiti
 A micro-business owner with few expenses can manage with accounting software. An LLC or SAS with employees, B2B suppliers or growth ambitions benefits from outsourcing accounting and payroll to a specialist firm. The advantage: an advisor who reviews accounts monthly and can alert you or suggest optimizations (social savings, cash balance, investment decisions). In Extenso offers very proactive post-creation support on this front.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

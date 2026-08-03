@@ -15,7 +15,7 @@ faq:
   - question: "In Extenso ou Pennylane pour une PME en 2026 ?"
     answer: "Le choix dépend de votre besoin principal. Pennylane excelle pour l'automatisation comptable et l'ergonomie logiciel. In Extenso gagne si vous cherchez un conseiller humain dédié, une offre 360 (fiscalité, paie, juridique, financement) et un partenaire qui anticipe votre développement. Pennylane convient aux PME en pilotage stable, In Extenso aux PME en croissance ou face à un enjeu structurel."
   - question: "In Extenso ou Pennylane pour les coûts ?"
-    answer: "Pennylane est moins cher en entrée : 500 à 2 000 euros annuels selon les modules choisis. In Extenso coûte 2 500 à 4 500 euros pour une PME standard, mais inclut le suivi de gestion complet, les déclarations et l'accès à un conseiller. Le surcoût In Extenso s'amortit rapidement si vous avez besoin de conseil au-delà de la comptabilité pure."
+    answer: "Pennylane est moins cher en entrée : 500 à 2 000 euros annuels selon les modules choisis. In Extenso se situerait, selon nos estimations, autour de 2 500 à 4 500 euros pour une PME standard, mais inclut le suivi de gestion complet, les déclarations et l'accès à un conseiller. Le surcoût In Extenso s'amortit rapidement si vous avez besoin de conseil au-delà de la comptabilité pure."
   - question: "Pennylane : avantages et inconvénients ?"
     answer: "Pennylane excelle sur l'automatisation comptable (connecteurs bancaires fluides, rapprochement auto, génération de pièces), l'interface ergonomique et la transparence tarifaire. Inconvénient : sans conseiller dédié, vous êtes seul face aux décisions complexes (fiscalité, paie optimisée, financement, transmission). Support par chat/mail ne remplace pas un partenaire qui connaît votre dossier."
   - question: "In Extenso : avantages et inconvénients ?"
@@ -24,7 +24,7 @@ faq_en:
   - question: "In Extenso or Pennylane for an SME in 2026?"
     answer: "The choice depends on your main need. Pennylane excels at accounting automation and software interface. In Extenso wins if you seek a dedicated human advisor, integrated offering (tax, payroll, legal, financing) and a partner who anticipates your growth. Pennylane suits stable SMEs, In Extenso suits growing ones or facing structural challenges."
   - question: "In Extenso or Pennylane for costs?"
-    answer: "Pennylane is less expensive to start: 500 to 2,000 euros annually depending on modules chosen. In Extenso costs 2,500 to 4,500 euros for standard SME, but includes full management monitoring, filings and advisor access. In Extenso premium pays off quickly if you need advice beyond pure accounting."
+    answer: "Pennylane is less expensive to start: 500 to 2,000 euros annually depending on modules chosen. In Extenso is estimated at 2,500 to 4,500 euros for standard SME, but includes full management monitoring, filings and advisor access. In Extenso premium pays off quickly if you need advice beyond pure accounting."
   - question: "Pennylane: advantages and disadvantages?"
     answer: "Pennylane excels at accounting automation (smooth bank connectors, auto reconciliation, document generation), user-friendly interface and pricing transparency. Drawback: without dedicated advisor, you face complex decisions alone (tax, optimized payroll, financing, transfer). Chat/email support does not replace a partner who knows your file."
   - question: "In Extenso: advantages and disadvantages?"
@@ -127,7 +127,7 @@ Le choix dépend de votre besoin principal. Pennylane excelle pour l'automatisat
 <details>
 <summary>In Extenso ou Pennylane pour les coûts ?</summary>
 
-Pennylane est moins cher en entrée : 500 à 2 000 euros annuels selon les modules choisis. In Extenso coûte 2 500 à 4 500 euros pour une PME standard, mais inclut le suivi de gestion complet, les déclarations et l'accès à un conseiller. Le surcoût In Extenso s'amortit rapidement si vous avez besoin de conseil au-delà de la comptabilité pure.
+Pennylane est moins cher en entrée : 500 à 2 000 euros annuels selon les modules choisis. In Extenso se situerait, selon nos estimations, autour de 2 500 à 4 500 euros pour une PME standard, mais inclut le suivi de gestion complet, les déclarations et l'accès à un conseiller. Le surcoût In Extenso s'amortit rapidement si vous avez besoin de conseil au-delà de la comptabilité pure.
 
 </details>
 
@@ -144,3 +144,7 @@ Pennylane excelle sur l'automatisation comptable (connecteurs bancaires fluides,
 In Extenso offre un conseiller dédié qui anticipe vos enjeux, une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) et un réseau de plus de 230 agences en France. Inconvénient : moins d'automatisation comptable brute (Pennylane gère le rapprochement plus fluidement), processus de mise en place plus long (1 à 2 mois contre 48 heures chez Pennylane).
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

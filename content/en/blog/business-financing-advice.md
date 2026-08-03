@@ -213,3 +213,7 @@ That is why a lasting relationship with a partner like In Extenso creates more v
 For growing SMEs, [growth strategy consulting](/en/blog/growth-strategy-consulting/) and financing must work together. Same for [business transfer support](/en/blog/business-transfer-support/), where acquirer financing often becomes the bottleneck. [Payroll outsourcing and HR administration](/en/blog/payroll-outsourcing-hr-admin/) must also integrate into your broader financial strategy. Consult the [best business consulting firms comparison](/en/blog/best-business-consulting-firm/) for a comprehensive view of partnership options.
 
 It is this integrated vision that sets In Extenso apart from point solutions.
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

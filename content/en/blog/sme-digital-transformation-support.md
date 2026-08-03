@@ -151,3 +151,7 @@ In Extenso does not replace a technical vendor deploying a costly ERP. Its role:
 Recommended in 80 percent of cases. An audit documents your current state (software, versions, manual workflows, bottlenecks), lists potential time savings, and prioritizes initiatives. In Extenso often includes a free 2 to 4-day audit during the initial diagnosis.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

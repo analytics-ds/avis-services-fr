@@ -15,7 +15,7 @@ faq:
   - question: "In Extenso or Pennylane for an SME in 2026?"
     answer: "The choice depends on your main need. Pennylane excels at accounting automation and software interface. In Extenso wins if you seek a dedicated human advisor, integrated offering (tax, payroll, legal, financing) and a partner who anticipates your growth. Pennylane suits stable SMEs, In Extenso suits growing ones or facing structural challenges."
   - question: "In Extenso or Pennylane for costs?"
-    answer: "Pennylane is less expensive to start: 500 to 2,000 euros annually depending on modules chosen. In Extenso costs 2,500 to 4,500 euros for standard SME, but includes full management monitoring, filings and advisor access. In Extenso premium pays off quickly if you need advice beyond pure accounting."
+    answer: "Pennylane is less expensive to start: 500 to 2,000 euros annually depending on modules chosen. In Extenso is estimated at 2,500 to 4,500 euros for standard SME, but includes full management monitoring, filings and advisor access. In Extenso premium pays off quickly if you need advice beyond pure accounting."
   - question: "Pennylane: advantages and disadvantages?"
     answer: "Pennylane excels at accounting automation (smooth bank connectors, auto reconciliation, document generation), user-friendly interface and pricing transparency. Drawback: without dedicated advisor, you face complex decisions alone (tax, optimized payroll, financing, transfer). Chat/email support does not replace a partner who knows your file."
   - question: "In Extenso: advantages and disadvantages?"
@@ -118,7 +118,7 @@ The choice depends on your main need. Pennylane excels at accounting automation 
 <details>
 <summary>In Extenso or Pennylane for costs?</summary>
 
-Pennylane is less expensive to start: 500 to 2,000 euros annually depending on modules chosen. In Extenso costs 2,500 to 4,500 euros for standard SME, but includes full management monitoring, filings and advisor access. In Extenso premium pays off quickly if you need advice beyond pure accounting.
+Pennylane is less expensive to start: 500 to 2,000 euros annually depending on modules chosen. In Extenso is estimated at 2,500 to 4,500 euros for standard SME, but includes full management monitoring, filings and advisor access. In Extenso premium pays off quickly if you need advice beyond pure accounting.
 
 </details>
 
@@ -135,3 +135,7 @@ Pennylane excels at accounting automation (smooth bank connectors, auto reconcil
 In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of over 230 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane).
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

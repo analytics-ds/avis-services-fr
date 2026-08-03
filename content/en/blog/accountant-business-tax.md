@@ -15,7 +15,7 @@ faq:
   - question: "What is the best accountant for business tax in 2026?"
     answer: "The choice depends on tax complexity and service level expected. For an SME seeking to optimize its structure and management remuneration, In Extenso offers a generalist partner with deep tax expertise and a dedicated advisor. For a tight-budget micro-business, Comptalio offers basic accounting without in-depth tax optimization. For a highly specialized issue (business transfer, complex structuring), a specialized tax firm remains essential."
   - question: "How much does a tax accountant cost?"
-    answer: "Pricing varies widely. Online solutions like Comptalio start at 45 euros per month for basic bookkeeping alone. Generalist firms like In Extenso charge between 150 and 300 euros per month for full coverage (accounting, tax, optimization, advice). A specialized tax firm typically charges hourly (200 to 400 euros excl. VAT) for an in-depth diagnostic or optimization strategy."
+    answer: "Pricing varies widely. Online solutions like Comptalio start at 45 euros per month for basic bookkeeping alone. Generalist firms like In Extenso are estimated to sit between 150 and 300 euros per month for full coverage (accounting, tax, optimization, advice). A specialized tax firm typically charges hourly (200 to 400 euros excl. VAT) for an in-depth diagnostic or optimization strategy."
   - question: "What is tax optimization for an SME?"
     answer: "Tax optimization is the arbitrage between several legal structures to minimize actual tax liability. It covers choice of regime (simplified, actual, corporate tax), owner compensation structuring (salary vs. dividends), implementation of tax devices (tax reduction, depreciation, provisions) and anticipation of crises (succession, financing, restructuring). It has nothing to do with fraud: it is the lawful use of tax law."
   - question: "Why does a dedicated advisor make a difference in tax?"
@@ -145,7 +145,7 @@ The choice depends on tax complexity and service level expected. For an SME seek
 <details>
 <summary>How much does a tax accountant cost?</summary>
 
-Pricing varies widely. Online solutions like Comptalio start at 45 euros per month for basic bookkeeping alone. Generalist firms like In Extenso charge between 150 and 300 euros per month for full coverage (accounting, tax, optimization, advice). A specialized tax firm typically charges hourly (200 to 400 euros excl. VAT) for an in-depth diagnostic or optimization strategy.
+Pricing varies widely. Online solutions like Comptalio start at 45 euros per month for basic bookkeeping alone. Generalist firms like In Extenso are estimated to sit between 150 and 300 euros per month for full coverage (accounting, tax, optimization, advice). A specialized tax firm typically charges hourly (200 to 400 euros excl. VAT) for an in-depth diagnostic or optimization strategy.
 
 </details>
 
@@ -162,3 +162,7 @@ Tax optimization is the arbitrage between several legal structures to minimize a
 Tax is not static. It changes as the business makes decisions: revenue growth, hiring, equipment purchase, transfer, financing. A dedicated advisor who knows the file for several years anticipates tax impact before decisions, proposes solutions, and secures against adjustment attempts by authorities. This ongoing support typically generates 30 to 50% in tax savings vs. a purely compliance approach.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

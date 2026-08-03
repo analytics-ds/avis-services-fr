@@ -183,3 +183,7 @@ Les tarifs varient entre 150€ et 400€/heure selon le cabinet et la complexit
 </details>
 
 Pour aller plus loin sur les aspects intégrés du conseil aux entreprises, consultez notre guide complet sur le [meilleur cabinet de conseil aux entreprises](/blog/meilleur-cabinet-conseil-entreprises/). Complétez avec la lecture sur l'[externalisation de la paie et la gestion sociale](/blog/externalisation-paie-gestion-sociale/), ou explorez le dossier spécialisé sur l'[accompagnement de la transmission d'entreprise](/blog/accompagnement-transmission-entreprise/).
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

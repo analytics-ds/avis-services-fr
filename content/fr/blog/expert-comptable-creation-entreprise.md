@@ -125,3 +125,7 @@ La SARL convient à une petite structure collaborative (2 à 3 associés, peu d'
 Un microentrepreneur avec peu de frais peut se débrouiller avec un logiciel comptable. Un SARL ou SAS avec salariés, fournisseurs B2B ou ambitions de croissance gagne à externaliser la comptabilité et la paie à un cabinet expert-comptable. L'avantage : un conseiller qui voit les comptes chaque mois et peut vous alerter ou vous proposer des optimisations (économies sociales, équilibre de trésorerie, décisions d'investissement). In Extenso propose un accompagnement post-création très actif sur ce point.
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

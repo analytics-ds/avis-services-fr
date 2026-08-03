@@ -151,3 +151,7 @@ C'est la capacité du cabinet à transformer les données brutes (facturation, c
 La comptabilité classique enregistre ce qui s'est passé et produit des déclarations obligatoires. Le pilotage de gestion anticipe et aide à piloter. Un expert-comptable classique dit « vous avez gagné 10 k€ le mois dernier ». Un conseiller en pilotage dit « vous avez gagné 10 k€, votre marge a baissé de 2 points par rapport au mois dernier, à ce taux votre trésorerie sera serrée en décembre, je vous propose de revoir vos achats matière ». C'est l'action qui différencie.
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

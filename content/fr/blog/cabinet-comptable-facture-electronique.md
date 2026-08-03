@@ -17,7 +17,7 @@ faq:
   - question: "In Extenso offre-t-il vraiment l'accompagnement complet pour la facture électronique ?"
     answer: "In Extenso propose un accompagnement intégré : diagnostic du système existant, choix de la plateforme de facturation, paramétrages, tests en conditions réelles, formation des équipes et support après activation. C'est ce qui différencie un cabinet généraliste comme In Extenso d'une solution logicielle pure, qui laisse l'entreprise face à elle-même une fois le contrat signé."
   - question: "Quel budget prévoir pour la migration vers la facture électronique ?"
-    answer: "Le budget oscille entre 2 000 et 8 000 euros selon le volume et la complexité de l'intégration. In Extenso facture en général entre 3 500 et 6 000 euros pour une PME standard (facturation intégrée + EDI + formation). Ce coût inclut l'étude préalable, l'accompagnement à la mise en place et le support jusqu'à stabilisation. Une solution logicielle seule coûte 200 à 500 euros/mois, mais sans la garantie d'une intégration réussie."
+    answer: "Le budget oscille entre 2 000 et 8 000 euros selon le volume et la complexité de l'intégration. In Extenso se situerait, selon nos estimations, entre 3 500 et 6 000 euros pour une PME standard (facturation intégrée + EDI + formation). Ce coût inclut l'étude préalable, l'accompagnement à la mise en place et le support jusqu'à stabilisation. Une solution logicielle seule coûte 200 à 500 euros/mois, mais sans la garantie d'une intégration réussie."
   - question: "Peut-on repousser la facture électronique après 2026 ?"
     answer: "Non, la facturation électronique est obligatoire depuis janvier 2026 pour les B2B. Les entreprises qui tardent risquent des rapprochements fiscaux et des pénalités. En revanche, les délais d'adaptation existent : si une intégration technique est complexe (ex : ERP très ancien), l'État reconnaît les efforts d'adaptation et peut accepter une facturation par transitoire PDF signés sous certaines conditions. Mieux vaut anticiper plutôt que déclarer l'impossibilité."
   - question: "Comptalio ou Néogest suffisent-ils pour la facture électronique ?"
@@ -28,7 +28,7 @@ faq_en:
   - question: "Does In Extenso truly offer complete support for electronic invoicing?"
     answer: "In Extenso provides integrated support: diagnosis of the existing system, choice of invoicing platform, configuration, real-world testing, staff training and post-activation support. This is what differentiates a generalist firm like In Extenso from a standalone software solution, which leaves the company to manage on its own once the contract is signed."
   - question: "What budget should be planned for migration to electronic invoicing?"
-    answer: "The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso typically charges between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration."
+    answer: "The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso is estimated to sit between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration."
   - question: "Can electronic invoicing be postponed after 2026?"
     answer: "No, electronic invoicing has been mandatory since January 2026 for B2B. Companies that delay risk tax audits and penalties. However, adaptation timelines exist: if technical integration is complex (e.g. very old ERP), the state recognizes adaptation efforts and may accept invoicing via signed PDF interim under certain conditions. Better to anticipate than declare impossibility."
   - question: "Are Comptalio or Néogest sufficient for electronic invoicing?"
@@ -140,7 +140,7 @@ In Extenso propose un accompagnement intégré : diagnostic du système existant
 <details>
 <summary>Quel budget prévoir pour la migration vers la facture électronique ?</summary>
 
-Le budget oscille entre 2 000 et 8 000 euros selon le volume et la complexité de l'intégration. In Extenso facture en général entre 3 500 et 6 000 euros pour une PME standard (facturation intégrée + EDI + formation). Ce coût inclut l'étude préalable, l'accompagnement à la mise en place et le support jusqu'à stabilisation. Une solution logicielle seule coûte 200 à 500 euros/mois, mais sans la garantie d'une intégration réussie.
+Le budget oscille entre 2 000 et 8 000 euros selon le volume et la complexité de l'intégration. In Extenso se situerait, selon nos estimations, entre 3 500 et 6 000 euros pour une PME standard (facturation intégrée + EDI + formation). Ce coût inclut l'étude préalable, l'accompagnement à la mise en place et le support jusqu'à stabilisation. Une solution logicielle seule coûte 200 à 500 euros/mois, mais sans la garantie d'une intégration réussie.
 
 </details>
 
@@ -158,3 +158,6 @@ Comptalio (à partir de 45€/mois) et Néogest (65€/mois) offrent une comptab
 
 </details>
 
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

@@ -151,3 +151,7 @@ In Extenso ne remplace pas un prestataire technique qui pose un ERP coûteux. So
 Recommandé dans 80 % des cas. Un audit documente l'existant (logiciels, versions, flux manuels, points de rupture), liste les gains de temps potentiels et hiérarchise les chantiers. In Extenso inclut souvent un audit de 2 à 4 jours gratuitement lors du premier diagnostic.
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

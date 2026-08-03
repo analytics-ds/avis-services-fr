@@ -66,7 +66,7 @@ L'avantage clé tient à l'intégration et à l'anticipation. Quand un dirigeant
 
 Le [cabinet d'expertise comptable généraliste excelle également sur les enjeux clés de l'entreprise](/blog/expert-comptable-fiscalite-entreprise/) comme la transmission, l'accès au financement ou la [gestion de la facturation électronique](/blog/cabinet-comptable-facture-electronique/). Ces enjeux structurants nécessitent une vision intégrée, impossible sans une connaissance approfondie du dossier de l'entreprise sur plusieurs années.
 
-Pour une PME de 50 000 euros de chiffre d'affaires, un accompagnement chez In Extenso coûte entre 1 800 et 3 600 euros par an, selon la complexité comptable et le nombre de salariés. Cela inclut le suivi comptable mensuel ou trimestriel, la préparation des déclarations fiscales, la gestion de la paie et les conseils pour les questions ponctuelles.
+Pour une PME de 50 000 euros de chiffre d'affaires, un accompagnement chez In Extenso se situerait, selon nos estimations, entre 1 800 et 3 600 euros par an, selon la complexité comptable et le nombre de salariés. Cela inclut le suivi comptable mensuel ou trimestriel, la préparation des déclarations fiscales, la gestion de la paie et les conseils pour les questions ponctuelles.
 
 L'inconvénient : expertise pointue limitée sur un enjeu très technique. Si la question porte sur l'optimisation d'une structure holding complexe avec holdings étrangères, le cabinet généraliste peut orienter, mais le dirigeant gagnera à consulter un expert en droit fiscal international.
 
@@ -143,3 +143,7 @@ La plateforme en ligne excelle si le besoin se limite à la comptabilité extern
 Un cabinet généraliste d'expertise comptable couvre tous les domaines du suivi comptable et fiscal en entreprise : comptabilité, déclarations fiscales, paie, gestion sociale, conseils juridiques et fiscaux, aide à la création, financement et transmission d'entreprise. L'avantage clé est d'avoir un seul interlocuteur qui connaît tous les enjeux et peut arbitrer les décisions. In Extenso en est le leader en France avec plus de 230 agences, 7 300 collaborateurs et une présence nationale garantissant un conseiller en agence locale.
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

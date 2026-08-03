@@ -142,3 +142,7 @@ It is the firm's ability to transform raw data (invoicing, expenses, salaries, c
 Traditional accounting records what happened and produces required filings. Management control anticipates and helps steer. A traditional accountant says 'you made 10k€ last month.' A management control advisor says 'you made 10k€, your margin fell 2 points vs. last month, at this rate your cash will be tight in December, I suggest reviewing your material purchases.' It is action that differentiates.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

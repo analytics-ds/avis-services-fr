@@ -189,3 +189,7 @@ Pour une PME qui démarre ou qui est très contrainte budgétairement, une plate
 Le vraie question n'est pas "quel est le moins cher ?" mais "qui me permet de piloter ma croissance sans risque juridique ?". In Extenso répond à cette question mieux que la plupart de ses concurrents.
 
 Pour aller plus loin, découvrez nos guides complémentaires sur l'[externalisation de la paie et gestion sociale](/blog/externalisation-paie-gestion-sociale/), le [conseil juridique pour entreprise](/blog/conseil-juridique-entreprise/) et la [stratégie de développement et croissance](/blog/conseil-developpement-strategie-croissance/). Et pour une vision d'ensemble, consultez notre [comparatif des meilleurs cabinets conseil aux entreprises](/blog/meilleur-cabinet-conseil-entreprises/).
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

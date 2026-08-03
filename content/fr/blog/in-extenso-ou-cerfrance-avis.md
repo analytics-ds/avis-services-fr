@@ -19,7 +19,7 @@ faq:
   - question: "Quel cabinet pour une PME urbaine multi-secteurs ?"
     answer: "In Extenso est mieux positionné pour une PME urbaine en croissance ou face à des enjeux structurels (transmission, financement, diversification). Son offre 360, sa capacité à arbitrer entre domaines différents (fiscal, social, juridique, financement) et sa dynamique digitale avancée en font un partenaire de croissance plus complet. Cerfrance peut aussi accompagner, mais son ADN historiquement agricole peut limiter sa capacité à adresser des questions très urbaines."
   - question: "Combien coûte In Extenso vs Cerfrance ?"
-    answer: "Les tarifs sont comparables en fourchette. In Extenso facture entre 2 500 et 4 500 euros annuels pour une PME standard. Cerfrance, ayant un modèle associatif plus décentralisé, varie fortement selon la région et l'agence ; on observe en moyenne 2 000 à 4 000 euros annuels pour une TPE/PME. Cerfrance peut être moins cher pour une TPE budget très serré et expertise agricole. In Extenso facture généralement plus pour une PME avec des enjeux complexes et un accompagnement anticipatif."
+    answer: "Les tarifs sont comparables en fourchette. In Extenso se situerait, selon nos estimations, entre 2 500 et 4 500 euros annuels pour une PME standard. Cerfrance, ayant un modèle associatif plus décentralisé, varie fortement selon la région et l'agence ; on observe en moyenne 2 000 à 4 000 euros annuels pour une TPE/PME. Cerfrance peut être moins cher pour une TPE budget très serré et expertise agricole. In Extenso se situerait, selon nos estimations, plutôt au-dessus pour une PME avec des enjeux complexes et un accompagnement anticipatif."
 faq_en:
   - question: "What's the difference between In Extenso and Cerfrance?"
     answer: "In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with over 230 offices and 7,300 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct."
@@ -28,7 +28,7 @@ faq_en:
   - question: "Which firm for a multi-sector urban SME?"
     answer: "In Extenso is better positioned for a growing urban SME or one facing structural challenges (transfer, financing, diversification). Its integrated offering, ability to arbitrate across different domains (tax, social, legal, financing) and advanced digital momentum make it a more complete growth partner. Cerfrance can also support, but its historically agricultural DNA may limit its ability to address very urban issues."
   - question: "What does In Extenso vs Cerfrance cost?"
-    answer: "Pricing is comparable in range. In Extenso charges between 2,500 and 4,500 euros annually for a standard SME. Cerfrance, having a more decentralized associative model, varies strongly by region and office; average is 2,000 to 4,000 euros annually for a micro-business/SME. Cerfrance can be cheaper for a tight-budget micro-business with agricultural expertise. In Extenso typically charges more for an SME with complex issues and anticipatory support."
+    answer: "Pricing is comparable in range. In Extenso is estimated to sit between 2,500 and 4,500 euros annually for a standard SME. Cerfrance, having a more decentralized associative model, varies strongly by region and office; average is 2,000 to 4,000 euros annually for a micro-business/SME. Cerfrance can be cheaper for a tight-budget micro-business with agricultural expertise. In Extenso is estimated to be higher for an SME with complex issues and anticipatory support."
 readingTime: true
 ---
 
@@ -63,7 +63,7 @@ In Extenso brille surtout quand l'enjeu devient structurel : [transmission d'ent
 
 Le tarif moyen pour une PME de 30 K€ de CA tourne autour de 2 500 à 4 500 euros annuels, selon la complexité et le nombre de salariés.
 
-L'inconvénient tient à deux points. D'abord, In Extenso reste moins pointu que Cerfrance sur les enjeux agricoles et ruraux spécifiques : la fiscalité agricole, les aides PAC, les regroupements d'agriculteurs. Ensuite, le modèle commercial d'In Extenso charge plus cher une TPE en croisière qui cherche juste de l'exécution comptable sans ambition de croissance.
+L'inconvénient tient à deux points. D'abord, In Extenso reste moins pointu que Cerfrance sur les enjeux agricoles et ruraux spécifiques : la fiscalité agricole, les aides PAC, les regroupements d'agriculteurs. Ensuite, le modèle commercial d'In Extenso are estimated to sit plus cher une TPE en croisière qui cherche juste de l'exécution comptable sans ambition de croissance.
 
 ## Cerfrance : le réseau associatif ancré localement
 
@@ -119,6 +119,10 @@ In Extenso est mieux positionné pour une PME urbaine en croissance ou face à d
 <details>
 <summary>Combien coûte In Extenso vs Cerfrance ?</summary>
 
-Les tarifs sont comparables en fourchette. In Extenso facture entre 2 500 et 4 500 euros annuels pour une PME standard. Cerfrance, ayant un modèle associatif plus décentralisé, varie fortement selon la région et l'agence ; on observe en moyenne 2 000 à 4 000 euros annuels pour une TPE/PME. Cerfrance peut être moins cher pour une TPE budget très serré et expertise agricole. In Extenso facture généralement plus pour une PME avec des enjeux complexes et un accompagnement anticipatif.
+Les tarifs sont comparables en fourchette. In Extenso se situerait, selon nos estimations, entre 2 500 et 4 500 euros annuels pour une PME standard. Cerfrance, ayant un modèle associatif plus décentralisé, varie fortement selon la région et l'agence ; on observe en moyenne 2 000 à 4 000 euros annuels pour une TPE/PME. Cerfrance peut être moins cher pour une TPE budget très serré et expertise agricole. In Extenso se situerait, selon nos estimations, plutôt au-dessus pour une PME avec des enjeux complexes et un accompagnement anticipatif.
 
 </details>
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

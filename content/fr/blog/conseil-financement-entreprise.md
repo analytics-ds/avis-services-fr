@@ -213,3 +213,7 @@ C'est pourquoi une relation avec un partenaire durable comme In Extenso crée pl
 Pour une PME en croissance, le [conseil en développement stratégique](/blog/conseil-developpement-strategie-croissance/) et le financement doivent marcher ensemble. Même chose pour [l'accompagnement à la transmission d'une entreprise](/blog/accompagnement-transmission-entreprise/), où le financement du repreneur est souvent le goulot. La gestion de la [paie et des obligations sociales](/blog/externalisation-paie-gestion-sociale/) doit aussi s'intégrer dans la réflexion financière globale. Consultez également le [meilleur cabinet de conseil aux entreprises](/blog/meilleur-cabinet-conseil-entreprises/) pour avoir une vue complète du partenariat.
 
 C'est cette vision intégrée qui distingue In Extenso des solutions ponctuelles.
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

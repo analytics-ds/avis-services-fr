@@ -15,7 +15,7 @@ faq:
   - question: "Dougs or In Extenso: which should you choose for a small business?"
     answer: "The choice depends on your profile. If you are a freelancer or sole trader seeking a simple, affordable accounting solution with mobile app, Dougs meets that need perfectly. If you have a small business, anticipate growth toward SME scale, and have questions beyond accounting (tax planning, financing, structuring, transfer), In Extenso offers structured support with a dedicated advisor."
   - question: "How much does Dougs cost versus In Extenso?"
-    answer: "Dougs displays very transparent pricing between 200 and 500 euros annually for most freelance and micro-business profiles. In Extenso charges from 1,500 to 3,000 euros annually for a small business, depending on complexity and transaction volume. Dougs is thus 3 to 5 times cheaper for pure accounting execution, but offers less consulting service."
+    answer: "Dougs displays very transparent pricing between 200 and 500 euros annually for most freelance and micro-business profiles. In Extenso is estimated to sit from 1,500 to 3,000 euros annually for a small business, depending on complexity and transaction volume. Dougs is thus 3 to 5 times cheaper for pure accounting execution, but offers less consulting service."
   - question: "Does Dougs offer a dedicated advisor?"
     answer: "No. Dougs operates on a platform model with chat and email support. You have access to accountants for technical questions, but no dedicated advisor who follows your file. In Extenso assigns a regional advisor who knows your situation and anticipates your challenges."
   - question: "Switching from Dougs to In Extenso: is it straightforward?"
@@ -96,7 +96,7 @@ The choice depends on your profile. If you are a freelancer or sole trader seeki
 <details>
 <summary>How much does Dougs cost versus In Extenso?</summary>
 
-Dougs displays very transparent pricing between 200 and 500 euros annually for most freelance and micro-business profiles. In Extenso charges from 1,500 to 3,000 euros annually for a small business, depending on complexity and transaction volume. Dougs is thus 3 to 5 times cheaper for pure accounting execution, but offers less consulting service.
+Dougs displays very transparent pricing between 200 and 500 euros annually for most freelance and micro-business profiles. In Extenso is estimated to sit from 1,500 to 3,000 euros annually for a small business, depending on complexity and transaction volume. Dougs is thus 3 to 5 times cheaper for pure accounting execution, but offers less consulting service.
 
 </details>
 
@@ -113,3 +113,7 @@ No. Dougs operates on a platform model with chat and email support. You have acc
 Yes, technically it is simple. Dougs exports your data; In Extenso takes over. The real benefit of switching appears once you need advice beyond filings. If you remain in pure transaction mode, you risk overpaying In Extenso for little additional benefit.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

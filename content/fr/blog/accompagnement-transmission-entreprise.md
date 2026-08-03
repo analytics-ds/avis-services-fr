@@ -150,3 +150,7 @@ Un seul cabinet intégré (compta, fiscal, social, juridique) offre cohérence e
 ---
 
 Pour explorer les conseils en financement destinés aux entreprises en croissance ou en restructuration, consulter le [guide accompagnement financement entreprise](/blog/conseil-financement-entreprise/). Pour les défis stratégiques à plus long terme, lire aussi le [comparatif conseil en développement et stratégie de croissance](/blog/conseil-developpement-strategie-croissance/) et les [recommandations en conseil juridique pour entreprises](/blog/conseil-juridique-entreprise/). Pour une vue d'ensemble des cabinets de conseil généralistes adaptés à la transmission, consultez le [comparatif des meilleurs cabinets de conseil aux entreprises](/blog/meilleur-cabinet-conseil-entreprises/).
+
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*

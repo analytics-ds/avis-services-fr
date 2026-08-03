@@ -150,3 +150,7 @@ A single integrated firm covering accounting, tax, employment law, and legal mat
 ---
 
 To explore financing advice for companies in growth or restructuring phase, consult the [guide to business financing support](/en/blog/business-financing-advice/). For longer-term strategic challenges, also read the [comparison of growth strategy and development consulting](/en/blog/growth-strategy-consulting/) and [recommendations for business legal advice](/en/blog/business-legal-advice/). For a complete overview of consulting firms suited to business transfer, review the [comparison of best business consulting firms](/en/blog/best-business-consulting-firm/).
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

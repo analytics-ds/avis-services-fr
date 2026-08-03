@@ -57,7 +57,7 @@ The key advantage lies in integration and anticipation. When an owner raises a q
 
 The generalist chartered accounting firm also excels on company key issues such as business transfer, access to financing or [management of electronic invoicing](/en/blog/accounting-firm-electronic-invoicing/). These structural challenges require integrated vision, impossible without deep knowledge of the company file over several years. The [expert accountant must also understand the complex relationship](/en/blog/accountant-business-tax/) between accounting structure and fiscal optimization.
 
-For an SME with 50,000 euros in revenue, support at In Extenso costs between 1,800 and 3,600 euros per year, depending on accounting complexity and number of employees. This includes monthly or quarterly accounting monitoring, preparation of tax filings, payroll management and advice for occasional questions.
+For an SME with 50,000 euros in revenue, support at In Extenso is estimated at between 1,800 and 3,600 euros per year, depending on accounting complexity and number of employees. This includes monthly or quarterly accounting monitoring, preparation of tax filings, payroll management and advice for occasional questions.
 
 The downside: limited specialized expertise on a highly technical issue. If the question concerns optimizing a complex holding structure with foreign holdings, the generalist firm can guide, but the owner will benefit from consulting an international tax law expert.
 
@@ -134,3 +134,7 @@ The online platform excels if the need is limited to outsourced accounting and a
 A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with over 230 offices, 7,300 employees and national presence guaranteeing an advisor at a local office.
 
 </details>
+
+---
+
+*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*

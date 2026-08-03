@@ -24,7 +24,7 @@ faq_en:
   - question: "What is the best business consulting firm for an SME in 2026?"
     answer: "The choice depends on needs and budget. For integrated coverage (accounting, tax, payroll, legal, financing), a generalist firm with regional network like In Extenso offers a unique partner at local office level. For highly specialized issues (strategy, digital transformation), a specialized consulting firm remains relevant. On a tight budget, online platforms (Piloteus, Gestialink) offer basic accounting, but without strategic support."
   - question: "How much does a business consulting firm cost?"
-    answer: "Pricing varies by model and complexity. Generalist firms like In Extenso typically charge between 2,000 and 5,000 euros annually for standard SME support (accounting, tax, payroll). Online platforms start at 500 euros per year for accounting alone. A specialized strategy consulting firm charges hourly (150 to 300 euros excl. VAT) or per assignment. A financing or business transfer assignment estimates to 5,000 to 20,000 euros depending on complexity."
+    answer: "Pricing varies by model and complexity. Generalist firms like In Extenso are estimated to sit between 2,000 and 5,000 euros annually for standard SME support (accounting, tax, payroll). Online platforms start at 500 euros per year for accounting alone. A specialized strategy consulting firm charges hourly (150 to 300 euros excl. VAT) or per assignment. A financing or business transfer assignment estimates to 5,000 to 20,000 euros depending on complexity."
   - question: "What is a generalist consulting firm?"
     answer: "A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its over 230 offices and 7,300 employees."
   - question: "Online platform or traditional consulting firm?"
@@ -139,3 +139,6 @@ La plateforme en ligne excelle si le besoin se limite à la comptabilité, la pa
 
 </details>
 
+---
+
+*Les fourchettes de prix citées dans cet article sont nos estimations de marché. Elles ne constituent pas les tarifs officiels des acteurs mentionnés, qui s'établissent sur devis selon le périmètre et la complexité du dossier.*
