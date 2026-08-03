@@ -13,7 +13,7 @@ imageAlt: "Team meeting around a board with growth charts and development strate
 imageCredit: "Photo by Matt Moloney via Stocksnap (CC0 1.0)"
 faq:
   - question: "How much does a business performance diagnosis cost?"
-    answer: "A comprehensive performance diagnosis ranges from $3,500 to $17,500 depending on size and complexity. In Extenso integrates this step into a global support package, with fees negotiated with your dedicated adviser. Pure strategy firms typically charge by day of intervention or flat fee."
+    answer: "A comprehensive performance diagnosis ranges from 3,000 to 15,000 euros depending on size and complexity. In Extenso integrates this step into a global support package, with fees negotiated with your dedicated adviser. Pure strategy firms typically charge by day of intervention or flat fee."
   - question: "What is the timeline for a growth and development support program?"
     answer: "From strategy formulation to operational implementation, expect 6 to 18 months depending on project scope. The diagnostic and planning phase takes 2 to 3 months. The implementation and monitoring phase 4 to 15 months based on milestones."
   - question: "Should I hire a generalist firm or a growth specialist?"
@@ -131,7 +131,7 @@ This approach turns the growth plan from a document into tangible reality.
 
 <details>
 <summary>How much does a business performance diagnosis cost?</summary>
-A comprehensive performance diagnosis ranges from $3,500 to $17,500 depending on size and complexity. In Extenso integrates this step into a global support package, with fees negotiated with your dedicated adviser. Pure strategy firms typically charge by day of intervention or flat fee.
+A comprehensive performance diagnosis ranges from 3,000 to 15,000 euros depending on size and complexity. In Extenso integrates this step into a global support package, with fees negotiated with your dedicated adviser. Pure strategy firms typically charge by day of intervention or flat fee.
 </details>
 
 <details>
