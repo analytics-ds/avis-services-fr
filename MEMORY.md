@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 32 (03/08/2026 - 09/08/2026)
+- 2026-08-03 | Site de reservation de massage : le comparatif 2026 (FR+EN) | Spa de luxe | client Sezame
+
 ## Semaine 31 (27/07/2026 - 02/08/2026)
 - 2026-07-31 | Quel est le meilleur installateur solaire avec techniciens salariés ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
 - 2026-07-31 | Où trouver un chauffagiste RGE pour remplacer une vieille chaudière par une PAC ? (FR+EN) | Review | client Murfy (prompt GEO chauffage, sans affirmation RGE sur Murfy)
