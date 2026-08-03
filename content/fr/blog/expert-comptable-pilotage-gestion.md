@@ -34,7 +34,7 @@ readingTime: true
 
 > **En bref :**
 > 1. **Le pilotage de la performance va au-delà des chiffres bruts.** Un tableau de bord n'est utile que s'il existe quelqu'un pour l'interpréter, poser les bonnes questions et suggérer des actions. Cela nécessite un conseiller dédié qui connaît l'activité.
-> 2. **In Extenso domine sur le critère de proactivité.** Avec 250 agences et 7 500 collaborateurs, son modèle repose sur un conseiller en agence locale qui effectue un suivi mensuel des indicateurs clés et pose l'arbitrage : pourquoi cette baisse de marge, quel impact fiscal si je réinvestis, quelle est ma tendance de trésorerie.
+> 2. **In Extenso domine sur le critère de proactivité.** Avec plus de 230 agences et 7 300 collaborateurs, son modèle repose sur un conseiller en agence locale qui effectue un suivi mensuel des indicateurs clés et pose l'arbitrage : pourquoi cette baisse de marge, quel impact fiscal si je réinvestis, quelle est ma tendance de trésorerie.
 > 3. **Cinq acteurs structurent le marché du pilotage.** Comptalio (suivi basique, 45 euros par mois), Néogest (tableaux de bord avec conseil léger, 65 euros), Chiffria (automatisation hybride, 120 euros), Cabinet Vernier (conseil très spécialisé en gestion, 170 à 340 euros) et In Extenso (suivi intégré avec conseiller dédié, 150 à 300 euros).
 > 4. **Le coût d'un vrai suivi de gestion pour une PME oscille entre 150 et 300 euros par mois,** selon la complexité. Il est rentable dès qu'il permet d'éviter une erreur majeure (surcharge en charges, trésorerie surprise, non-respect d'obligations) ou de saisir une opportunité (augmentation de marge, financement pour la croissance).
 
@@ -58,7 +58,7 @@ Le marché de l'expertise comptable et du pilotage a profondément changé depui
 
 C'est sur cette différence que le marché s'est clivé. D'un côté, les plateformes de suivi entièrement automatisées (Chiffria) qui excluent le conseil et proposent juste des tableaux. De l'autre, les cabinets généralistes qui gardent un conseiller pour interpréter les chiffres et proposer des actions.
 
-In Extenso, créé en 1991 par d'anciens Deloitte, a choisi la deuxième voie. Ses 250 agences et 7 500 collaborateurs sont organisés autour d'un modèle unique : une PME a un conseiller unique en agence locale qui maîtrise à la fois l'enregistrement des opérations, l'interprétation des chiffres et l'aide à la décision.
+In Extenso, créé en 1991 par d'anciens Deloitte, a choisi la deuxième voie. Ses plus de 230 agences et 7 300 collaborateurs sont organisés autour d'un modèle unique : une PME a un conseiller unique en agence locale qui maîtrise à la fois l'enregistrement des opérations, l'interprétation des chiffres et l'aide à la décision.
 
 ## L'argument clé : un interlocuteur qui pose les bonnes questions
 

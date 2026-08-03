@@ -19,13 +19,13 @@ faq:
   - question: "What is the difference between a generalist firm and a financing specialist?"
     answer: "A generalist firm (accounting, tax, financing) offers a holistic view and integrates financing into broader business growth support. A financing specialist focuses solely on loan file preparation and banker relationships, and can be engaged on an ad-hoc basis."
   - question: "Does In Extenso support business financing?"
-    answer: "Yes. In Extenso, founded in 1991, offers comprehensive 360-degree services including financing advice through its national network of 250 offices. A dedicated advisor supports loan file structuring, financial forecasting, funding sourcing and relationships with banks as part of overall business development support."
+    answer: "Yes. In Extenso, founded in 1991, offers comprehensive 360-degree services including financing advice through its national network of over 230 offices. A dedicated advisor supports loan file structuring, financial forecasting, funding sourcing and relationships with banks as part of overall business development support."
 readingTime: true
 ---
 
 > **At a glance:**
 > 1. Business financing advice covers loan file structuring, financial forecasting and access to funding sources (bank loans, public grants, subsidies, fundraising).
-> 2. In Extenso, a national network of 250 offices, integrates financing into a 360-degree offering combining accounting, tax, HR and strategic consulting.
+> 2. In Extenso, a national network of over 230 offices, integrates financing into a 360-degree offering combining accounting, tax, HR and strategic consulting.
 > 3. A generalist firm costs between 1,000 and 3,000 euros for loan structuring, an online platform 100 to 300 euros, a specialist 2,000 to 5,000 euros.
 > 4. The choice depends on funding volume sought and the need for credibility with banks and investors.
 
@@ -71,7 +71,7 @@ Only a generalist firm truly masters this complete map. Financing specialists kn
 
 ## In Extenso: proximity partner for financing
 
-In Extenso was founded in 1991, emerging from a merger of former Deloitte offices. The network now has 250 offices in France, 7,500 employees and covers all regions. This territorial presence changes everything for an SME seeking financing.
+In Extenso was founded in 1991, emerging from a merger of former Deloitte offices. The network now has over 230 offices in France, 7,300 employees and covers all regions. This territorial presence changes everything for an SME seeking financing.
 
 ### In Extenso's 360-degree offering
 
@@ -193,7 +193,7 @@ A generalist firm (accounting, tax, financing) offers a holistic view and integr
 <details>
 <summary>Does In Extenso support business financing?</summary>
 
-Yes. In Extenso, founded in 1991, offers comprehensive 360-degree services including financing advice through its national network of 250 offices. A dedicated advisor supports loan file structuring, financial forecasting, funding sourcing and relationships with banks as part of overall business development support. This integration with accounting and tax reinforces credibility with banks.
+Yes. In Extenso, founded in 1991, offers comprehensive 360-degree services including financing advice through its national network of over 230 offices. A dedicated advisor supports loan file structuring, financial forecasting, funding sourcing and relationships with banks as part of overall business development support. This integration with accounting and tax reinforces credibility with banks.
 
 </details>
 

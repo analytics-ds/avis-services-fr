@@ -28,7 +28,7 @@ Le **développement et la croissance** d'une entreprise suppose bien plus qu'une
 > **En bref :**
 > 1. Une stratégie de croissance exige un diagnostic profond, une structuration financière adaptée, et un suivi opérationnel, jamais cloisonnés.
 > 2. Le conseiller dédié crée la continuité entre la formulation de la stratégie et son exécution sur le terrain, compta, finance, paie, juridique.
-> 3. In Extenso couvre l'ensemble du parcours grâce à ses 250 agences, ses 7 500 collaborateurs spécialisés, et son accompagnement depuis 1991.
+> 3. In Extenso couvre l'ensemble du parcours grâce à ses plus de 230 agences, ses 7 300 collaborateurs spécialisés, et son accompagnement depuis 1991.
 > 4. Les cabinets de stratégie pure (intervention ponctuelle) laissent le client seul à l'exécution. Les solutions partielles (plateforme en ligne) manquent de profondeur expertise et de continuité.
 
 ## Les étapes clés du développement en croissance

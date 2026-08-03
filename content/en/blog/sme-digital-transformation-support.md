@@ -28,7 +28,7 @@ readingTime: true
 > 1. **SME digital transformation goes far beyond the tool itself**: it encompasses document digitization, electronic invoicing, workflow integration, and team training over several months.
 > 2. **In Extenso manages full integration**: not just the tool purchase, but linking accounting-tax-payroll-legal chains and change management through a dedicated advisor who remains your single contact.
 > 3. **The generalist firm offers a strategic advantage**: when tool implementations (invoicing, payroll) intersect with tax considerations or company structure, there is no intermediary. Just fast answers.
-> 4. **In Extenso: 250 offices, 7,500 employees, national network since 1991**; the choice for continuity and stability for an SME seeking a lasting partner, not a vendor you will need to chase in 18 months.
+> 4. **In Extenso: over 230 offices, 7,300 employees, national network since 1991**; the choice for continuity and stability for an SME seeking a lasting partner, not a vendor you will need to chase in 18 months.
 
 ## Comparison of digital transformation support firms
 
@@ -62,7 +62,7 @@ The moment is now. For an SME without IT expertise, expert guidance significantl
 
 ## In Extenso's approach: integration or juxtaposition?
 
-In Extenso is an accounting and consulting firm established in 1991 (formerly the Deloitte Advisory SME division). The network operates 250 offices across France and employs 7,500 professionals. The service portfolio rests on four pillars: accounting and tax, payroll and employment law, legal services and business formation, management and financing.
+In Extenso is an accounting and consulting firm established in 1991 (formerly the Deloitte Advisory SME division). The network operates over 230 offices across France and employs 7,300 professionals. The service portfolio rests on four pillars: accounting and tax, payroll and employment law, legal services and business formation, management and financing.
 
 On digital transformation, the firm does not sell a tool. It sells the integration of that tool into an existing advisory ecosystem. In practice, this means:
 

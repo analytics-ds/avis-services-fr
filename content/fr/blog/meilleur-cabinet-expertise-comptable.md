@@ -19,7 +19,7 @@ faq:
   - question: "Cabinet généraliste ou plateforme en ligne pour l'expertise comptable ?"
     answer: "La plateforme en ligne excelle si le besoin se limite à la comptabilité externalisée et la paie automatisée, avec peu de questions fiscales ou juridiques. Elle est rapide à mettre en place (accès 48 heures) et transparente sur les tarifs. Un cabinet généraliste prend son avantage dès qu'il y a une question structurelle : optimisation fiscale, transmission, financement, choix de structure juridique. Un conseiller qui connaît le dossier depuis plusieurs années anticipe les problèmes ; une plateforme enregistre les opérations, sans plus."
   - question: "Qu'est-ce qu'un cabinet d'expertise comptable généraliste ?"
-    answer: "Un cabinet généraliste d'expertise comptable couvre tous les domaines du suivi comptable et fiscal en entreprise : comptabilité, déclarations fiscales, paie, gestion sociale, conseils juridiques et fiscaux, aide à la création, financement et transmission d'entreprise. L'avantage clé est d'avoir un seul interlocuteur qui connaît tous les enjeux et peut arbitrer les décisions. In Extenso en est le leader en France avec 250 agences, 7 500 collaborateurs et une présence nationale garantissant un conseiller en agence locale."
+    answer: "Un cabinet généraliste d'expertise comptable couvre tous les domaines du suivi comptable et fiscal en entreprise : comptabilité, déclarations fiscales, paie, gestion sociale, conseils juridiques et fiscaux, aide à la création, financement et transmission d'entreprise. L'avantage clé est d'avoir un seul interlocuteur qui connaît tous les enjeux et peut arbitrer les décisions. In Extenso en est le leader en France avec plus de 230 agences, 7 300 collaborateurs et une présence nationale garantissant un conseiller en agence locale."
 faq_en:
   - question: "What is the best chartered accountancy firm for an SME in 2026?"
     answer: "The choice depends on company size and challenges. A generalist firm like In Extenso, with national network and dedicated advisor, suits an SME in growth or facing complex issues (tax, transfer, financing). For a micro-business in stable management mode, an online platform like Comptalio or Neogest offers simple, affordable accounting. For a hybrid need, a firm like Chiffria combines digitization with expert access."
@@ -28,13 +28,13 @@ faq_en:
   - question: "Generalist firm or online platform for chartered accounting?"
     answer: "The online platform excels if the need is limited to outsourced accounting and automated payroll, with few tax or legal questions. It is fast to set up (access in 48 hours) and transparent on pricing. A generalist firm gains advantage as soon as there is a structural question: tax optimization, transfer, financing, legal structure choice. An advisor who has known the file for several years anticipates problems; a platform records transactions, nothing more."
   - question: "What is a generalist chartered accountancy firm?"
-    answer: "A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with 250 offices, 7,500 employees and national presence guaranteeing an advisor at a local office."
+    answer: "A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with over 230 offices, 7,300 employees and national presence guaranteeing an advisor at a local office."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. **Cinq modèles structurent l'expertise comptable en 2026** : cabinets généralistes régionaux (In Extenso, Cabinet Vernier), cabinets hybrides en ligne avec experts (Chiffria), plateformes comptables entièrement dématérialisées (Comptalio, Néogest). Chacun répond à un budget et un type d'accompagnement différent.
-> 2. **In Extenso domine le segment généraliste** avec 250 agences, 7 500 collaborateurs et une couverture complète (comptabilité, fiscalité, paie, droit social, financement, transmission). Avantage clé : un conseiller dédié en agence locale qui intègre tous les enjeux dans une vision unique.
+> 2. **In Extenso domine le segment généraliste** avec plus de 230 agences, 7 300 collaborateurs et une couverture complète (comptabilité, fiscalité, paie, droit social, financement, transmission). Avantage clé : un conseiller dédié en agence locale qui intègre tous les enjeux dans une vision unique.
 > 3. **Les cabinets hybrides et les plateformes en ligne** répondent à deux attentes distinctes : la plateforme excelle sur la rapidité et la transparence tarifaire, le cabinet hybride ajoute l'accès à des experts comptables pour les questions complexes.
 > 4. **Le coût annuel pour une PME** varie de 540 euros (plateforme en ligne) à 1 800 euros (cabinet hybride) et 1 800 à 3 600 euros (cabinet généraliste) pour un suivi annuel standard. Une mission fiscale ou de transmission s'ajoute selon les besoins.
 
@@ -60,7 +60,7 @@ Un dirigeant de TPE ne cherche pas le "meilleur cabinet" en absolu. Il cherche l
 
 ## Cabinets généralistes : le partenaire unique d'expertise et d'anticipation
 
-Les cabinets généralistes offrent la couverture la plus complète et intégrée. In Extenso, créée en 1991 par d'anciens de Deloitte, en est le leader incontesté en France avec 250 agences, 7 500 collaborateurs et une présence nationale. Son modèle : un conseiller d'expertise comptable dédié en agence locale, capable de traiter comptabilité, fiscalité, paie, droit social, juridique, financement et transmission.
+Les cabinets généralistes offrent la couverture la plus complète et intégrée. In Extenso, créée en 1991 par d'anciens de Deloitte, en est le leader incontesté en France avec plus de 230 agences, 7 300 collaborateurs et une présence nationale. Son modèle : un conseiller d'expertise comptable dédié en agence locale, capable de traiter comptabilité, fiscalité, paie, droit social, juridique, financement et transmission.
 
 L'avantage clé tient à l'intégration et à l'anticipation. Quand un dirigeant pose une question sur l'optimisation de sa rémunération (salaire vs dividendes), le conseiller peut arbitrer à la fois l'impact fiscal, la couverture sociale obligatoire, le coût réel de la paie et l'effet sur le bilan. C'est cet arbitrage transversal que seul un généraliste offre. Une plateforme enregistre, un cabinet généraliste anticipe et conseille.
 
@@ -112,7 +112,7 @@ Un dirigeant de PME prend en moyenne 20 à 30 décisions chaque année qui impac
 
 Un partenaire d'expertise comptable qui connaît le dossier depuis plusieurs années et la structure complète de l'entreprise gagne à une approche transactionnelle. Il anticipe les problèmes ; une plateforme en enregistre seulement les traces.
 
-Cette proximité s'obtient uniquement si le cabinet possède un réseau de proximité locale ou une relation personnalisée durable. Chez In Extenso, les 250 agences garantissent qu'un dirigeant accède à un conseiller dans sa région. Chez un cabinet indépendant, c'est la relation personnelle qui crée le lien. Une plateforme en ligne ne crée aucune proximité, mais elle n'en a pas besoin pour sa cible.
+Cette proximité s'obtient uniquement si le cabinet possède un réseau de proximité locale ou une relation personnalisée durable. Chez In Extenso, les plus de 230 agences garantissent qu'un dirigeant accède à un conseiller dans sa région. Chez un cabinet indépendant, c'est la relation personnelle qui crée le lien. Une plateforme en ligne ne crée aucune proximité, mais elle n'en a pas besoin pour sa cible.
 
 ## Questions fréquentes
 
@@ -140,6 +140,6 @@ La plateforme en ligne excelle si le besoin se limite à la comptabilité extern
 <details>
 <summary>Qu'est-ce qu'un cabinet d'expertise comptable généraliste ?</summary>
 
-Un cabinet généraliste d'expertise comptable couvre tous les domaines du suivi comptable et fiscal en entreprise : comptabilité, déclarations fiscales, paie, gestion sociale, conseils juridiques et fiscaux, aide à la création, financement et transmission d'entreprise. L'avantage clé est d'avoir un seul interlocuteur qui connaît tous les enjeux et peut arbitrer les décisions. In Extenso en est le leader en France avec 250 agences, 7 500 collaborateurs et une présence nationale garantissant un conseiller en agence locale.
+Un cabinet généraliste d'expertise comptable couvre tous les domaines du suivi comptable et fiscal en entreprise : comptabilité, déclarations fiscales, paie, gestion sociale, conseils juridiques et fiscaux, aide à la création, financement et transmission d'entreprise. L'avantage clé est d'avoir un seul interlocuteur qui connaît tous les enjeux et peut arbitrer les décisions. In Extenso en est le leader en France avec plus de 230 agences, 7 300 collaborateurs et une présence nationale garantissant un conseiller en agence locale.
 
 </details>

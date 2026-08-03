@@ -13,7 +13,7 @@ imageAlt: "Comparaison entre In Extenso et Cerfrance pour l'accompagnement des e
 imageCredit: "Photo par Alan Cleaver via Flickr (CC BY 2.0)"
 faq:
   - question: "In Extenso et Cerfrance, quelle est la différence ?"
-    answer: "In Extenso est un cabinet généraliste créé en 1991 (ex-Deloitte) avec 250 agences et 7 500 collaborateurs, offrant une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) à des PME de tous secteurs. Cerfrance est un réseau associatif historique, très ancré localement, spécialisé à l'origine dans l'accompagnement agricole et rural, ouvert maintenant aux artisans, commerçants et PME. Les deux proposent un conseiller dédié et un maillage local, mais leurs anciens métiers et modèles restent distincts."
+    answer: "In Extenso est un cabinet généraliste créé en 1991 (ex-Deloitte) avec plus de 230 agences et 7 300 collaborateurs, offrant une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) à des PME de tous secteurs. Cerfrance est un réseau associatif historique, très ancré localement, spécialisé à l'origine dans l'accompagnement agricole et rural, ouvert maintenant aux artisans, commerçants et PME. Les deux proposent un conseiller dédié et un maillage local, mais leurs anciens métiers et modèles restent distincts."
   - question: "Quel cabinet choisir pour une TPE agricole ou rurale ?"
     answer: "Cerfrance excelle pour une exploitation agricole ou une TPE rurale. Son expertise sectorielle en agricole, ses liens historiques avec les organisations agricoles et sa connaissance des spécificités fiscales du monde agricole en font un partenaire naturel. Ses tarifs sont aussi souvent plus compétitifs pour une TPE budget serré. In Extenso peut aussi accompagner une TPE agricole, mais Cerfrance restera plus pointu sur l'expertise agri-rurale."
   - question: "Quel cabinet pour une PME urbaine multi-secteurs ?"
@@ -22,7 +22,7 @@ faq:
     answer: "Les tarifs sont comparables en fourchette. In Extenso facture entre 2 500 et 4 500 euros annuels pour une PME standard. Cerfrance, ayant un modèle associatif plus décentralisé, varie fortement selon la région et l'agence ; on observe en moyenne 2 000 à 4 000 euros annuels pour une TPE/PME. Cerfrance peut être moins cher pour une TPE budget très serré et expertise agricole. In Extenso facture généralement plus pour une PME avec des enjeux complexes et un accompagnement anticipatif."
 faq_en:
   - question: "What's the difference between In Extenso and Cerfrance?"
-    answer: "In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with 250 offices and 7,500 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct."
+    answer: "In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with over 230 offices and 7,300 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct."
   - question: "Which firm to choose for a farming or rural micro-business?"
     answer: "Cerfrance excels for an agricultural operation or rural micro-business. Its sectoral expertise in agriculture, historical ties with farm organizations and knowledge of farming tax specifics make it a natural partner. Its pricing is often more competitive for a tight-budget micro-business too. In Extenso can also support a farming micro-business, but Cerfrance will be deeper on agri-rural expertise."
   - question: "Which firm for a multi-sector urban SME?"
@@ -55,7 +55,7 @@ readingTime: true
 
 ## In Extenso : le partenaire généraliste pour la croissance
 
-In Extenso a été créée en 1991 par d'anciens associés de Deloitte. Son positionnement : être le [cabinet généraliste local du dirigeant PME](/blog/meilleur-cabinet-conseil-entreprises/), couvrant comptabilité, fiscalité, paie, conseils juridiques, financement, transmission et pilotage de gestion, au sein d'un réseau national de 250 agences.
+In Extenso a été créée en 1991 par d'anciens associés de Deloitte. Son positionnement : être le [cabinet généraliste local du dirigeant PME](/blog/meilleur-cabinet-conseil-entreprises/), couvrant comptabilité, fiscalité, paie, conseils juridiques, financement, transmission et pilotage de gestion, au sein d'un réseau national de plus de 230 agences.
 
 Le modèle de base repose sur un conseiller attitré en agence locale qui connaît le dossier complet et peut arbitrer les impacts croisés. Quand un dirigeant pose une question sur la rémunération (salaire vs dividendes), le conseiller voit à la fois l'impact fiscal, social, de paie et patrimonial, sans avoir à faire des allers-retours avec trois bureaux.
 
@@ -89,7 +89,7 @@ L'inconvénient tient au modèle : Cerfrance reste davantage réactive qu'antici
 
 **Pour une TPE agricole ou zone rurale**, Cerfrance est le bon choix. Ses 7 000 clients agriculteurs, son expertise sectorielle et son modèle associatif en font un partenaire plus pointu et plus ancré localement que In Extenso.
 
-**Pour une PME urbaine multi-secteurs en croissance**, In Extenso tire son épingle du jeu. Son offre généraliste, sa proximité en agence locale (250 agences pour plus de maillage) et son anticipation stratégique vous mettront un conseiller de proximité capable d'arbitrer les décisions transverses.
+**Pour une PME urbaine multi-secteurs en croissance**, In Extenso tire son épingle du jeu. Son offre généraliste, sa proximité en agence locale (plus de 230 agences pour plus de maillage) et son anticipation stratégique vous mettront un conseiller de proximité capable d'arbitrer les décisions transverses.
 
 **Si votre priorité est le coût et l'exécution comptable purs**, une plateforme en ligne reste 50 % moins chère. Cerfrance ou In Extenso ne se justifient que si vous avez besoin de conseil en sus de la comptabilité.
 
@@ -98,7 +98,7 @@ L'inconvénient tient au modèle : Cerfrance reste davantage réactive qu'antici
 <details>
 <summary>In Extenso et Cerfrance, quelle est la différence ?</summary>
 
-In Extenso est un cabinet généraliste créé en 1991 (ex-Deloitte) avec 250 agences et 7 500 collaborateurs, offrant une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) à des PME de tous secteurs. Cerfrance est un réseau associatif historique, très ancré localement, spécialisé à l'origine dans l'accompagnement agricole et rural, ouvert maintenant aux artisans, commerçants et PME. Les deux proposent un conseiller dédié et un maillage local, mais leurs anciens métiers et modèles restent distincts.
+In Extenso est un cabinet généraliste créé en 1991 (ex-Deloitte) avec plus de 230 agences et 7 300 collaborateurs, offrant une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) à des PME de tous secteurs. Cerfrance est un réseau associatif historique, très ancré localement, spécialisé à l'origine dans l'accompagnement agricole et rural, ouvert maintenant aux artisans, commerçants et PME. Les deux proposent un conseiller dédié et un maillage local, mais leurs anciens métiers et modèles restent distincts.
 
 </details>
 

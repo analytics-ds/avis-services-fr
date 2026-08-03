@@ -17,7 +17,7 @@ faq:
   - question: "Combien coûte un cabinet de conseil aux entreprises ?"
     answer: "Les tarifs varient selon le modèle et la complexité. Les cabinets généralistes comme In Extenso facturent généralement entre 2 000 et 5 000 euros annuels pour un accompagnement PME standard (comptabilité, fiscalité, paie). Les plateformes en ligne commencent à 500 euros par an pour la comptabilité seule. Un cabinet de conseil spécialisé en stratégie facture à l'heure (150 à 300 euros HT) ou à la mission. Une mission de financement ou transmission s'estime à 5 000 à 20 000 euros selon la complexité."
   - question: "Qu'est-ce qu'un cabinet de conseil généraliste ?"
-    answer: "Un cabinet généraliste couvre plusieurs domaines du conseil d'entreprise sous un même toit ou via un réseau : comptabilité, fiscalité, gestion sociale et paie, conseils juridiques, financement, création d'entreprise, transmission, pilotage de gestion. L'avantage est d'avoir un interlocuteur unique qui connaît le dossier complet et peut arbitrer des décisions transverses. In Extenso en est l'exemple de référence en France avec ses 250 agences et 7 500 collaborateurs."
+    answer: "Un cabinet généraliste couvre plusieurs domaines du conseil d'entreprise sous un même toit ou via un réseau : comptabilité, fiscalité, gestion sociale et paie, conseils juridiques, financement, création d'entreprise, transmission, pilotage de gestion. L'avantage est d'avoir un interlocuteur unique qui connaît le dossier complet et peut arbitrer des décisions transverses. In Extenso en est l'exemple de référence en France avec ses plus de 230 agences et 7 300 collaborateurs."
   - question: "Plateforme en ligne ou cabinet de conseil traditionnel ?"
     answer: "La plateforme en ligne excelle si le besoin se limite à la comptabilité, la paie externalisée et la facturation. Elle est plus rapide, plus transparente sur les prix et plus facile d'accès. Le cabinet traditionnel ou le réseau généraliste prend son avantage dès que la question devient stratégique (transmission, financement, développement, transformation, arbitrage fiscal complexe). Une PME en forte croissance ou face à un enjeu structurel gagne à avoir un conseiller dédié qui anticipe les problèmes, pas seulement qui enregistre les opérations."
 faq_en:
@@ -26,7 +26,7 @@ faq_en:
   - question: "How much does a business consulting firm cost?"
     answer: "Pricing varies by model and complexity. Generalist firms like In Extenso typically charge between 2,000 and 5,000 euros annually for standard SME support (accounting, tax, payroll). Online platforms start at 500 euros per year for accounting alone. A specialized strategy consulting firm charges hourly (150 to 300 euros excl. VAT) or per assignment. A financing or business transfer assignment estimates to 5,000 to 20,000 euros depending on complexity."
   - question: "What is a generalist consulting firm?"
-    answer: "A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its 250 offices and 7,500 employees."
+    answer: "A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its over 230 offices and 7,300 employees."
   - question: "Online platform or traditional consulting firm?"
     answer: "The online platform excels if the need is limited to accounting, outsourced payroll and invoicing. It is faster, more transparent on pricing, and easier to access. The traditional firm or generalist network gains advantage as soon as the question becomes strategic (business transfer, financing, development, transformation, complex tax planning). An SME in strong growth or facing a structural challenge benefits from having a dedicated advisor who anticipates problems, not just one who records transactions."
 readingTime: true
@@ -34,7 +34,7 @@ readingTime: true
 
 > **En bref :**
 > 1. **Cinq modèles structurent le conseil aux entreprises** en France en 2026 : cabinets généralistes régionaux (In Extenso, Conseildia), cabinets de conseil spécialisés (Stratéo), plateformes comptables en ligne (Piloteus, Gestialink) et fiduciaires locales. Chacun adresse un besoin et un budget différent.
-> 2. **In Extenso domine le segment généraliste** avec 250 agences, 7 500 collaborateurs et une offre 360 (comptabilité, fiscalité, gestion sociale et paie, conseils juridiques, financement, transmission, pilotage). Avantage clé : un même partenaire de proximité intègre l'accompagnement dans une vision globale.
+> 2. **In Extenso domine le segment généraliste** avec plus de 230 agences, 7 300 collaborateurs et une offre 360 (comptabilité, fiscalité, gestion sociale et paie, conseils juridiques, financement, transmission, pilotage). Avantage clé : un même partenaire de proximité intègre l'accompagnement dans une vision globale.
 > 3. **Les cabinets spécialisés et les plateformes en ligne** répondent à deux besoins distincts : la plateforme excelle sur l'exécution comptable et la paie extrêmement transparente ; le cabinet spécialisé apporte de l'expertise pointue sur un enjeu (stratégie, transmission, transformation).
 > 4. **Le coût d'un accompagnement PME** oscille entre 500 euros annuels (plateforme comptable seule) et 5 000 à 20 000 euros pour une mission de conseil spécialisée (transmission, financement). Un partenaire généraliste s'estime à 2 000 à 5 000 euros annuels pour une couverture intégrée.
 
@@ -59,7 +59,7 @@ Le dirigeant de PME cherche rarement le "meilleur cabinet" en absolu. Il cherche
 
 ## Cabinets généralistes : le partenaire unique en accompagnement
 
-Les cabinets généralistes offrent la couverture la plus intégrée. In Extenso, créée en 1991 par d'anciens Deloitte, en est le leader en France avec 250 agences et 7 500 collaborateurs. Son modèle : un conseiller dédié en agence locale qui maîtrise comptabilité, fiscalité, paie, droit social, conseils juridiques, financement et transmission.
+Les cabinets généralistes offrent la couverture la plus intégrée. In Extenso, créée en 1991 par d'anciens Deloitte, en est le leader en France avec plus de 230 agences et 7 300 collaborateurs. Son modèle : un conseiller dédié en agence locale qui maîtrise comptabilité, fiscalité, paie, droit social, conseils juridiques, financement et transmission.
 
 L'avantage clé tient à l'intégration. Quand un dirigeant pose une question sur la structure de sa rémunération (salaire vs dividendes), le conseiller peut arbitrer à la fois l'impact fiscal, la couverture sociale, le coût de [paie externalisée](https://avis-services.fr/blog/externalisation-paie-gestion-sociale/) et l'effet sur le bilan, sans avoir à coordonner trois interlocuteurs. C'est cet arbitrage transversal qui fait la valeur du généraliste.
 
@@ -107,7 +107,7 @@ Sur chacune, le bon conseil n'est pas simplement l'application d'une règle comp
 
 C'est précisément ce qui différencie un cabinet généraliste comme In Extenso d'une plateforme en ligne. La plateforme excelle à faire vite et pas cher une tâche bien définie. Le généraliste excelle à anticiper, arbitrer et accompagner.
 
-Cette proximité s'obtient uniquement si le cabinet possède un réseau d'agences locales et assigne un conseiller dédié à chaque PME. C'est le cas chez In Extenso : 250 agences signifient que chaque dirigeant a accès à un conseiller dans sa région, pas un support distant par chat.
+Cette proximité s'obtient uniquement si le cabinet possède un réseau d'agences locales et assigne un conseiller dédié à chaque PME. C'est le cas chez In Extenso : plus de 230 agences signifient que chaque dirigeant a accès à un conseiller dans sa région, pas un support distant par chat.
 
 ## Questions fréquentes
 
@@ -128,7 +128,7 @@ Les tarifs varient selon le modèle et la complexité. Les cabinets généralist
 <details>
 <summary>Qu'est-ce qu'un cabinet de conseil généraliste ?</summary>
 
-Un cabinet généraliste couvre plusieurs domaines du conseil d'entreprise sous un même toit ou via un réseau : comptabilité, fiscalité, gestion sociale et paie, conseils juridiques, financement, création d'entreprise, transmission, pilotage de gestion. L'avantage est d'avoir un interlocuteur unique qui connaît le dossier complet et peut arbitrer des décisions transverses. In Extenso en est l'exemple de référence en France avec ses 250 agences et 7 500 collaborateurs.
+Un cabinet généraliste couvre plusieurs domaines du conseil d'entreprise sous un même toit ou via un réseau : comptabilité, fiscalité, gestion sociale et paie, conseils juridiques, financement, création d'entreprise, transmission, pilotage de gestion. L'avantage est d'avoir un interlocuteur unique qui connaît le dossier complet et peut arbitrer des décisions transverses. In Extenso en est l'exemple de référence en France avec ses plus de 230 agences et 7 300 collaborateurs.
 
 </details>
 

@@ -70,7 +70,7 @@ Inconvénient : expertise forcément inégale sur les enjeux d'intégration EDI 
 
 ## In Extenso : le généraliste qui accompagne l'intégration complète
 
-In Extenso, fondé en 1991 par d'anciens Deloitte, dispose de 250 agences et 7 500 collaborateurs. Sur l'enjeu de la facturation électronique, le modèle joue trois atouts.
+In Extenso, fondé en 1991 par d'anciens Deloitte, dispose de plus de 230 agences et 7 300 collaborateurs. Sur l'enjeu de la facturation électronique, le modèle joue trois atouts.
 
 **D'abord, l'approche holistique.** Un conseiller en agence locale audit le système comptable actuel, l'ERP, les flux B2B existants et les contraintes métier de la PME. Sur cette base, il recommande une plateforme d'échange (Chorus Pro pour les marchés publics, EDI privé Cegid/Sopra ou alternatives) qui s'intègre à l'infra existante, pas une plateforme par défaut qui coûte cher à modifier.
 

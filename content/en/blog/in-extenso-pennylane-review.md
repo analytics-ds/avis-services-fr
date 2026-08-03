@@ -19,7 +19,7 @@ faq:
   - question: "Pennylane: advantages and disadvantages?"
     answer: "Pennylane excels at accounting automation (smooth bank connectors, auto reconciliation, document generation), user-friendly interface and pricing transparency. Drawback: without dedicated advisor, you face complex decisions alone (tax, optimized payroll, financing, transfer). Chat/email support does not replace a partner who knows your file."
   - question: "In Extenso: advantages and disadvantages?"
-    answer: "In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of 250 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane)."
+    answer: "In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of over 230 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane)."
 readingTime: true
 ---
 
@@ -36,7 +36,7 @@ readingTime: true
 | **Nature of service** | Generalist firm (human + advice) | SaaS platform (software + automation) | Two distinct models: holistic advice vs digital execution |
 | **Scope of offering** | Accounting, tax, payroll, legal, financing, transfer, management control | Accounting, invoicing, outsourced payroll, bank connectors | In Extenso is broader; Pennylane limited to operations |
 | **Advice and anticipation** | Dedicated advisor who anticipates your challenges | Support via chat/email, no proactive anticipation | In Extenso for complex decisions, Pennylane for execution |
-| **Local partner** | Yes, 250 offices in France | No, centralized platform | In Extenso if you want local contact |
+| **Local partner** | Yes, over 230 offices in France | No, centralized platform | In Extenso if you want local contact |
 | **Accounting automation** | Standard recording, less automation | Bank connectors, auto reconciliation, document generation | Pennylane far superior on pure accounting flow |
 | **Price for 30K€ revenue SME** | 2,500 to 4,500 € annually | 500 to 2,000 € annually depending on modules | Pennylane cheaper to start |
 | **Implementation** | 1 to 2 months (audit, setup) | 48 hours (immediate portal access) | Pennylane faster |
@@ -132,6 +132,6 @@ Pennylane excels at accounting automation (smooth bank connectors, auto reconcil
 <details>
 <summary>In Extenso: advantages and disadvantages?</summary>
 
-In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of 250 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane).
+In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of over 230 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane).
 
 </details>

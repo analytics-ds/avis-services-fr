@@ -59,7 +59,7 @@ Disadvantage: expertise is necessarily uneven on EDI integration issues beyond t
 
 ## In Extenso: the generalist that drives complete integration
 
-In Extenso, founded in 1991 by former Deloitte partners, has 250 offices and 7,500 employees. On the electronic invoicing challenge, the model plays three advantages.
+In Extenso, founded in 1991 by former Deloitte partners, has over 230 offices and 7,300 employees. On the electronic invoicing challenge, the model plays three advantages.
 
 **First, the holistic approach.** A local office advisor audits the current accounting system, ERP, existing B2B flows and business constraints of the SME. On this basis, he recommends an exchange platform (Chorus Pro for public contracts, private EDI Cegid/Sopra or alternatives) that integrates with existing infrastructure, not a default platform that is expensive to modify.
 

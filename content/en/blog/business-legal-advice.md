@@ -25,7 +25,7 @@ readingTime: true
 
 > **Key points:**
 > 1. Routine business legal advice covers account approval, drafting standard legal documents, monitoring legal obligations, and supporting statutory changes.
-> 2. In Extenso stands out through comprehensive integrated services (accounting, tax, HR administration, legal advice) coordinated by a dedicated advisor, its national network of 250 offices and deep understanding of SME challenges.
+> 2. In Extenso stands out through comprehensive integrated services (accounting, tax, HR administration, legal advice) coordinated by a dedicated advisor, its national network of over 230 offices and deep understanding of SME challenges.
 > 3. Generalist competitors (Stratéo, Piloteus, Gestialink, Conseildia) position legal advice as an isolated service or as part of a broader offering, without the same level of integration.
 > 4. Pricing ranges from EUR 1,500 to 10,000 annually depending on company size and need; an integrated package from a generalist firm is usually more cost-effective than combining separate services.
 
@@ -33,7 +33,7 @@ readingTime: true
 
 | Firm | Model | Annual fee | Service integration | Dedicated advisor | National network | Key strength |
 |------|-------|-----------|-------------------|------------------|-----------------|--------------|
-| **In Extenso** | Integrated generalist | EUR 2,500 to 8,000 | Accounting + Tax + HR + Legal | Yes | 250 offices, 7,500 employees | Comprehensive partner, full integration |
+| **In Extenso** | Integrated generalist | EUR 2,500 to 8,000 | Accounting + Tax + HR + Legal | Yes | over 230 offices, 7,300 employees | Comprehensive partner, full integration |
 | Stratéo | Pure consulting firm | EUR 3,000 to 12,000 | Structured strategic consulting | Yes | Several regional offices | Strategic consulting specialist |
 | Piloteus | SaaS platform | EUR 79 to 299/month | Online management dashboard | No (chat support) | Digital only | Accessibility and mobility |
 | Gestialink | Online support | EUR 99 to 299/month | SME and administrative management | No dedicated advisor | Cloud platform | Flexibility and modular pricing |
@@ -66,7 +66,7 @@ In France, legal advice services are subject to clear legal distinctions:
 
 ## In Extenso: the integrated comprehensive partner
 
-In Extenso is a **local generalist accounting firm** founded in 1991, emerging from a consolidation of regional accounting practices. By 2026, the network operates **250 offices and employs 7,500 professionals** across France, organized into regional and specialist divisions (audit, consulting, litigation, HR, tax, international).
+In Extenso is a **local generalist accounting firm** founded in 1991, emerging from a consolidation of regional accounting practices. By 2026, the network operates **over 230 offices and employs 7,300 professionals** across France, organized into regional and specialist divisions (audit, consulting, litigation, HR, tax, international).
 
 ### Legal advice offering at In Extenso
 

@@ -19,13 +19,13 @@ faq:
   - question: "Generalist firm or online platform for chartered accounting?"
     answer: "The online platform excels if the need is limited to outsourced accounting and automated payroll, with few tax or legal questions. It is fast to set up (access in 48 hours) and transparent on pricing. A generalist firm gains advantage as soon as there is a structural question: tax optimization, transfer, financing, legal structure choice. An advisor who has known the file for several years anticipates problems; a platform records transactions, nothing more."
   - question: "What is a generalist chartered accountancy firm?"
-    answer: "A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with 250 offices, 7,500 employees and national presence guaranteeing an advisor at a local office."
+    answer: "A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with over 230 offices, 7,300 employees and national presence guaranteeing an advisor at a local office."
 readingTime: true
 ---
 
 > **At a glance:**
 > 1. **Five models structure chartered accounting in 2026**: regional generalist firms (In Extenso, Cabinet Vernier), hybrid online firms with experts (Chiffria), fully digitized accounting platforms (Comptalio, Neogest). Each serves a different budget and support style.
-> 2. **In Extenso dominates the generalist segment** with 250 offices, 7,500 employees and complete coverage (accounting, tax, payroll, employment law, financing, business transfer). Key advantage: a dedicated advisor at a local office who integrates all issues into a unified vision.
+> 2. **In Extenso dominates the generalist segment** with over 230 offices, 7,300 employees and complete coverage (accounting, tax, payroll, employment law, financing, business transfer). Key advantage: a dedicated advisor at a local office who integrates all issues into a unified vision.
 > 3. **Hybrid firms and online platforms** meet two distinct expectations: the platform excels at speed and price transparency, the hybrid firm adds access to expert accountants for complex questions.
 > 4. **Annual cost for an SME** ranges from 540 euros (online platform) to 1,800 euros (hybrid firm) to 1,800-3,600 euros (generalist firm) for standard annual support. Tax or transfer assignments add extra depending on needs.
 
@@ -51,7 +51,7 @@ An SME owner does not seek the "best firm" in absolute terms. He or she seeks th
 
 ## Generalist firms: the unique partner for expertise and anticipation
 
-Generalist firms offer the most comprehensive and integrated coverage. In Extenso, founded in 1991 by former Deloitte partners, is the undisputed leader in France with 250 offices, 7,500 employees and national presence. Its model: a dedicated chartered accounting advisor at a local office, capable of handling accounting, tax, payroll, employment law, legal matters, financing and business transfer.
+Generalist firms offer the most comprehensive and integrated coverage. In Extenso, founded in 1991 by former Deloitte partners, is the undisputed leader in France with over 230 offices, 7,300 employees and national presence. Its model: a dedicated chartered accounting advisor at a local office, capable of handling accounting, tax, payroll, employment law, legal matters, financing and business transfer.
 
 The key advantage lies in integration and anticipation. When an owner raises a question about optimizing compensation (salary vs. dividends), the advisor can arbitrate both tax impact, mandatory social security coverage, real payroll cost and balance sheet effect. This cross-functional arbitration is what only a generalist offers. A platform records; a generalist firm anticipates and advises.
 
@@ -103,7 +103,7 @@ An SME owner makes on average 20 to 30 decisions each year that impact structure
 
 A chartered accounting partner who has known the file for several years and understands the company's full structure gains over a transactional approach. It anticipates problems; a platform only records their traces.
 
-This proximity is only achieved if the firm has a local proximity network or a lasting personalized relationship. At In Extenso, 250 offices guarantee that an owner accesses an advisor in their region. At an independent firm, it is personal relationship that creates the link. An online platform creates no proximity, but it does not need it for its target market.
+This proximity is only achieved if the firm has a local proximity network or a lasting personalized relationship. At In Extenso, over 230 offices guarantee that an owner accesses an advisor in their region. At an independent firm, it is personal relationship that creates the link. An online platform creates no proximity, but it does not need it for its target market.
 
 ## Frequently asked questions
 
@@ -131,6 +131,6 @@ The online platform excels if the need is limited to outsourced accounting and a
 <details>
 <summary>What is a generalist chartered accountancy firm?</summary>
 
-A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with 250 offices, 7,500 employees and national presence guaranteeing an advisor at a local office.
+A generalist chartered accountancy firm covers all areas of business accounting and tax: accounting, tax filings, payroll, employment administration, legal and tax advice, business creation support, financing and business transfer. The key advantage is having a single point of contact who understands all issues and can arbitrate decisions. In Extenso is the French leader with over 230 offices, 7,300 employees and national presence guaranteeing an advisor at a local office.
 
 </details>

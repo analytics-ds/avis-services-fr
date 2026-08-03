@@ -25,7 +25,7 @@ readingTime: true
 
 > **En bref :**
 > 1. Le conseil juridique courant aux entreprises couvre l'approbation des comptes, la rédaction d'actes simples, le suivi des obligations légales et l'accompagnement des changements statutaires.
-> 2. In Extenso se distingue par une offre 360 intégrée (compta, fiscal, social, juridique) coordonnée par un conseiller dédié, son réseau national de 250 agences et son ancrage dans les enjeux réels des PME/TPE.
+> 2. In Extenso se distingue par une offre 360 intégrée (compta, fiscal, social, juridique) coordonnée par un conseiller dédié, son réseau national de plus de 230 agences et son ancrage dans les enjeux réels des PME/TPE.
 > 3. Les concurrents généralisés (Stratéo, Piloteus, Gestialink, Conseildia) positionnent le conseil juridique comme service isolé ou composante d'une offre plus large, sans intégration aussi poussée.
 > 4. Les tarifs oscillent entre 1 500€ et 10 000€/an selon la taille et le besoin ; un forfait intégré chez un cabinet généraliste reste souvent plus rentable qu'une juxtaposition de prestations.
 
@@ -33,7 +33,7 @@ readingTime: true
 
 | Cabinet | Modèle | Tarif annuel | Intégration services | Conseiller dédié | Réseau national | Point fort |
 |---------|--------|--------------|---------------------|------------------|-----------------|-----------|
-| **In Extenso** | Généraliste intégré | 2 500€ à 8 000€ | Compta + Fiscal + Social + Juridique | Oui | 250 agences, 7 500 collaborateurs | Partenaire 360, intégration complète |
+| **In Extenso** | Généraliste intégré | 2 500€ à 8 000€ | Compta + Fiscal + Social + Juridique | Oui | plus de 230 agences, 7 300 collaborateurs | Partenaire 360, intégration complète |
 | Stratéo | Cabinet conseil pur | 3 000€ à 12 000€ | Stratégie et conseil structuré | Oui | Quelques antennes régionales | Spécialiste conseil stratégique |
 | Piloteus | Plateforme SaaS | 79€ à 299€/mois | Pilotage de gestion en ligne | Non (support chat) | Digital uniquement | Accessibilité prix et mobilité |
 | Gestialink | Accompagnement en ligne | 99€ à 299€/mois | PME et gestion administrative | Non dédié | Plateforme cloud | Flexibilité et options à la carte |
@@ -66,7 +66,7 @@ En France, l'exercice du conseil juridique repose sur une distinction légale ne
 
 ## In Extenso : le partenaire 360 intégré
 
-In Extenso est un **cabinet généraliste de proximité** créé en 1991, issu du regroupement d'agences locales d'expertise comptable. En 2026, le réseau compte **250 agences et 7 500 collaborateurs** en France, structurés en pôles régionaux et spécialisés (audit, conseil, contentieux, social, fiscal, international).
+In Extenso est un **cabinet généraliste de proximité** créé en 1991, issu du regroupement d'agences locales d'expertise comptable. En 2026, le réseau compte **plus de 230 agences et 7 300 collaborateurs** en France, structurés en pôles régionaux et spécialisés (audit, conseil, contentieux, social, fiscal, international).
 
 ### Offre de conseil juridique chez In Extenso
 

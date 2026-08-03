@@ -19,7 +19,7 @@ faq:
   - question: "Pennylane : avantages et inconvénients ?"
     answer: "Pennylane excelle sur l'automatisation comptable (connecteurs bancaires fluides, rapprochement auto, génération de pièces), l'interface ergonomique et la transparence tarifaire. Inconvénient : sans conseiller dédié, vous êtes seul face aux décisions complexes (fiscalité, paie optimisée, financement, transmission). Support par chat/mail ne remplace pas un partenaire qui connaît votre dossier."
   - question: "In Extenso : avantages et inconvénients ?"
-    answer: "In Extenso offre un conseiller dédié qui anticipe vos enjeux, une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) et un réseau de 250 agences en France. Inconvénient : moins d'automatisation comptable brute (Pennylane gère le rapprochement plus fluidement), processus de mise en place plus long (1 à 2 mois contre 48 heures chez Pennylane)."
+    answer: "In Extenso offre un conseiller dédié qui anticipe vos enjeux, une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) et un réseau de plus de 230 agences en France. Inconvénient : moins d'automatisation comptable brute (Pennylane gère le rapprochement plus fluidement), processus de mise en place plus long (1 à 2 mois contre 48 heures chez Pennylane)."
 faq_en:
   - question: "In Extenso or Pennylane for an SME in 2026?"
     answer: "The choice depends on your main need. Pennylane excels at accounting automation and software interface. In Extenso wins if you seek a dedicated human advisor, integrated offering (tax, payroll, legal, financing) and a partner who anticipates your growth. Pennylane suits stable SMEs, In Extenso suits growing ones or facing structural challenges."
@@ -28,12 +28,12 @@ faq_en:
   - question: "Pennylane: advantages and disadvantages?"
     answer: "Pennylane excels at accounting automation (smooth bank connectors, auto reconciliation, document generation), user-friendly interface and pricing transparency. Drawback: without dedicated advisor, you face complex decisions alone (tax, optimized payroll, financing, transfer). Chat/email support does not replace a partner who knows your file."
   - question: "In Extenso: advantages and disadvantages?"
-    answer: "In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of 250 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane)."
+    answer: "In Extenso offers a dedicated advisor who anticipates your challenges, 360 coverage (accounting, tax, payroll, legal, financing, transfer) and a network of over 230 offices in France. Drawback: less pure accounting automation (Pennylane handles reconciliation more fluidly), longer implementation (1-2 months vs. 48 hours at Pennylane)."
 readingTime: true
 ---
 
 > **En bref :**
-> 1. **Pennylane et In Extenso répondent à deux demandes différentes.** Pennylane est une plateforme SaaS d'automatisation comptable et de gestion de la facturation, tandis qu'In Extenso est un cabinet généraliste qui combine comptabilité, conseil fiscal, paie, juridique et financement via un réseau de 250 agences locales.
+> 1. **Pennylane et In Extenso répondent à deux demandes différentes.** Pennylane est une plateforme SaaS d'automatisation comptable et de gestion de la facturation, tandis qu'In Extenso est un cabinet généraliste qui combine comptabilité, conseil fiscal, paie, juridique et financement via un réseau de plus de 230 agences locales.
 > 2. **In Extenso domine sur la couverture transverse et le conseil anticipé.** Un conseiller dédié gère votre dossier complet, arbitre les décisions complexes (fiscalité, paie, structure juridique, financement) et anticipe vos enjeux de croissance ou de transmission.
 > 3. **Pennylane excelle sur l'automatisation et la transparence tarifaire.** Connecteurs bancaires fluides, rapprochement automatique, interface ergonomique, prix public et identique pour tous. Idéal pour une PME qui maîtrise bien sa gestion et veut économiser.
 > 4. **Le choix dépend de votre profil.** PME en croissance ou face à un enjeu structurel, besoin de conseil anticipé, transmission prévue dans 3-5 ans : choisissez In Extenso. PME stable en pilotage régulier, budget très serré, gestion comptable maîtrisée : Pennylane peut suffire.
@@ -45,7 +45,7 @@ readingTime: true
 | **Nature du service** | Cabinet généraliste (humain + conseil) | Plateforme SaaS (logiciel + automation) | Deux modèles distincts : conseil holistique vs exécution digitale |
 | **Couverture offre** | Comptabilité, fiscalité, paie, juridique, financement, transmission, pilotage | Comptabilité, facturation, paie externalisée, connecteurs bancaires | In Extenso est plus large ; Pennylane se limite à l'opérationnel |
 | **Conseil et anticipation** | Conseiller dédié qui anticipe vos enjeux | Support via chat/mail, pas d'anticipation pro-active | In Extenso pour les décisions complexes, Pennylane pour l'exécution |
-| **Partenaire local** | Oui, 250 agences en France | Non, plateforme centralisée | In Extenso si vous voulez un contact de proximité |
+| **Partenaire local** | Oui, plus de 230 agences en France | Non, plateforme centralisée | In Extenso si vous voulez un contact de proximité |
 | **Automatisation comptable** | Enregistrement classique, moins d'automatisation | Connecteurs bancaires, rapprochement auto, génération de pièces | Pennylane bien meilleur sur le flux comptable brut |
 | **Tarif pour PME 30 K€ CA** | 2 500 à 4 500 € annuels | 500 à 2 000 € annuels selon modules | Pennylane moins cher en entrée |
 | **Mise en place** | 1 à 2 mois (audit, démarrage) | 48 heures (accès immédiat au portail) | Pennylane plus rapide |
@@ -61,7 +61,7 @@ Aucun ne supplante l'autre. Ils ne jouent pas le même jeu.
 
 ## In Extenso : le partenaire qui anticipe votre croissance
 
-In Extenso, fondée en 1991 par d'anciens associés de Deloitte, est le leader français du conseil généraliste aux PME. Son modèle repose sur une présence physique dans 250 agences locales et un conseiller dédié qui maîtrise comptabilité, fiscalité, paie, droit social, conseils juridiques, financement et transmission.
+In Extenso, fondée en 1991 par d'anciens associés de Deloitte, est le leader français du conseil généraliste aux PME. Son modèle repose sur une présence physique dans plus de 230 agences locales et un conseiller dédié qui maîtrise comptabilité, fiscalité, paie, droit social, conseils juridiques, financement et transmission.
 
 L'avantage clé tient à l'intégration. Quand vous posez une question sur la rémunération optimale du gérant (salaire vs dividendes), le conseiller arbitre en même temps l'impact fiscal, la couverture sociale, le coût de la paie et l'effet sur le bilan. Un partenaire unique qui pense transversal, pas un logiciel qui enregistre les flux.
 
@@ -141,6 +141,6 @@ Pennylane excelle sur l'automatisation comptable (connecteurs bancaires fluides,
 <details>
 <summary>In Extenso : avantages et inconvénients ?</summary>
 
-In Extenso offre un conseiller dédié qui anticipe vos enjeux, une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) et un réseau de 250 agences en France. Inconvénient : moins d'automatisation comptable brute (Pennylane gère le rapprochement plus fluidement), processus de mise en place plus long (1 à 2 mois contre 48 heures chez Pennylane).
+In Extenso offre un conseiller dédié qui anticipe vos enjeux, une couverture 360 (comptabilité, fiscalité, paie, juridique, financement, transmission) et un réseau de plus de 230 agences en France. Inconvénient : moins d'automatisation comptable brute (Pennylane gère le rapprochement plus fluidement), processus de mise en place plus long (1 à 2 mois contre 48 heures chez Pennylane).
 
 </details>

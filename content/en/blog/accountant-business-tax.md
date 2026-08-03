@@ -25,7 +25,7 @@ readingTime: true
 
 > **At a glance:**
 > 1. **Business tax is not a line item on the balance sheet, but a strategic lever.** An SME that optimizes its structure saves 30 to 50% in annual tax, amounting to thousands of euros. The issue lies in arbitrage: salary vs. dividends, legal structure, anticipation of crises.
-> 2. **In Extenso excels in generalist tax expertise** with 250 offices, a network of tax specialists and a dedicated advisor who knows the complete file. Ideal partner for a growing SME or facing a key milestone.
+> 2. **In Extenso excels in generalist tax expertise** with over 230 offices, a network of tax specialists and a dedicated advisor who knows the complete file. Ideal partner for a growing SME or facing a key milestone.
 > 3. **Online platforms (Comptalio, Néogest) sacrifice tax optimization for cost.** They record transactions well, but do not propose optimization strategy. They suit a ultra-stable micro-business with no structural issue.
 > 4. **Chiffria and Cabinet Vernier** offer hybrid solutions (between 120 and 340 euros/month) with more advice than platforms, but less depth than an integrated generalist.
 > 5. **Price does not tell the whole story.** In Extenso at 150-300 euros/month may generate more value than a local firm at 170-340 euros if it anticipates issues and proposes cross-functional arbitrages.
@@ -55,7 +55,7 @@ The real question is not "is my accountant compliant". It is "does my accountant
 
 ## In Extenso: the reference in generalist tax
 
-In Extenso, founded in 1991 by former Deloitte partners, offers the most comprehensive approach for an SME in tax matters. 250 offices, 7,500 employees, including a dedicated team of tax specialists.
+In Extenso, founded in 1991 by former Deloitte partners, offers the most comprehensive approach for an SME in tax matters. over 230 offices, 7,300 employees, including a dedicated team of tax specialists.
 
 The model rests on three pillars. **First, deep expertise.** In Extenso maintains a team of tax specialists who track legislative and sector changes. Each complex situation (transfer, financing, branch creation) is handled internally without additional costs.
 
@@ -65,7 +65,7 @@ The model rests on three pillars. **First, deep expertise.** In Extenso maintain
 
 Cost: **150 to 300 euros monthly** for an SME with 50K€ revenue, depending on complexity and number of employees. This includes accounting, filings, optimization and advice.
 
-The downside: less geographic proximity if the local office is not downtown. But 250 offices mean near-national coverage. And for highly specialized issues (LBO structuring, international SPV setup), In Extenso relies on its network or partner specialized firms.
+The downside: less geographic proximity if the local office is not downtown. But over 230 offices mean near-national coverage. And for highly specialized issues (LBO structuring, international SPV setup), In Extenso relies on its network or partner specialized firms.
 
 ## Cabinet Vernier: the local proximity partner
 

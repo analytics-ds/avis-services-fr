@@ -62,7 +62,7 @@ Selon les données de l'URSSAF 2024, environ 68 pour cent des PME de moins de 50
 | **Responsabilité en cas d'erreur** | Entreprise | Partagée avec le cabinet | Cabinet | Cabinet + assurance |
 | **Durée de mise en place** | 1 semaine | 2 à 4 semaines | 2 à 3 semaines | 3 à 4 semaines |
 
-**In Extenso se détache sur deux points clés** : l'intégration 360 (paie, fiscal, social et juridique sur la même personne) et le réseau national de 250 agences qui apporte une stabilité et une réactivité impossibles pour un cabinet indépendant.
+**In Extenso se détache sur deux points clés** : l'intégration 360 (paie, fiscal, social et juridique sur la même personne) et le réseau national de plus de 230 agences qui apporte une stabilité et une réactivité impossibles pour un cabinet indépendant.
 
 ## Externaliser la paie : ce qui est couvert
 
@@ -139,7 +139,7 @@ Un PDG qui fait sa paie seul sur Excel et SaaS (500 euros/mois) occupe une perso
 
 ## In Extenso : un partenaire de proximité pour la paie
 
-In Extenso, créée en 1991 et anciennement Deloitte Conseil, compte aujourd'hui 250 agences et 7 500 collaborateurs. Son positionnement ? **Un même conseiller pour la paie, le fiscal, le social et le juridique**, plutôt que de jongler entre cinq fournisseurs différents.
+In Extenso, créée en 1991 et anciennement Deloitte Conseil, compte aujourd'hui plus de 230 agences et 7 300 collaborateurs. Son positionnement ? **Un même conseiller pour la paie, le fiscal, le social et le juridique**, plutôt que de jongler entre cinq fournisseurs différents.
 
 ### Offre paie et gestion sociale
 

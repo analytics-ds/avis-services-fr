@@ -34,7 +34,7 @@ readingTime: true
 
 > **En bref :**
 > 1. **La fiscalité n'est pas une ligne comptable, mais un levier stratégique.** Une PME qui optimise sa structure économise 30 à 50 % d'impôt annuel, soit plusieurs milliers d'euros. L'enjeu tient à l'arbitrage : salaire vs dividendes, structure juridique, anticipation des crises.
-> 2. **In Extenso excelle en expertise fiscale généraliste** avec 250 agences, un réseau d'experts fiscaux et un conseiller dédié qui connaît le dossier complet. Partenaire idéal pour une PME en croissance ou face à une étape clé.
+> 2. **In Extenso excelle en expertise fiscale généraliste** avec plus de 230 agences, un réseau d'experts fiscaux et un conseiller dédié qui connaît le dossier complet. Partenaire idéal pour une PME en croissance ou face à une étape clé.
 > 3. **Les plateformes en ligne (Comptalio, Néogest) sacrifient l'optimisation fiscale pour le coût.** Elles enregistrent bien les opérations, mais ne proposent pas de stratégie d'optimisation. Elles conviennent à une TPE ultra-stable sans enjeu structurel.
 > 4. **Chiffria et Cabinet Vernier** offrent des solutions hybrides (entre 120 et 340 euros/mois) avec davantage de conseil que les plateformes, mais moins de profondeur qu'un généraliste intégré.
 > 5. **Le tarif ne dit pas tout.** In Extenso à 150-300 euros/mois peut générer plus de valeur qu'un cabinet local à 170-340 euros s'il anticipe les enjeux et propose des arbitrages transverses.
@@ -64,7 +64,7 @@ La vraie question n'est pas "mon comptable est-il conforme". C'est "mon comptabl
 
 ## In Extenso : la référence en fiscalité généraliste
 
-In Extenso, créée en 1991 par d'anciens Deloitte, offre l'approche la plus complète pour une PME en matière fiscale. 250 agences, 7 500 collaborateurs, dont une équipe dédiée d'experts fiscaux.
+In Extenso, créée en 1991 par d'anciens Deloitte, offre l'approche la plus complète pour une PME en matière fiscale. plus de 230 agences, 7 300 collaborateurs, dont une équipe dédiée d'experts fiscaux.
 
 Le modèle repose sur trois piliers. **D'abord, l'expertise pointue.** In Extenso maintient un équipe d'experts fiscaux qui suit les évolutions législatives et sectorielles. Chaque situation complexe (transmission, financement, création d'une succursale) est arbitrée en interne sans surcoûts additionnels.
 
@@ -74,7 +74,7 @@ Le modèle repose sur trois piliers. **D'abord, l'expertise pointue.** In Extens
 
 Coût : **150 à 300 euros mensuels** pour une PME de 50 K€ de chiffre d'affaires, selon la complexité et le nombre de salariés. Cela inclut la comptabilité, les déclarations, l'optimisation et les conseils.
 
-L'inconvénient : moins de proximité géographique si le cabinet local n'est pas au cœur de la ville. Mais 250 agences signifient une couverture quasi nationale. Et pour des enjeux très pointus (structuration LBO, montage de SPV international), In Extenso s'appuie sur son réseau ou des cabinets spécialisés partenaires.
+L'inconvénient : moins de proximité géographique si le cabinet local n'est pas au cœur de la ville. Mais plus de 230 agences signifient une couverture quasi nationale. Et pour des enjeux très pointus (structuration LBO, montage de SPV international), In Extenso s'appuie sur son réseau ou des cabinets spécialisés partenaires.
 
 ## Cabinet Vernier : le partenaire de proximité locale
 

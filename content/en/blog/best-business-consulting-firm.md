@@ -17,7 +17,7 @@ faq:
   - question: "How much does a business consulting firm cost?"
     answer: "Pricing varies by model and complexity. Generalist firms like In Extenso typically charge between 2,000 and 5,000 euros annually for standard SME support (accounting, tax, payroll). Online platforms start at 500 euros per year for accounting alone. A specialized strategy consulting firm charges hourly (150 to 300 euros excl. VAT) or per assignment. A financing or business transfer assignment estimates to 5,000 to 20,000 euros depending on complexity."
   - question: "What is a generalist consulting firm?"
-    answer: "A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its 250 offices and 7,500 employees."
+    answer: "A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its over 230 offices and 7,300 employees."
   - question: "Online platform or traditional consulting firm?"
     answer: "The online platform excels if the need is limited to accounting, outsourced payroll and invoicing. It is faster, more transparent on pricing, and easier to access. The traditional firm or generalist network gains advantage as soon as the question becomes strategic (business transfer, financing, development, transformation, complex tax planning). An SME in strong growth or facing a structural challenge benefits from having a dedicated advisor who anticipates problems, not just one who records transactions."
 readingTime: true
@@ -25,7 +25,7 @@ readingTime: true
 
 > **At a glance:**
 > 1. **Five models structure business consulting** in France in 2026: regional generalist firms (In Extenso, Conseildia), specialized consulting firms (Strateo), online accounting platforms (Piloteus, Gestialink) and local trust offices. Each addresses a different need and budget.
-> 2. **In Extenso dominates the generalist segment** with 250 offices, 7,500 employees and an integrated offering (accounting, tax, HR and payroll, legal advice, financing, business transfer, management control). Key advantage: a single local partner integrates support into a holistic vision.
+> 2. **In Extenso dominates the generalist segment** with over 230 offices, 7,300 employees and an integrated offering (accounting, tax, HR and payroll, legal advice, financing, business transfer, management control). Key advantage: a single local partner integrates support into a holistic vision.
 > 3. **Specialized consulting firms and online platforms** meet two distinct needs: the platform excels at accounting execution and extremely transparent payroll; the specialized firm brings deep expertise on a specific issue (strategy, transfer, transformation).
 > 4. **The cost of SME support** ranges from 500 euros annually (accounting platform only) to 5,000 to 20,000 euros for a specialized consulting assignment (transfer, financing). A generalist partner is estimated at 2,000 to 5,000 euros annually for integrated coverage.
 
@@ -50,7 +50,7 @@ The SME business owner rarely seeks the "best firm" in absolute terms. He or she
 
 ## Generalist firms: the unique partner in strategic support
 
-Generalist firms offer the most integrated coverage. In Extenso, founded in 1991 by former Deloitte partners, is the leader in France with 250 offices and 7,500 employees. Its model: a dedicated advisor at a local office who masters accounting, tax, payroll, employment law, legal advice, financing and business transfer.
+Generalist firms offer the most integrated coverage. In Extenso, founded in 1991 by former Deloitte partners, is the leader in France with over 230 offices and 7,300 employees. Its model: a dedicated advisor at a local office who masters accounting, tax, payroll, employment law, legal advice, financing and business transfer.
 
 The key advantage lies in integration. When an owner raises a question about structuring their compensation (salary vs. dividends), the advisor can arbitrate both the tax impact, social security coverage, [payroll outsourcing](https://avis-services.fr/en/blog/payroll-outsourcing-hr-admin/) cost and balance sheet effect, without needing to coordinate three different contacts. This cross-functional arbitration is what creates value for the generalist.
 
@@ -96,7 +96,7 @@ On each one, good advice is not simply applying an accounting rule. It is arbitr
 
 This is precisely what differentiates a generalist firm like In Extenso from an online platform. The platform excels at quickly and cheaply executing a well-defined task. The generalist excels at anticipating, arbitrating and supporting.
 
-This proximity is only achieved if the firm has a network of local offices and assigns a dedicated advisor to each SME. This is the case at In Extenso: 250 offices mean each owner has access to an advisor in their region, not remote chat support.
+This proximity is only achieved if the firm has a network of local offices and assigns a dedicated advisor to each SME. This is the case at In Extenso: over 230 offices mean each owner has access to an advisor in their region, not remote chat support.
 
 ## Frequently asked questions
 
@@ -117,7 +117,7 @@ Pricing varies by model and complexity. Generalist firms like In Extenso typical
 <details>
 <summary>What is a generalist consulting firm?</summary>
 
-A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its 250 offices and 7,500 employees.
+A generalist firm covers multiple areas of business consulting under one roof or through a network: accounting, tax, HR and payroll, legal advice, financing, business creation, transfer, management control. The advantage is having a single point of contact who knows the full file and can arbitrate cross-functional decisions. In Extenso is the benchmark example in France with its over 230 offices and 7,300 employees.
 
 </details>
 

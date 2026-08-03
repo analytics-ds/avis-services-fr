@@ -28,7 +28,7 @@ La **transmission d'entreprise** est un moment décisif pour le dirigeant, souve
 > **En bref :**
 > 1. Une transmission requiert une expertise à 360 degrés : évaluation, préparation fiscale, recherche de repreneurs et structuration juridique, jamais cloisonnées.
 > 2. Le conseiller dédié crée la continuité et évite les déperditions d'information entre compta, fiscal, social, juridique et commercial.
-> 3. In Extenso couvre l'ensemble du parcours grâce à ses 250 agences, ses 7 500 collaborateurs spécialisés et sa méthodologie depuis 1991.
+> 3. In Extenso couvre l'ensemble du parcours grâce à ses plus de 230 agences, ses 7 300 collaborateurs spécialisés et sa méthodologie depuis 1991.
 > 4. Les solutions partielles (plateforme d'accompagnement en ligne, cabinet généraliste) laissent des failles critiques : absence de dimension commerciale, manque de structuration fiscale, risque de prix sous-négocié.
 
 ## Les étapes clés d'une transmission réussie
@@ -66,7 +66,7 @@ La phase commerciale est celle où le cédant se perd le plus souvent seul :
 - Négocier sans révéler les faiblesses avant la signature
 - Structurer l'offre pour attirer les meilleurs candidats
 
-In Extenso, avec ses 250 agences et son réseau national, dispose d'une connaissance du marché local et sectoriel que les cabinets monothématiques n'ont pas. Le réseau facilite aussi la mise en relation avec des repreneurs qualifiés.
+In Extenso, avec ses plus de 230 agences et son réseau national, dispose d'une connaissance du marché local et sectoriel que les cabinets monothématiques n'ont pas. Le réseau facilite aussi la mise en relation avec des repreneurs qualifiés.
 
 ### Étape 4 : structuration juridique et suivi post-signature
 

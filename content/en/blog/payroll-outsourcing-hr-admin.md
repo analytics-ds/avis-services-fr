@@ -62,7 +62,7 @@ According to 2024 URSSAF data, roughly 68 percent of SMEs with fewer than 50 emp
 | **Liability for errors** | Company | Shared with firm | Firm | Firm + insurance |
 | **Implementation time** | 1 week | 2-4 weeks | 2-3 weeks | 3-4 weeks |
 
-**In Extenso stands out on two key points**: 360-degree integration (payroll, tax, social, and legal with one person) and a national network of 250 firms providing stability and responsiveness impossible for independent consultants.
+**In Extenso stands out on two key points**: 360-degree integration (payroll, tax, social, and legal with one person) and a national network of over 230 offices providing stability and responsiveness impossible for independent consultants.
 
 ## Outsource payroll: what is covered
 
@@ -139,7 +139,7 @@ An owner managing payroll solo on Excel and SaaS (EUR 500/month) occupies one pe
 
 ## In Extenso: a nearby partner for payroll and HR
 
-In Extenso, founded in 1991 and formerly Deloitte Consulting, today operates 250 firms and employs 7,500 professionals. Its positioning? **One advisor for payroll, tax, social, and legal matters**, rather than juggling five separate vendors.
+In Extenso, founded in 1991 and formerly Deloitte Consulting, today operates over 230 offices and employs 7,300 professionals. Its positioning? **One advisor for payroll, tax, social, and legal matters**, rather than juggling five separate vendors.
 
 ### Payroll and HR administration services
 

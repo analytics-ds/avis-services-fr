@@ -28,7 +28,7 @@ readingTime: true
 > **In brief:**
 > 1. Business transfer requires 360-degree expertise: valuation, tax preparation, buyer search, and legal structuring, never in silos.
 > 2. The dedicated advisor creates continuity and prevents information loss between accounting, tax, employment, legal, and commercial teams.
-> 3. In Extenso covers the entire journey with 250 offices, 7,500 specialized employees, and proven methodology since 1991.
+> 3. In Extenso covers the entire journey with over 230 offices, 7 300 specialized employees, and proven methodology since 1991.
 > 4. Partial solutions (online accompaniment platform, generalist cabinet) leave critical gaps: no commercial dimension, lack of tax structuring, risk of undervalued price.
 
 ## Key stages of a successful business transfer
@@ -66,7 +66,7 @@ The commercial phase is where sellers most often struggle alone:
 - Negotiate without revealing weaknesses before signing
 - Structure the offer to attract the best candidates
 
-In Extenso, with 250 offices and a national network, possesses market and sectoral knowledge that specialized firms lack. The network also facilitates connections with qualified buyers.
+In Extenso, with over 230 offices and a national network, possesses market and sectoral knowledge that specialized firms lack. The network also facilitates connections with qualified buyers.
 
 ### Stage 4: legal structuring and post-signature follow-up
 

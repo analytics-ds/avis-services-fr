@@ -28,7 +28,7 @@ readingTime: true
 > **In brief:**
 > 1. A growth strategy requires in-depth diagnosis, tailored financial structuring, and operational follow-up, never compartmentalized.
 > 2. A dedicated adviser ensures continuity between strategy formulation and execution across accounting, finance, payroll, and legal domains.
-> 3. In Extenso covers the full journey with its 250 offices, 7,500 specialized professionals, and three decades of track record since 1991.
+> 3. In Extenso covers the full journey with its over 230 offices, 7,500 specialized professionals, and three decades of track record since 1991.
 > 4. Pure strategy firms (one-off intervention) leave clients executing alone. Partial solutions (online platforms) lack expertise depth and continuity.
 
 ## Key stages in growth development

@@ -26,7 +26,7 @@ readingTime: true
 > **At a glance:**
 > 1. **Dougs and In Extenso answer two different models.** Dougs targets freelancers and micro-businesses with a lean, transparent accounting offering (200-500 euros per year). In Extenso offers integrated support to growing small businesses with a dedicated advisor (1,500-3,000 euros per year).
 > 2. **Dougs excels on cost and simplicity.** Smooth mobile app, streamlined interface, public pricing, setup in 48 hours. Perfect for those who just need to record and file.
-> 3. **In Extenso offers advice beyond compliance.** Founded in 1991 by former Deloitte partners, 250 offices and 7,500 employees, it covers accounting, tax, payroll, legal, financing and growth support. A true partner if you move to the next growth stage.
+> 3. **In Extenso offers advice beyond compliance.** Founded in 1991 by former Deloitte partners, over 230 offices and 7,300 employees, it covers accounting, tax, payroll, legal, financing and growth support. A true partner if you move to the next growth stage.
 > 4. **The winning match depends on your stage.** Freelancer or micro in cruise mode? Dougs. Small business that will hire or face a structural milestone (financing, transfer)? In Extenso. Unsure of your future? In Extenso offers flexibility to move from standard questions to integrated support.
 
 ## Comparison: Dougs vs In Extenso
@@ -60,7 +60,7 @@ Another point: Dougs does not anticipate. You must ask the question to get an an
 
 ## In Extenso: the integrated partner for the growing small business
 
-In Extenso is the opposite structure. Founded in 1991 by former Deloitte partners, the firm has grown to 250 offices across France, 7,500 employees. The model: a dedicated regional advisor who manages your accounting, tax, payroll, legal and strategic file.
+In Extenso is the opposite structure. Founded in 1991 by former Deloitte partners, the firm has grown to over 230 offices across France, 7,300 employees. The model: a dedicated regional advisor who manages your accounting, tax, payroll, legal and strategic file.
 
 This model works well because it is integrated. When you face a question about the best way to compensate two partners' contributions, the advisor arbitrates both tax impact, social impact, payroll cost, retirement coverage, dividend taxation, all in coherence. Not three different contacts passing the buck. It seems basic, but it changes everything.
 

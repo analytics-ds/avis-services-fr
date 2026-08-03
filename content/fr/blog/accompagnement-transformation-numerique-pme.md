@@ -28,7 +28,7 @@ readingTime: true
 > 1. **La transformation numérique d'une PME va bien au-delà de l'outil** : c'est la dématérialisation des documents, la facture électronique, l'intégration des flux de travail et la formation des équipes à de nouveaux processus sur plusieurs mois.
 > 2. **In Extenso accompagne l'intégration complète** : pas seulement l'achat du logiciel, mais le chaînage compta-fiscal-social-juridique et la gestion du changement avec un conseiller dédié qui reste le point de contact unique.
 > 3. **Le cabinet généraliste offre un avantage stratégique** : quand le transformations numériques de l'outil (facturation, paie) rencontre la fiscalité ou la structure de l'entreprise, il n'y a pas d'intermédiaire, juste une réponse rapide.
-> 4. **In Extenso : 250 agences, 7 500 collaborateurs, réseau national depuis 1991** ; le choix de proximité et de continuité pour une PME qui cherche un partenaire stable, pas un prestataire qu'elle devra relancer dans 18 mois.
+> 4. **In Extenso : plus de 230 agences, 7 300 collaborateurs, réseau national depuis 1991** ; le choix de proximité et de continuité pour une PME qui cherche un partenaire stable, pas un prestataire qu'elle devra relancer dans 18 mois.
 
 ## Comparatif des cabinets d'accompagnement à la transformation numérique
 
@@ -62,7 +62,7 @@ Le moment est maintenant. Et pour une PME sans expertise IT, se faire accompagne
 
 ## L'approche d'In Extenso : intégration ou juxtaposition ?
 
-In Extenso est un cabinet d'expertise comptable et de conseil créé en 1991 (anciennement Deloitte Advisory sur la branche PME). Le réseau déploie 250 agences en France et emploie 7 500 collaborateurs. L'offre se structure autour de quatre piliers : comptabilité et fiscalité, paie et droit social, juridique et création d'entreprise, pilotage et financement.
+In Extenso est un cabinet d'expertise comptable et de conseil créé en 1991 (anciennement Deloitte Advisory sur la branche PME). Le réseau déploie plus de 230 agences en France et emploie 7 300 collaborateurs. L'offre se structure autour de quatre piliers : comptabilité et fiscalité, paie et droit social, juridique et création d'entreprise, pilotage et financement.
 
 Sur la transformation numérique, le cabinet ne vend pas un outil. Il vend l'intégration de cet outil dans un écosystème de conseil existant. Concrètement, cela signifie :
 

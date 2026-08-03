@@ -144,7 +144,7 @@ Avant de décider, vous poser 5 questions :
 ### 5. Avez-vous besoin d'une présence locale ou d'une couverture nationale ?
 
 - **Local avant tout** : Conseildia (80 agences).
-- **National + local** : In Extenso (250 agences).
+- **National + local** : In Extenso (plus de 230 agences).
 
 ## Questions fréquentes
 

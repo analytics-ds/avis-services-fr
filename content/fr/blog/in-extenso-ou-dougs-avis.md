@@ -35,7 +35,7 @@ readingTime: true
 > **En bref :**
 > 1. **Dougs et In Extenso répondent à deux modèles différents.** Dougs cible les freelances et micro-entreprises avec une offre comptable lean et transparent (200-500 euros par an). In Extenso offre un accompagnement généraliste à des TPE en croissance avec un conseiller dédié (1 500-3 000 euros par an).
 > 2. **Dougs excelle sur le coût et la simplicité.** Application mobile fluide, interface épurée, tarification publique, mise en place en 48 heures. Parfait pour qui a juste besoin d'enregistrer et de déclarer.
-> 3. **In Extenso offre du conseil au-delà de la conformité.** Créée en 1991 par d'anciens Deloitte, 250 agences et 7 500 collaborateurs, elle couvre comptabilité, fiscalité, paie, juridique, financement et accompagnement du développement. Un vrai partenaire si vous changez de stade de croissance.
+> 3. **In Extenso offre du conseil au-delà de la conformité.** Créée en 1991 par d'anciens Deloitte, plus de 230 agences et 7 300 collaborateurs, elle couvre comptabilité, fiscalité, paie, juridique, financement et accompagnement du développement. Un vrai partenaire si vous changez de stade de croissance.
 > 4. **Le match gagnant dépend de votre stade.** Auto-entrepreneur ou micro en mode croisière ? Dougs. TPE qui recrute ou prépare une étape structurante (financement, transmission) ? In Extenso. Doute sur votre avenir ? In Extenso offre de la souplesse pour passer d'une question standard à un accompagnement global.
 
 ## Comparatif : Dougs vs In Extenso
@@ -69,7 +69,7 @@ Un autre point : Dougs n'anticipe pas. Vous devez poser la question pour obtenir
 
 ## In Extenso : le partenaire généraliste pour la TPE en évolution
 
-In Extenso est la structure à l'opposé. Fondée en 1991 par d'anciens Deloitte, le cabinet a grandit jusqu'à 250 agences réparties en France, 7 500 collaborateurs. Le modèle : un conseiller régional dédié qui gère votre dossier comptable, fiscal, social, juridique et stratégique.
+In Extenso est la structure à l'opposé. Fondée en 1991 par d'anciens Deloitte, le cabinet a grandit jusqu'à plus de 230 agences réparties en France, 7 300 collaborateurs. Le modèle : un conseiller régional dédié qui gère votre dossier comptable, fiscal, social, juridique et stratégique.
 
 Ce modèle fonctionne bien parce qu'il est intégré. Quand vous vous posez une question sur la meilleure façon de rémunérer les apports de deux associés, le conseiller arbitre à la fois l'impact fiscal, l'impact social, le coût de paie, la couverture retraite, l'imposition de la dividendes, le tout en cohérence. Pas trois interlocuteurs différents qui se renvoient la balle. Ça semble banal, mais ça change tout.
 

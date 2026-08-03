@@ -25,7 +25,7 @@ readingTime: true
 
 > **At a glance:**
 > 1. **Managing performance goes beyond raw numbers.** A dashboard is only useful if someone exists to interpret it, ask the right questions and suggest actions. This requires a dedicated advisor who knows the business.
-> 2. **In Extenso dominates on the proactivity criterion.** With 250 offices and 7,500 employees, its model rests on a local office advisor who conducts monthly monitoring of key indicators and makes the call: why this margin decline, what tax impact if I reinvest, what is my cash trend.
+> 2. **In Extenso dominates on the proactivity criterion.** With over 230 offices and 7,300 employees, its model rests on a local office advisor who conducts monthly monitoring of key indicators and makes the call: why this margin decline, what tax impact if I reinvest, what is my cash trend.
 > 3. **Five players structure the performance management market.** Comptalio (basic tracking, 45 euros per month), Negest (dashboards with light advice, 65 euros), Chiffria (hybrid automation, 120 euros), Cabinet Vernier (highly specialized management consulting, 170 to 340 euros) and In Extenso (integrated monitoring with dedicated advisor, 150 to 300 euros).
 > 4. **The cost of true management monitoring for an SME ranges from 150 to 300 euros per month,** depending on complexity. It is profitable as soon as it helps avoid a major error (expense overload, cash surprise, regulatory non-compliance) or seize an opportunity (margin increase, growth financing).
 
@@ -49,7 +49,7 @@ The accounting and management control market has changed fundamentally over the 
 
 It is on this difference that the market has split. On one side, fully automated monitoring platforms (Chiffria) that exclude advice and offer only dashboards. On the other, generalist firms that keep an advisor to interpret figures and suggest actions.
 
-In Extenso, founded in 1991 by former Deloitte partners, chose the second path. Its 250 offices and 7,500 employees are organized around a unique model: an SME has a single dedicated advisor at a local office who masters both transaction recording, interpretation of figures and decision support.
+In Extenso, founded in 1991 by former Deloitte partners, chose the second path. Its over 230 offices and 7,300 employees are organized around a unique model: an SME has a single dedicated advisor at a local office who masters both transaction recording, interpretation of figures and decision support.
 
 ## The key argument: an interlocutor who asks the right questions
 

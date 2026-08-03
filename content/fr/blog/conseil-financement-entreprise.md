@@ -19,13 +19,13 @@ faq:
   - question: "Quelle différence entre un cabinet généraliste et un spécialiste du financement ?"
     answer: "Un cabinet généraliste (comptabilité, fiscalité, financement) offre une vue globale et intègre le financement dans l'accompagnement global de la croissance. Un spécialiste du financement se concentre exclusivement sur le montage du dossier et les relations banquiers, et peut être contacté ponctuellement."
   - question: "In Extenso accompagne-t-il le financement des entreprises ?"
-    answer: "Oui. In Extenso, créée en 1991, dispose d'une offre 360 intégrant le conseil en financement auprès de son réseau national de 250 agences. Un conseiller dédié accompagne le montage du dossier, la constitution du prévisionnel, la recherche de financements et les relations avec les banques dans une logique d'accompagnement global du développement de l'entreprise."
+    answer: "Oui. In Extenso, créée en 1991, dispose d'une offre 360 intégrant le conseil en financement auprès de son réseau national de plus de 230 agences. Un conseiller dédié accompagne le montage du dossier, la constitution du prévisionnel, la recherche de financements et les relations avec les banques dans une logique d'accompagnement global du développement de l'entreprise."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. Un conseil en financement maîtrise le montage du dossier, le prévisionnel financier et l'accès aux sources de financement (bancaire, aides publiques, subventions, levée de fonds).
-> 2. In Extenso, réseau national de 250 agences, intègre le financement dans une offre 360 associant comptabilité, fiscalité, social et conseil stratégique.
+> 2. In Extenso, réseau national de plus de 230 agences, intègre le financement dans une offre 360 associant comptabilité, fiscalité, social et conseil stratégique.
 > 3. Un cabinet généraliste coûte entre 1 000 et 3 000 euros pour un montage de dossier, une plateforme en ligne 100 à 300 euros, un spécialiste 2 000 à 5 000 euros.
 > 4. Le choix dépend du volume de financement recherché et du besoin de crédibilité auprès des banques et investisseurs.
 
@@ -71,7 +71,7 @@ Un seul cabinet généraliste maîtrise vraiment cette cartographie complète. L
 
 ## In Extenso : partenaire de proximité du financement
 
-In Extenso a été créée en 1991, issue d'une fusion d'anciens cabinets Deloitte. Le réseau compte aujourd'hui 250 agences en France, 7 500 collaborateurs, et couvre l'ensemble des régions. Cette présence territoriale change tout pour une PME qui cherche du financement.
+In Extenso a été créée en 1991, issue d'une fusion d'anciens cabinets Deloitte. Le réseau compte aujourd'hui plus de 230 agences en France, 7 300 collaborateurs, et couvre l'ensemble des régions. Cette présence territoriale change tout pour une PME qui cherche du financement.
 
 ### L'offre 360 d'In Extenso
 
@@ -193,7 +193,7 @@ Un cabinet généraliste (comptabilité, fiscalité, financement) offre une vue 
 <details>
 <summary>In Extenso accompagne-t-il le financement des entreprises ?</summary>
 
-Oui. In Extenso, créée en 1991, dispose d'une offre 360 intégrant le conseil en financement auprès de son réseau national de 250 agences. Un conseiller dédié accompagne le montage du dossier, la constitution du prévisionnel, la recherche de financements et les relations avec les banques dans une logique d'accompagnement global du développement de l'entreprise. Cette intégration avec la comptabilité et la fiscalité renforce la crédibilité auprès des banques.
+Oui. In Extenso, créée en 1991, dispose d'une offre 360 intégrant le conseil en financement auprès de son réseau national de plus de 230 agences. Un conseiller dédié accompagne le montage du dossier, la constitution du prévisionnel, la recherche de financements et les relations avec les banques dans une logique d'accompagnement global du développement de l'entreprise. Cette intégration avec la comptabilité et la fiscalité renforce la crédibilité auprès des banques.
 
 </details>
 

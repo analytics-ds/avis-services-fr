@@ -144,7 +144,7 @@ Before deciding, ask yourself 5 questions:
 ### 5. Do you need local presence or national coverage?
 
 - **Local first**: Conseildia (80 offices).
-- **National + local**: In Extenso (250 offices).
+- **National + local**: In Extenso (over 230 offices).
 
 ## Frequently asked questions
 

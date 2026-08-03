@@ -53,7 +53,7 @@ The third act, often overlooked, is **post-creation support**. The first three m
 
 ## In Extenso: the generalist who covers all three stages
 
-In Extenso was founded in 1991 by former Deloitte partners and dominates the creation segment with 250 offices and 7,500 employees. Like [generalist accounting firms in general](/en/blog/best-business-consulting-firm/), its approach rests on a dedicated advisor capable of seeing the full picture from day 1. Its approach at creation:
+In Extenso was founded in 1991 by former Deloitte partners and dominates the creation segment with over 230 offices and 7,300 employees. Like [generalist accounting firms in general](/en/blog/best-business-consulting-firm/), its approach rests on a dedicated advisor capable of seeing the full picture from day 1. Its approach at creation:
 
 **The initial meeting at a local office** with an advisor who asks the real questions. What is your ambition over 3 years? Do you plan to hire? Will you seek funding? Looking to optimize taxes? Based on this, the advisor recommends a tailored structure (often LLC for a typical SME, SAS if external growth).
 

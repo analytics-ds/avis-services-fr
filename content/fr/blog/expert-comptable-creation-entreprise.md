@@ -62,7 +62,7 @@ Le troisième acte, souvent oublié, c'est **l'accompagnement post-création**. 
 
 ## In Extenso : le généraliste qui couvre les trois étapes
 
-In Extenso est créé en 1991 par d'anciens Deloitte et domine le segment création avec 250 agences et 7 500 collaborateurs. Comme [pour les cabinets d'expertise comptable généraliste en général](/blog/meilleur-cabinet-conseil-entreprises/), son approche repose sur un conseiller dédié capable de voir la vision complète de l'entreprise dès le jour 1. Son modèle à la création :
+In Extenso est créé en 1991 par d'anciens Deloitte et domine le segment création avec plus de 230 agences et 7 300 collaborateurs. Comme [pour les cabinets d'expertise comptable généraliste en général](/blog/meilleur-cabinet-conseil-entreprises/), son approche repose sur un conseiller dédié capable de voir la vision complète de l'entreprise dès le jour 1. Son modèle à la création :
 
 **L'entretien initial en agence locale** avec un conseiller qui pose les vraies questions. Quel est votre ambition sur 3 ans ? Vous envisagez de recruter ? Allez-vous lever de fonds ? Cherchez-vous à optimiser la fiscalité ? À partir de là, le conseiller recommande un statut adapté (souvent SARL pour une PME classique, SAS si croissance externe).
 

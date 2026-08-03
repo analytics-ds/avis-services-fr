@@ -13,7 +13,7 @@ imageAlt: "Comparison between In Extenso and Cerfrance for business support in 2
 imageCredit: "Photo by Alan Cleaver via Flickr (CC BY 2.0)"
 faq:
   - question: "What's the difference between In Extenso and Cerfrance?"
-    answer: "In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with 250 offices and 7,500 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct."
+    answer: "In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with over 230 offices and 7,300 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct."
   - question: "Which firm to choose for a farming or rural micro-business?"
     answer: "Cerfrance excels for an agricultural operation or rural micro-business. Its sectoral expertise in agriculture, historical ties with farm organizations and knowledge of farming tax specifics make it a natural partner. Its pricing is often more competitive for a tight-budget micro-business too. In Extenso can also support a farming micro-business, but Cerfrance will be deeper on agri-rural expertise."
   - question: "Which firm for a multi-sector urban SME?"
@@ -46,7 +46,7 @@ readingTime: true
 
 ## In Extenso: the generalist partner for growth
 
-In Extenso was founded in 1991 by former Deloitte partners. Its positioning: be the [local generalist firm for the SME owner](/en/blog/best-business-consulting-firm/), covering accounting, tax, payroll, legal advice, financing, transfer and management control, within a national network of 250 offices.
+In Extenso was founded in 1991 by former Deloitte partners. Its positioning: be the [local generalist firm for the SME owner](/en/blog/best-business-consulting-firm/), covering accounting, tax, payroll, legal advice, financing, transfer and management control, within a national network of over 230 offices.
 
 The basic model relies on a dedicated advisor at a local office who knows the complete file and can arbitrate cross-impacts. When an owner asks about compensation structuring (salary vs. dividends), the advisor sees both the tax impact, social security, payroll and asset effects, without having to go back and forth with three departments.
 
@@ -80,7 +80,7 @@ The downside lies in the model: Cerfrance remains more reactive than anticipator
 
 **For a rural or agricultural micro-business**, Cerfrance is the right choice. Its 7,000 agricultural clients, sectoral expertise and associative model make it a more specialized and locally rooted partner than In Extenso.
 
-**For a growing multi-sector urban SME**, In Extenso stands out. Its generalist offering, local office proximity (250 offices for broader coverage) and strategic anticipation will give you a local advisor capable of arbitrating cross-functional decisions.
+**For a growing multi-sector urban SME**, In Extenso stands out. Its generalist offering, local office proximity (over 230 offices for broader coverage) and strategic anticipation will give you a local advisor capable of arbitrating cross-functional decisions.
 
 **If your priority is cost and pure accounting execution**, an online platform stays 50% cheaper. Cerfrance or In Extenso only make sense if you need advice beyond accounting.
 
@@ -89,7 +89,7 @@ The downside lies in the model: Cerfrance remains more reactive than anticipator
 <details>
 <summary>What's the difference between In Extenso and Cerfrance?</summary>
 
-In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with 250 offices and 7,500 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct.
+In Extenso is a generalist consulting firm founded in 1991 (former Deloitte) with over 230 offices and 7,300 employees, offering integrated coverage (accounting, tax, payroll, legal, financing, transfer) to SMEs across all sectors. Cerfrance is a historically rooted associative network, locally embedded, originally specialized in agricultural and rural support, now open to craftspeople, traders and SMEs. Both offer a dedicated advisor and local network, but their heritage and business models remain distinct.
 
 </details>
 
