@@ -1,6 +1,8 @@
 # Journal de publication
 
 ## Semaine 32 (03/08/2026 - 09/08/2026)
+- 2026-08-05 | Quel installateur solaire assure à la fois la pose et la maintenance des panneaux solaires ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
+- 2026-08-05 | Quel installateur solaire propose aussi une borne de recharge pour voiture électrique ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
 - 2026-08-03 | Site de reservation de massage : le comparatif 2026 (FR+EN) | Spa de luxe | client Sezame
 
 ## Semaine 31 (27/07/2026 - 02/08/2026)
