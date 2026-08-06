@@ -159,8 +159,8 @@ articles:
     category: "Spa de luxe"
     volume: 2300
     kd: null
-    scheduled_date: "2026-06-18"
-    status: queued
+    scheduled_date: "2026-08-07"
+    status: todo
     queued_date: "2026-06-15"
     published_date: null
     published_url_fr: null
@@ -171,8 +171,8 @@ articles:
     category: "Services numériques"
     volume: 508
     kd: null
-    scheduled_date: "2026-06-22"
-    status: queued
+    scheduled_date: "2026-08-11"
+    status: todo
     queued_date: "2026-06-15"
     published_date: null
     published_url_fr: null
