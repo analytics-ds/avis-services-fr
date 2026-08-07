@@ -160,21 +160,21 @@ articles:
     volume: 2300
     kd: null
     scheduled_date: "2026-08-07"
-    status: failed
+    status: done
     queued_date: "2026-06-15"
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: "etape 0 - collision : content/fr/blog/spa-privatif-couple.md et content/en/blog/private-spa-couple.md existent deja (publies le 2026-06-15, commit 7589ef6, statut queued a l'origine). Le commit 29cdd3a a reactive cette entree en todo avec une nouvelle scheduled_date sans verifier que l'article etait deja en ligne. Republier ecraserait un article deja live et indexe. Intervention humaine requise : soit repasser en done avec les URLs deja publiees, soit choisir un nouveau kw."
+    published_date: "2026-06-15"
+    published_url_fr: "https://avis-services.fr/blog/spa-privatif-couple/"
+    published_url_en: "https://avis-services.fr/en/blog/private-spa-couple/"
+    error: null
 
   - kw: "meilleur vpn"
     category: "Services numériques"
     volume: 508
     kd: null
     scheduled_date: "2026-08-11"
-    status: todo
+    status: done
     queued_date: "2026-06-15"
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    published_date: "2026-06-15"
+    published_url_fr: "https://avis-services.fr/blog/meilleur-vpn/"
+    published_url_en: "https://avis-services.fr/en/blog/best-vpn/"
     error: null
