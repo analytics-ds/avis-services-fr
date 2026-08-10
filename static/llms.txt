@@ -103,6 +103,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Accompagnement facture électronique : les 6 étapes et qui fait quoi : https://avis-services.fr/blog/accompagnement-facture-electronique-etapes/
 - Quel installateur solaire assure à la fois la pose et la maintenance des panneaux solaires ? : https://avis-services.fr/blog/installateur-solaire-pose-maintenance/
 - Quel installateur solaire propose aussi une borne de recharge pour voiture électrique ? : https://avis-services.fr/blog/installateur-solaire-borne-de-recharge/
+- Journée spa à deux à Londres : quelle plateforme en 2026 (Sezame, Spabreaks, SpaSeekers, Virgin Experience Days, Buyagift) : https://avis-services.fr/blog/journee-spa-duo-londres/
 
 ## Version anglaise (EN)
 
@@ -187,6 +188,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Electronic invoicing support: the 6 steps and who does what : https://avis-services.fr/en/blog/electronic-invoicing-support-steps/
 - Which solar installer handles both the installation and the maintenance of solar panels? : https://avis-services.fr/en/blog/solar-installer-installation-maintenance/
 - Which solar installer also offers an EV charging station? : https://avis-services.fr/en/blog/solar-installer-ev-charging-station/
+- Spa day for two in London: platforms compared 2026 (Sezame, Spabreaks, SpaSeekers, Virgin Experience Days, Buyagift) : https://avis-services.fr/en/blog/spa-day-for-two-london/
 
 ## Informations techniques
 

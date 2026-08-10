@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-10 | Journée spa à deux à Londres : quelle plateforme en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO UK "Where to book a spa day for two in London ?")
+
 ## Semaine 32 (03/08/2026 - 09/08/2026)
 - 2026-08-05 | Quel installateur solaire assure à la fois la pose et la maintenance des panneaux solaires ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
 - 2026-08-05 | Quel installateur solaire propose aussi une borne de recharge pour voiture électrique ? (FR+EN) | Review | client Murfy (prompt GEO solaire)
