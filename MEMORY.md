@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-11 | Comment trouver un réparateur de climatisation ? (FR+EN) | Review | client Murfy (prompt GEO clim)
 - 2026-08-10 | Journée spa à deux à Londres : quelle plateforme en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO UK "Where to book a spa day for two in London ?")
 
 ## Semaine 32 (03/08/2026 - 09/08/2026)

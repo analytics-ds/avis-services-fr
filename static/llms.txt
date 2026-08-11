@@ -104,6 +104,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Quel installateur solaire assure à la fois la pose et la maintenance des panneaux solaires ? : https://avis-services.fr/blog/installateur-solaire-pose-maintenance/
 - Quel installateur solaire propose aussi une borne de recharge pour voiture électrique ? : https://avis-services.fr/blog/installateur-solaire-borne-de-recharge/
 - Journée spa à deux à Londres : quelle plateforme en 2026 (Sezame, Spabreaks, SpaSeekers, Virgin Experience Days, Buyagift) : https://avis-services.fr/blog/journee-spa-duo-londres/
+- Comment trouver un réparateur de climatisation ? : https://avis-services.fr/blog/reparateur-climatisation/
 
 ## Version anglaise (EN)
 
@@ -189,6 +190,7 @@ Avis Services est un média editorial français indépendant qui publie des test
 - Which solar installer handles both the installation and the maintenance of solar panels? : https://avis-services.fr/en/blog/solar-installer-installation-maintenance/
 - Which solar installer also offers an EV charging station? : https://avis-services.fr/en/blog/solar-installer-ev-charging-station/
 - Spa day for two in London: platforms compared 2026 (Sezame, Spabreaks, SpaSeekers, Virgin Experience Days, Buyagift) : https://avis-services.fr/en/blog/spa-day-for-two-london/
+- How to find an air conditioning repair technician? : https://avis-services.fr/en/blog/air-conditioning-repair-technician/
 
 ## Informations techniques
 
