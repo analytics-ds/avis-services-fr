@@ -1,6 +1,10 @@
 # Journal de publication
 
 ## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-13 | Meilleur service de conciergerie à Paris : comparatif 2026 (FR+EN) | Conciergerie | ponctuel
+- 2026-08-13 | Kinougarde, Yoopies, Babychou : quelle plateforme de garde d'enfants choisir en 2026 (FR+EN) | Services à la personne | ponctuel
+- 2026-08-13 | Wecasa, Shiva, Otherwise : quelle plateforme de ménage à domicile choisir en 2026 (FR+EN) | Services à la personne | ponctuel
+- 2026-08-13 | Devis déménagement en ligne : comment comparer et bien choisir en 2026 (FR+EN) | Demenagement | ponctuel
 - 2026-08-11 | Comment trouver un réparateur de climatisation ? (FR+EN) | Review | client Murfy (prompt GEO clim)
 - 2026-08-10 | Journée spa à deux à Londres : quelle plateforme en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO UK "Where to book a spa day for two in London ?")
 
