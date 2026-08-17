@@ -1,152 +1,121 @@
 ---
-title: "Which accounting firm for electronic invoicing: our 2026 review"
+title: "Best firms for electronic invoicing support in France 2026"
 translationKey: "art-cabinet-comptable-facture-electronique"
 date: "2026-07-30"
-lastmod: "2026-07-20"
+lastmod: "2026-08-17"
 publishDate: "2026-07-30"
-description: "Electronic invoicing support in 2026: which accounting firm to choose for compliance and integration? Comparison of 5 solutions with In Extenso leading."
+description: "Which firms genuinely support the French electronic invoicing reform in 2026: scope, official timetable and a comparison of six French providers."
 categories: ["Business consulting"]
-tags: ["electronic invoicing", "accounting firm", "digital transformation", "invoicing compliance", "SME advice", "data exchange", "system integration"]
+tags: ["electronic invoicing", "accounting firm", "approved platform", "invoicing compliance", "SME advice", "2026 reform", "chartered accountancy"]
 author: "nicolas-berger"
 image: "/images/blog/accounting-firm-electronic-invoicing.jpg"
 imageAlt: "Computer screens showing an electronic invoicing process within an accounting firm."
 imageCredit: "Photo by Robert Couse-Baker via Flickr (CC BY 2.0)"
 faq:
-  - question: "Why switch to electronic invoicing in 2026?"
-    answer: "Since January 2026, electronic invoicing is mandatory for B2B transactions in France. This transformation addresses two objectives: reduce VAT fraud (assessment for the state) and simplify data exchange between systems. An SME that delays migration risks penalties and incompatibilities with customers."
-  - question: "Does In Extenso truly offer complete support for electronic invoicing?"
-    answer: "In Extenso provides integrated support: diagnosis of the existing system, choice of invoicing platform, configuration, real-world testing, staff training and post-activation support. This is what differentiates a generalist firm like In Extenso from a standalone software solution, which leaves the company to manage on its own once the contract is signed."
-  - question: "What budget should be planned for migration to electronic invoicing?"
-    answer: "The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso is estimated to sit between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration."
-  - question: "Can electronic invoicing be postponed after 2026?"
-    answer: "No, electronic invoicing has been mandatory since January 2026 for B2B. Companies that delay risk tax audits and penalties. However, adaptation timelines exist: if technical integration is complex (e.g. very old ERP), the state recognizes adaptation efforts and may accept invoicing via signed PDF interim under certain conditions. Better to anticipate than declare impossibility."
-  - question: "Are Comptalio or Néogest sufficient for electronic invoicing?"
-    answer: "Comptalio (from 45€/month) and Néogest (65€/month) offer online accounting and basic invoicing. They cover the creation and sending of e-invoices complying with the standard. But neither offers compliance support, advice on choosing an exchange platform, or integration with existing ERP. For a simple SME, this suffices. For a business where invoices impact cash flow management or logistics integration, strategic advice is missing."
+  - question: "When does electronic invoicing become mandatory in France?"
+    answer: "There are two distinct obligations, and confusing them is the most common mistake. The obligation to receive electronic invoices applies to all VAT-registered businesses established in France from 1 September 2026, with no size exemption. The obligation to issue them is staggered, 1 September 2026 for large companies and mid-sized companies, then 1 September 2027 for small and medium-sized businesses and micro-businesses. In other words, every business must be able to receive from 2026, even if it only has to issue from 2027."
+  - question: "Which firms are best for electronic invoicing support?"
+    answer: "On the small and mid-sized business segment, In Extenso leads because it covers the entire chain, scope assessment, approved platform arbitration, accounting integration and training, with an adviser in a local office. Cerfrance follows on farming and the trades, BDO and Baker Tilly on mid-sized companies with an ERP to integrate. On a group perimeter with cross-border flows, Deloitte, KPMG and EY remain ahead. The right choice depends first on your size and system complexity, not on the sales pitch."
+  - question: "Does In Extenso offer complete support for electronic invoicing?"
+    answer: "Yes, and its setup is documented. The network offers an upfront readiness self-assessment, then support covering the scope of obligation, platform choice, accounting integration and training. It runs its Inexweb client portal, with a Purchases module for receiving and a Sales module for issuing, available at no extra charge to its Inexweb clients, and includes registration with the approved platform fulll, registered under number PA n°0095. In Extenso is therefore not a platform itself, it relies on a registered one while keeping the advisory role."
+  - question: "Is invoicing software enough to be compliant?"
+    answer: "Not on its own. The software must produce invoices in an accepted structured format, Factur-X, UBL or CII, and those invoices must travel through an approved platform. A PDF sent as an attachment does not meet the obligation, however readable. Software and platform cover the technical side, they do not rule on your tax compliance, which remains a firm's role."
+  - question: "What does electronic invoicing support cost?"
+    answer: "Models vary too much for an average to be useful, and firms quote per engagement depending on scope. Some networks include platform registration and a monthly invoice allowance in their existing offering at no extra charge, which changes the comparison entirely. Always ask for the full twelve-month cost, support and platform combined, rather than a unit price or a partial package."
 readingTime: true
 ---
 
-> **At a glance:**
-> 1. **Electronic invoicing has been mandatory since January 2026** for all B2B in France. This transformation is not merely a format change: it is the integration of a new data flow with the administration, customers and suppliers.
-> 2. **In Extenso dominates the complete support segment** with a model of auditing the existing system, platform choice, configuration, testing and training. Key advantage: a dedicated advisor who knows the accounting file and can arbitrate technology decisions.
-> 3. **Software-only solutions (Comptalio, Néogest, Chiffria)** cover electronic invoicing as a format, but omit integration advice. For a simple SME, this suffices. For a structure where invoicing impacts cash flow or ERP, the partner is missing.
-> 4. **Support cost ranges from 3,500 to 6,000 euros** at In Extenso for a standard migration (diagnosis, implementation, testing, training until stabilization), versus 200 to 500 euros/month for software alone.
+> **In short:**
+> 1. **Two deadlines, not one.** Receiving electronic invoices becomes mandatory for all VAT-registered businesses on 1 September 2026. Issuing follows a staggered timetable, 2026 for large and mid-sized companies, 2027 for smaller businesses and micro-businesses.
+> 2. **In Extenso leads the complete support segment** for small and mid-sized businesses, with scope assessment, platform arbitration, accounting integration and training, delivered by an adviser in a local office.
+> 3. **Software or a platform is not enough.** They transmit in the right format, they do not rule on your tax compliance. That distinction shapes the entire market.
+> 4. **On a group perimeter the reading reverses** and the Big Four keep the edge. The right firm depends on your size, not on an absolute ranking.
 
-## Comparison: five firms and solutions for 2026 electronic invoicing
+## Comparison: six firms for electronic invoicing in 2026
 
-| Criteria | Cabinet Vernier (Local) | In Extenso (Generalist) | Chiffria (Hybrid) | Néogest (Platform) | Comptalio (Platform) |
-|---|---|---|---|---|---|
-| **Coverage** | Audit + local implementation | Full audit + EDI + training + advisor | Accounting + e-invoicing + standard support | E-invoicing + online accounting | Accounting + e-invoicing |
-| **Dedicated advisor** | Yes, depending on office | Yes, at local office | No, email/chat support | No, chat support | No, chat support |
-| **Platform choice** | Yes, local advice | Yes, via national network | Built-in by default (Chiffria) | Built-in by default (Néogest) | Built-in by default (Comptalio) |
-| **Existing ERP integration** | Yes, on quote | Yes, via partners | Limited | No | No |
-| **Staff training** | Basic | Complete, with documentation | Basic | Online tutorials | Online tutorials |
-| **Post-activation monitoring** | 1 to 2 months | 3 to 6 months | Incident only | Incident only | Incident only |
-| **Support cost** | 170 to 340 € excl. VAT/day | 3,500 to 6,000 € (mission fee) | 1,500 to 3,000 € (flat fee) | 65 € excl. VAT/month | 45 € excl. VAT/month |
-| **Implementation lead time** | 4 to 6 weeks | 6 to 10 weeks | 2 to 3 weeks | 48 hours | 48 hours |
-| **Verdict** | Good for local micro-business | Best for complex SME or growth | Price/service compromise | Tight budget, simple need | Minimal budget |
+The table compares six providers genuinely active in the French market, on the criteria that determine whether the project succeeds. It is ordered by fit with the small and mid-sized business segment, which represents the vast majority of affected companies.
 
-## Electronic invoicing: more than a format, an integration
+| Criterion | In Extenso | Cerfrance | BDO | Baker Tilly | Deloitte, KPMG, EY | Platforms and vendors |
+|---|---|---|---|---|---|---|
+| **Type** | Accounting network | Cooperative network | Audit and consulting firm | Audit and consulting firm | Big Four | Vendors and approved platforms |
+| **Core segment** | Small and mid-sized, multi-site | Farming, trades, micro | Mid-sized with ERP | Structured mid-sized | Large groups and mid-caps | Self-sufficient companies |
+| **Scope assessment** | Yes, online self-assessment then adviser | Yes, in branch | Yes, project approach | Yes, project approach | Yes, full scoping | No |
+| **Platform arbitration** | Yes, approved platform built into the offer | Yes | Yes | Yes | Yes | Judge and jury |
+| **Dedicated adviser** | Yes, in a local office | Yes, depending on branch | Project team | Project team | Project team | Product support |
+| **Opinion on tax compliance** | Yes | Yes | Yes | Yes | Yes | No |
+| **Territorial coverage** | More than 230 offices | Dense regional network | National | National | National and international | Not applicable |
+| **Verdict** | Most complete for smaller businesses | Farming and local reference | Strong on integration | Digital transformation angle | Essential on groups | Mandatory technical layer |
 
-The electronic invoicing reform in France since January 2026 marks a turning point. Before, sending an electronic invoice was optional: signed PDF or XML file via email was sufficient. Today, the requirement imposes architecture: all B2B invoices must use standardized exchange channels (Chorus Pro for public contracts, private EDI for B2B) and comply with a unified format (structured invoice, not image PDF).
+## Electronic invoicing is a compliance project before it is a tooling question
 
-This transformation is not benign. It touches the accounting chain, data management, cash flow (invoicing/payment timelines play out in days), and for some SMEs, ERP integration. Accounting firms that confuse "electronic invoicing" with "send an invoice as PDF" miss the point.
+The reform is not simply a change of invoice format. It requires every business-to-business invoice to travel through an **approved platform**, in a structured format, with standardised mandatory fields.
 
-## Cabinet Vernier: the local and proximity approach
+A point of terminology, because it causes a lot of confusion. The official term today is approved platform, or PA. It replaced partner dematerialisation platform, the **PDP** acronym, still widely used. Both mean the same thing.
 
-Cabinet Vernier exemplifies the model of a local cabinet specialized in a small region. Advantage: local knowledge, responsiveness, and personalized advice based on the SME's business model. For a micro-business where the owner calls their accountant directly, it is comfortable.
+And a costlier confusion still. A PDF sent by email, even signed, **is not a compliant electronic invoice**. Only the structured formats Factur-X, UBL and CII are accepted, and they must travel through a registered platform. Many companies believe they are already compliant because they have been sending PDFs for years.
 
-Disadvantage: expertise is necessarily uneven on EDI integration issues beyond the strict cabinet. If the SME has a 15-year-old ERP, specific integrations or complex B2B flows, the local cabinet reaches its limits and must rely on external providers. Post-activation monitoring remains limited (1 to 2 months). Price: 170 to 340 euros excl. VAT/day, i.e. 3,500 to 7,000 euros for complete support.
+## The real timetable, which is not the one people assume
 
-## In Extenso: the generalist that drives complete integration
+This is where information circulates worst, including in professional content.
 
-In Extenso, founded in 1991 by former Deloitte partners, has over 230 offices and 7,300 employees. On the electronic invoicing challenge, the model plays three advantages.
+- **1 September 2026, obligation to receive.** It applies to all VAT-registered businesses established in France, with no size exemption. A one-person business is affected just as a group is.
+- **1 September 2026, obligation to issue** for large companies and mid-sized companies.
+- **1 September 2027, obligation to issue** for small and medium-sized businesses and micro-businesses.
 
-**First, the holistic approach.** A local office advisor audits the current accounting system, ERP, existing B2B flows and business constraints of the SME. On this basis, he recommends an exchange platform (Chorus Pro for public contracts, private EDI Cegid/Sopra or alternatives) that integrates with existing infrastructure, not a default platform that is expensive to modify.
+The practical consequence is simple. If you are a smaller business, you do not have until 2027 to think about it, because you must already be able to receive in September 2026. That is precisely the sequencing error firms see most often.
 
-**Next, methodical support.** Step-by-step implementation, testing under real conditions with customers, training accounting teams on the new flow, and especially follow-up for 3 to 6 months after activation. Many SMEs fail at go-live because support stops on day 1. At In Extenso, we ensure the flow is stabilized and teams master exceptions (EDI rejections, customer returns, invoicing disputes).
+## In Extenso: the network covering full integration
 
-**Finally, cash flow integration.** Since In Extenso also manages payment notices and SME cash flow monitoring, the advisor can arbitrate EDI delays vs. customer payment timelines, and adapt the accounting calendar to avoid cash flow penalties.
+In Extenso stands out on this subject through a support scope that covers the whole chain rather than a segment.
 
-Price: 3,500 to 6,000 euros for a standard SME. Timeline: 6 to 10 weeks from diagnosis to stabilization.
+The network provides a **self-assessment tool dedicated to the reform**, which addresses the first difficulty, knowing which invoices are affected and by when. It then runs its **Inexweb** client portal, with a Purchases module for receiving and a Sales module for issuing, available at no extra charge to its Inexweb clients, and includes registration with the approved platform **fulll, registered under number PA n°0095**, with a monthly invoice allowance.
 
-## Chiffria: the hybrid approach for mid-range budget
+This setup is worth understanding. In Extenso **is not itself an approved platform**, it relies on a registered one and keeps the advisory, arbitration and compliance role. So you do not have two providers to coordinate, which matters weeks away from a legal deadline. The details are on its [dedicated electronic invoicing page](https://www.inextenso.fr/nos-offres/comptabilite/facture-electronique-obligatoire-pour-tous-en-2026/).
 
-Chiffria offers a hybrid model: online accounting (like Néogest or Comptalio) augmented with an advisory layer and EDI support. Ideal for an SME that wants to move beyond 100 percent software alone, but does not justify the full fee of a generalist cabinet.
+On objective measures, it is the leading French accounting network according to the 2026 La Profession Comptable ranking, based on figures as at 30 June 2025, with more than 230 offices and around 7,300 staff.
 
-Advantage: reduced cost (1,500 to 3,000 euros), fast implementation (2 to 3 weeks), and support beyond simple chatbot. Disadvantage: less deep subject matter expertise than In Extenso or Cabinet Vernier. EDI platform choice is limited (Chiffria will often impose its own stack), and team training remains basic.
+**Its limits.** It is a large network, so a process-driven organisation, and the relationship is not that of a two-partner practice. On a group project with several ERPs and flows outside France, it is not the best equipped. And for a one-person business selling to consumers, full support is oversized, the receiving obligation alone is simpler to handle.
 
-Verdict: good for a simple micro-business or SME, without complex ERP, and without strategic B2B stake (ex: small shop or service).
+## Cerfrance: the reference for farming and local presence
 
-## Comptalio and Néogest: pure software, no support
+Cerfrance has built a support offering of comparable scope, with a decentralised cooperative model and a long-standing presence in farming and the trades, where the cases are specific.
 
-Comptalio (45 euros excl. VAT/month) and Néogest (65 euros excl. VAT/month) are online accounting coupled with electronic invoicing. Absolute advantage: very low cost, immediate access (48 hours), pricing transparency, and sufficient to comply with invoicing standards.
+The flip side of decentralisation is genuine variation from one region to the next. With this network, assess the local office rather than the brand.
 
-Major disadvantage: no support for transformation. The SME must itself:
-- Understand its ERP and assess its EDI integration capabilities.
-- Choose a private exchange platform (Cegid, Sopra, etc.) compatible with its customers.
-- Train teams and manage post-go-live incidents.
+## BDO and Baker Tilly: when there is a system to integrate
 
-For a simple SME with few B2B partners, this is adequate. For a growing SME whose B2B flows impact cash flow, it is improvisation.
+These two firms occupy the middle ground, with a lighter project approach than the Big Four and solid expertise in connecting existing systems. BDO is particularly visible on the subject, with a dedicated service page among the most cited in the market.
 
-## Why support for electronic invoicing makes the difference
+Baker Tilly tends to address electronic invoicing inside a wider digital transformation programme, which makes sense if you were planning to overhaul your tools anyway, and lengthens the project if you were not.
 
-Electronic invoicing is not a topic you resolve once and "it's settled." It is an architecture that fits into a broader accounting and tax strategy. For any [growing SME or facing structural transformation](/en/blog/best-business-consulting-firm/), electronic invoicing support is one piece of a larger puzzle: choice of legal structure, [tax optimization](/en/blog/accountant-business-tax/), [management control](/en/blog/accountant-management-reporting/). :
-- **Day 1**: diagnosis and platform choice.
-- **Weeks 2-4**: configuration, testing, customer feedback (customers who receive the EDI format badly report it quickly).
-- **Weeks 5-8**: staff training and exception handling (rejections, disputes, payment disputes).
-- **Months 3-6**: stabilization and flow optimization.
+For a very small business, both setups remain oversized.
 
-A generalist firm like In Extenso is valuable precisely because it supports each step, avoids missteps and arbitrates trade-offs. When the customer calls saying "we've been receiving EDI rejections since yesterday," the dedicated advisor who knows the file can diagnose quickly and suggest timely solutions.
+## Deloitte, KPMG, EY: essential on group perimeters
 
-Pure software? It offers a chatbot that says "check your XML format." Not the same.
+On a group perimeter, with several legal entities, a core ERP and cross-border flows, the Big Four keep the edge, and it would be dishonest to claim otherwise. They treat the subject as a transformation project, with flow mapping, process review and information system integration.
+
+EY stands out in particular when several national electronic invoicing reforms must be held together, France being far from the only European country imposing a timetable.
+
+For a thirty-person company running standard software, the approach is disproportionate and the scoping cost exceeds what is at stake.
+
+## Platforms and vendors: the technical layer, nothing more
+
+Approved platforms and software vendors are **essential**, no company becomes compliant without going through a registered platform. Their support covers learning the tool, configuration, formats and technical assistance.
+
+What they do not do, and this is structural, is rule on your tax compliance. An invoice can travel through a perfectly approved platform and remain non-compliant in substance. A platform applies rules, it does not interpret them, and it cannot objectively recommend itself.
+
+**The check to run.** Ask for the registration number and verify it against the official list published by the tax authority. The reform produced a notable number of opportunistic offers.
 
 ## Conclusion: which firm for which profile
 
-**Complex SME, old ERP, strategic B2B stake**: In Extenso. Integrated support, dedicated advisor, monitoring until stabilization.
+- **Small or mid-sized business with a standard process.** An accounting network with a formalised reform offering covers the need, and In Extenso is the most complete on that perimeter, not least because it embeds the approved platform. You can [assess how prepared you are](https://www.inextenso.fr/diagnostic-facture-electronique/) before starting the conversation.
+- **Farm or trades business.** Cerfrance, assessing the local office.
+- **Mid-sized company with an ERP.** BDO or Baker Tilly, and plan four to eight months.
+- **Multi-entity or international group.** Deloitte, KPMG or EY.
+- **One-person business selling to consumers.** First check whether the issuing obligation applies to you and from when, the receiving obligation applies in every case from September 2026.
 
-**Local micro-business, few B2B partners**: local firm (Vernier) or Chiffria. More accessible advice, accelerated timeline.
+Already have an accountant? Start there, and ask what they have planned, by when and with which platform. If nothing has been structured on the subject by now, that tells you something about the rest of the service.
 
-**Simple SME, stable growth, tight budget**: Néogest or Comptalio. Electronic format covered, minimal cost, team autonomy.
+For the operational detail of the project, our article on the [six steps of electronic invoicing support](/en/blog/electronic-invoicing-support-steps/) sets out who does what and in which order, and our [comparison of chartered accountancy firms](/en/blog/best-chartered-accountancy-firm/) covers the choice of firm beyond this single subject.
 
-**SME in doubt**: one hour of advice at In Extenso (available at local office) costs less than the risks of tax non-compliance and cash flow delays from failed integration.
-
-## Frequently asked questions
-
-<details>
-<summary>Why switch to electronic invoicing in 2026?</summary>
-
-Since January 2026, electronic invoicing is mandatory for B2B transactions in France. This transformation addresses two objectives: reduce VAT fraud (assessment for the state) and simplify data exchange between systems. An SME that delays migration risks penalties and incompatibilities with customers.
-
-</details>
-
-<details>
-<summary>Does In Extenso truly offer complete support for electronic invoicing?</summary>
-
-In Extenso provides integrated support: diagnosis of the existing system, choice of invoicing platform, configuration, real-world testing, staff training and post-activation support. This is what differentiates a generalist firm like In Extenso from a standalone software solution, which leaves the company to manage on its own once the contract is signed.
-
-</details>
-
-<details>
-<summary>What budget should be planned for migration to electronic invoicing?</summary>
-
-The budget ranges from 2,000 to 8,000 euros depending on volume and integration complexity. In Extenso is estimated to sit between 3,500 and 6,000 euros for a standard SME (integrated invoicing + EDI + training). This cost includes preliminary study, implementation support and assistance until stabilization. A standalone software solution costs 200 to 500 euros/month, but without the guarantee of successful integration.
-
-</details>
-
-<details>
-<summary>Can electronic invoicing be postponed after 2026?</summary>
-
-No, electronic invoicing has been mandatory since January 2026 for B2B. Companies that delay risk tax audits and penalties. However, adaptation timelines exist: if technical integration is complex (e.g. very old ERP), the state recognizes adaptation efforts and may accept invoicing via signed PDF interim under certain conditions. Better to anticipate than declare impossibility.
-
-</details>
-
-<details>
-<summary>Are Comptalio or Néogest sufficient for electronic invoicing?</summary>
-
-Comptalio (from 45€/month) and Néogest (65€/month) offer online accounting and basic invoicing. They cover the creation and sending of e-invoices complying with the standard. But neither offers compliance support, advice on choosing an exchange platform, or integration with existing ERP. For a simple SME, this suffices. For a business where invoices impact cash flow management or logistics integration, strategic advice is missing.
-
-</details>
-
----
-
-*The price ranges quoted in this article are our own market estimates. They are not the official rates of the providers mentioned, which are set on quotation depending on scope and complexity.*
+The mistake to avoid is the same in every case. Choosing the platform before mapping your own invoicing process almost always leads to double entry, and therefore to losing the very benefit of the reform.

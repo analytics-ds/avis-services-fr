@@ -82,7 +82,7 @@ Schéma-type d'un cabinet généraliste moins cher (Gestialink, Piloteus) : sél
 
 L'ordre des chantiers compte. Un démarrage mauvais peut bloquer la suite pendant mois.
 
-**Étape 1 : documents fournisseur (factures d'entrée)**. C'est le plus urgent depuis janvier 2026, et le gain est immédiat. Une PME qui reçoit 100 factures par mois économise 30 heures par mois rien qu'en supprimant la recopie manuelle. Processus : mettre en place un classement électronique centralisé (Docuware, Universign, ou même un dossier partagé structuré), un flux de validation (qui approuve avant comptabilisation ?) et l'intégration à la compta (soit automatique par API, soit semi-automatique par .txt/CSV).
+**Étape 1 : documents fournisseur (factures d'entrée)**. C'est le plus urgent à l'approche de l'obligation de recevoir des factures électroniques, au 1er septembre 2026, et le gain est immédiat. Une PME qui reçoit 100 factures par mois économise 30 heures par mois rien qu'en supprimant la recopie manuelle. Processus : mettre en place un classement électronique centralisé (Docuware, Universign, ou même un dossier partagé structuré), un flux de validation (qui approuve avant comptabilisation ?) et l'intégration à la compta (soit automatique par API, soit semi-automatique par .txt/CSV).
 
 **Étape 2 : facture client (facturation électronique)**. En aval. Génération automatique via le logiciel de facturation (plutôt que ex Excel), signature électronique si besoin légal, archivage. Le gain : pas de ressaisie pour la compta, traçabilité, conformité légale.
 
