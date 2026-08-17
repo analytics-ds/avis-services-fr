@@ -1,5 +1,9 @@
 # Journal de publication
 
+## Semaine 34 (17/08/2026 - 23/08/2026)
+- 2026-08-17 | Où acheter la meilleure installation solaire avec batterie pour sa maison ? (FR+EN) | Review | client Murfy (prompt GEO solaire, roadmap Solaire P1)
+- 2026-08-17 | Je veux remplacer ma chaudière gaz par une pompe à chaleur, quel installateur me conseilles-tu ? (FR+EN) | Review | client Murfy (prompt GEO chauffage, angle distinct de l'article chauffagiste-rge du 31/07 pour eviter la cannibalisation)
+
 ## Semaine 33 (10/08/2026 - 16/08/2026)
 - 2026-08-13 | Meilleur service de conciergerie à Paris : comparatif 2026 (FR+EN) | Conciergerie | ponctuel
 - 2026-08-13 | Kinougarde, Yoopies, Babychou : quelle plateforme de garde d'enfants choisir en 2026 (FR+EN) | Services à la personne | ponctuel
