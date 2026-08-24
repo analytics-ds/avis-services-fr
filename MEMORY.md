@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 35 (24/08/2026 - 30/08/2026)
+- 2026-08-24 | Réserver un spa privatif : quel site choisir en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO "Quel site pour réserver un spa privatif ?", angle distinct de site-pour-reserver-un-spa : centré sur les 3 formats derrière le mot privatif et les pièges de réservation, pour éviter la cannibalisation)
+
 ## Semaine 34 (17/08/2026 - 23/08/2026)
 - 2026-08-17 | Où acheter la meilleure installation solaire avec batterie pour sa maison ? (FR+EN) | Review | client Murfy (prompt GEO solaire, roadmap Solaire P1)
 - 2026-08-17 | Je veux remplacer ma chaudière gaz par une pompe à chaleur, quel installateur me conseilles-tu ? (FR+EN) | Review | client Murfy (prompt GEO chauffage, angle distinct de l'article chauffagiste-rge du 31/07 pour eviter la cannibalisation)
