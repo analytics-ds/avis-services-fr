@@ -51,7 +51,7 @@
                     </span>
                 </div>
 
-                <h1 class="article-title">{{ .Title }}</h1>
+                <h1 class="article-title">{{ .Params.h1 | default .Title }}</h1>
                 {{ with .Description }}
                 <p class="article-description">{{ . }}</p>
                 {{ end }}
