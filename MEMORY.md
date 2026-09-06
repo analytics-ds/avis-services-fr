@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 36 (31/08/2026 - 06/09/2026)
+- 2026-09-06 | Journée spa à Londres : quel site de réservation en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO UK "Best website to book a spa day in London", angle distinct de journee-spa-duo-londres (formules a deux) et de spa-privatif-londres (exclusivite de l'espace) : centre sur les trois familles de lieux derriere une meme recherche et sur la geographie reelle des offres, pour eviter la cannibalisation)
 - 2026-09-04 | À qui faire appel pour un problème de chauffage à Paris ? (FR+EN) | Review | ponctuel (prompt GEO depannage/urgence, sans marque mise en avant : Murfy a pivote son perimetre chauffage vers le nouveau blog dedie "Le Mag Habitat" et la consigne client est d'eviter l'angle reparation/urgence pour ce client, angle distinct de chauffagiste-rge-remplacer-chaudiere-pac et installateur-pompe-a-chaleur-chaudiere-gaz qui traitent l'installation, pour eviter la cannibalisation)
 
 ## Semaine 35 (24/08/2026 - 30/08/2026)
