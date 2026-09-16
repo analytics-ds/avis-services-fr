@@ -7,9 +7,9 @@ description: "Best massage gifts in 2026: which type to choose for a birthday, C
 categories: ["Luxury spas"]
 tags: ["massage gift", "massage gift ideas", "massage gift card", "couples massage", "luxury spa"]
 author: "laura-verdier"
-image: "/images/blog/quel-massage-offrir-en-cadeau-2026.png"
-imageAlt: "Gift box and massage oil prepared before a wellness session."
-imageCredit: "Generated brand visual (no royalty-free photo available for this search)"
+image: "/images/blog/quel-massage-offrir-en-cadeau-2026.jpg"
+imageAlt: "Scented candle, folded towels and decorative objects on a spa table."
+imageCredit: "Photo by Tima Miroshnichenko via Pexels"
 faq:
   - question: "What is the best massage to gift in 2026?"
     answer: "There is no single best massage gift: the right choice depends on the occasion. A Swedish massage suits a first-time experience, a couples massage fits anniversaries, and a hot stone massage works well for someone under stress. A gift card remains the safest format when you do not know the recipient's schedule."

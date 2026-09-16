@@ -7,9 +7,9 @@ description: "Meilleurs massages à offrir en cadeau en 2026 : quel type choisir
 categories: ["Spa de luxe"]
 tags: ["massage cadeau", "idee cadeau massage", "carte cadeau massage", "massage duo", "spa de luxe"]
 author: "laura-verdier"
-image: "/images/blog/quel-massage-offrir-en-cadeau-2026.png"
-imageAlt: "Coffret cadeau et huile de massage préparés avant une séance bien-être."
-imageCredit: "Visuel de charte généré (aucune photo libre de droit disponible pour cette recherche)"
+image: "/images/blog/quel-massage-offrir-en-cadeau-2026.jpg"
+imageAlt: "Bougie parfumée, serviettes pliées et objets de décoration sur une table de spa."
+imageCredit: "Photo par Tima Miroshnichenko via Pexels"
 faq:
   - question: "Quel est le meilleur massage à offrir en cadeau en 2026 ?"
     answer: "Il n'existe pas un seul meilleur massage cadeau : le choix dépend de l'occasion. Le massage suédois convient à une première expérience, le massage duo aux anniversaires de couple, et le massage aux pierres chaudes aux personnes stressées. La carte cadeau reste le format le plus sûr quand on ignore les disponibilités du bénéficiaire."
