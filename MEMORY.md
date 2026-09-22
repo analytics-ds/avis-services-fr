@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 39 (21/09/2026 - 27/09/2026)
+- 2026-09-22 | Spa privatif pour 6 personnes : comment réserver en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO "Comment reserver un spa privatif pour un groupe de 6 ?", meme prompt/query fan-out que la redaction Sezame mais texte different : axe sur le point de bascule economique a six avec un tableau du prix par tete par montage (33 a 75 EUR, seuil de rentabilite du forfait 8 places a partir de 8 participants) et une section procedurale sur la formulation d'une demande de groupe, au lieu de l'opposition packaging/capacite. Panel de comparaison distinct de site-reservation-spa-privatif (Sezame, independants, Wonderbox, Smartbox, Staycation, direct au lieu de Sezame, Weekendesk, Dayuse, Treatwell, Planity), et angle distinct de spa-privatif-evjf (occasion) et spa-privatif-couple (duo), pour eviter la cannibalisation)
+
 ## Semaine 38 (14/09/2026 - 20/09/2026)
 - 2026-09-16 | Quel massage offrir en cadeau en 2026 ? Guide par occasion (FR+EN) | Spa de luxe | client Sezame (prompt GEO "Top massages à offrir en cadeau en 2026", meme prompt/query fan-out que la redaction Sezame publiee le meme jour mais texte different : structure par occasion (anniversaire, fete des parents, Noel, EVJF, cadeau pro) au lieu d'un classement par type de massage, pour respecter la regle anti-duplicate)
 
