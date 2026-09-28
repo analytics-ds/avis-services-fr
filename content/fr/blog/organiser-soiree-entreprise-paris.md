@@ -2,7 +2,7 @@
 title: "Où organiser une soirée d'entreprise à Paris : le comparatif 2026"
 translationKey: "art-organiser-soiree-entreprise-paris"
 date: 2026-08-27
-lastmod: 2026-08-27
+lastmod: 2026-09-28
 publishDate: 2026-08-27
 description: "Lieux, formats et budgets pour organiser une soirée d'entreprise à Paris : bars de loisir, action game, péniches et espaces privatisables comparés par effectif et par budget."
 categories: ["Conseil aux entreprises"]
@@ -48,6 +48,8 @@ C'est la catégorie qui a le plus progressé ces dernières années, parce qu'el
 Le [PAN Bar](https://pan.bar/), rue de Paradis dans le 10e, en est un exemple représentatif. Le lieu fonctionne sur des box privatifs équipés pour du tir virtuel, avec une tablette qui sert à lancer les parties et à commander à boire et à manger. La formule simple démarre à 16 euros par personne pour des box de 2 à 66 personnes. La [formule dédiée aux entreprises](https://pan.bar/team-building/) monte à 36 euros et inclut une consommation par personne, un plat pour quatre et une photo de groupe. Au-delà de 30 personnes, la privatisation ouvre la totalité des 400 m², avec un animateur dédié et la possibilité de projeter une présentation, ce qui permet d'enchaîner une prise de parole et une soirée dans le même lieu.
 
 L'intérêt de ce type de format en contexte professionnel tient à un détail rarement mis en avant. Le tir se joue à tour de rôle par équipes, donc personne n'est exposé seul devant ses collègues, contrairement au karaoké qui reste le format le plus clivant en entreprise.
+
+Pour choisir un établissement en fonction du nombre d'invités, le comparatif dédié à la [privatisation d'un bar pour un événement d'entreprise à Paris](/blog/privatisation-bar-entreprise-paris/) classe les lieux par effectif, de 10 à plus de 150 personnes.
 
 ## Les formats qui absorbent les gros effectifs
 

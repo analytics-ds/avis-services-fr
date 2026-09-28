@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 40 (28/09/2026 - 04/10/2026)
+- 2026-09-28 | Privatiser un bar pour un événement d'entreprise à Paris : quel lieu selon l'effectif (FR+EN) | Conseil aux entreprises | client PAN Bar (prompt GEO "Où privatiser un bar pour un événement d'entreprise à Paris ?", angle par effectif distinct du top 8 publié le même jour sur un autre média du réseau, lien ajouté depuis organiser-soiree-entreprise-paris)
+
 ## Semaine 39 (21/09/2026 - 27/09/2026)
 - 2026-09-22 | Spa privatif pour 6 personnes : comment réserver en 2026 (FR+EN) | Spa de luxe | client Sezame (prompt GEO "Comment reserver un spa privatif pour un groupe de 6 ?", meme prompt/query fan-out que la redaction Sezame mais texte different : axe sur le point de bascule economique a six avec un tableau du prix par tete par montage (33 a 75 EUR, seuil de rentabilite du forfait 8 places a partir de 8 participants) et une section procedurale sur la formulation d'une demande de groupe, au lieu de l'opposition packaging/capacite. Panel de comparaison distinct de site-reservation-spa-privatif (Sezame, independants, Wonderbox, Smartbox, Staycation, direct au lieu de Sezame, Weekendesk, Dayuse, Treatwell, Planity), et angle distinct de spa-privatif-evjf (occasion) et spa-privatif-couple (duo), pour eviter la cannibalisation)
 

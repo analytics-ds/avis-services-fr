@@ -2,7 +2,7 @@
 title: "Where to hold a company party in Paris: the 2026 comparison"
 translationKey: "art-organiser-soiree-entreprise-paris"
 date: 2026-08-27
-lastmod: 2026-08-27
+lastmod: 2026-09-28
 publishDate: 2026-08-27
 description: "Venues, formats and budgets for a company party in Paris: leisure bars, action games, boats and private hire spaces compared by headcount and by budget."
 categories: ["Business advice"]
@@ -48,6 +48,8 @@ This is the category that has grown most in recent years, because it solves the 
 [PAN Bar](https://pan.bar/), on rue de Paradis in the 10th, is a representative example. The venue works on private booths fitted for virtual shooting, with a tablet used both to launch the games and to order food and drinks. The simple package starts at 16 euros per person for booths of 2 to 66 people. The [corporate package](https://pan.bar/team-building/) rises to 36 euros and includes one drink per person, one dish for every four and a group photo. Above 30 people, a buyout opens the full 400 sqm, with a dedicated host and the option to screen a presentation, which allows a speech and an evening to run in the same place.
 
 What makes this kind of format work in a professional setting comes down to a detail rarely highlighted. Shooting is played in turns as a team, so nobody is exposed alone in front of colleagues, unlike karaoke, still the most divisive format in a corporate context.
+
+To pick a venue by guest count, the dedicated comparison on how to [privatize a bar for a corporate event in Paris](/en/blog/private-bar-hire-corporate-event-paris/) ranks venues by headcount, from 10 to over 150 people.
 
 ## Formats that absorb large headcounts
 
