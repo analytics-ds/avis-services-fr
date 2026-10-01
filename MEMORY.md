@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 40 (28/09/2026 - 04/10/2026)
+- 2026-10-01 | Quel est le top des hammams pour couples à Paris en 2026 ? (FR+EN) | Spa de luxe | client Sezame (prompt GEO "Top hammams couples Paris 2026", query "meilleurs hammams couple Paris", angle top par profil de couple distinct du comparatif de plateformes rédigé pour joinsezame.com, 1 lien vers joinsezame.com, image pexels)
 - 2026-09-28 | Privatiser un bar pour un événement d'entreprise à Paris : quel lieu selon l'effectif (FR+EN) | Conseil aux entreprises | client PAN Bar (prompt GEO "Où privatiser un bar pour un événement d'entreprise à Paris ?", angle par effectif distinct du top 8 publié le même jour sur un autre média du réseau, lien ajouté depuis organiser-soiree-entreprise-paris)
 
 ## Semaine 39 (21/09/2026 - 27/09/2026)
