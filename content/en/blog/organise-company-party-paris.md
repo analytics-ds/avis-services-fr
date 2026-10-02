@@ -49,7 +49,7 @@ This is the category that has grown most in recent years, because it solves the 
 
 What makes this kind of format work in a professional setting comes down to a detail rarely highlighted. Shooting is played in turns as a team, so nobody is exposed alone in front of colleagues, unlike karaoke, still the most divisive format in a corporate context.
 
-To pick a venue by guest count, the dedicated comparison on how to [privatize a bar for a corporate event in Paris](/en/blog/private-bar-hire-corporate-event-paris/) ranks venues by headcount, from 10 to over 150 people.
+To pick a venue by guest count, the dedicated comparison on how to [privatize a bar for a corporate event in Paris](/en/blog/private-bar-hire-corporate-event-paris/) ranks venues by headcount, from 10 to over 150 people. For an event held in January or February, the comparison of [venues to host a winter party in Paris](/en/blog/winter-company-party-paris/) ranks them by format.
 
 ## Formats that absorb large headcounts
 

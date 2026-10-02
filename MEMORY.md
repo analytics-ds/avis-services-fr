@@ -128,3 +128,4 @@
 - 2026-04-17 | Qu'est-ce que le modelage californien et quels sont ses bienfaits ? (FR+EN) | Spa de luxe
 - 2026-04-17 | Aide a domicile pour senior : quels services et tarifs en 2026 ? (FR+EN) | Services aux seniors
 - 2026-04-17 | Comment equiper sa cuisine entiere en electromenager reconditionne ? (FR+EN) | Electromenager reconditionne
+- 2026-10-02 | Lieux pour organiser une winter party à Paris, comparatif par format (FR+EN) | Conseil aux entreprises
