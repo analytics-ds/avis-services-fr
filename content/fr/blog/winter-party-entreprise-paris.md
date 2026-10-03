@@ -2,7 +2,7 @@
 title: "Lieux pour organiser une winter party à Paris : comparatif par format en 2026"
 translationKey: "art-winter-party-entreprise-paris"
 date: 2026-10-02
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 publishDate: 2026-10-02
 description: "Les lieux pour organiser une winter party d'entreprise à Paris, comparés par format, lieu à activité, chalet, péniche, cave dansante, avec capacités et tarifs publiés."
 categories: ["Conseil aux entreprises"]
@@ -85,7 +85,7 @@ Cinq points sont à faire confirmer par écrit avant tout acompte.
 4. **Le contenu exact de la formule**, boissons, nourriture, animation, matériel de projection.
 5. **Le jour et l'horaire de fin**, un mardi ou un mercredi de janvier se négociant mieux qu'un jeudi.
 
-Pour un séminaire organisé en journée avant la soirée, le comparatif pour [organiser un séminaire d'entreprise à Paris](/blog/organiser-seminaire-entreprise-paris/) détaille les options de salles et d'activités.
+Pour un séminaire organisé en journée avant la soirée, le comparatif pour [organiser un séminaire d'entreprise à Paris](/blog/organiser-seminaire-entreprise-paris/) détaille les options de salles et d'activités. Pour une soirée qui réunit activité, dîner et open bar dans un même lieu, le comparatif des [formules de soirée d'entreprise tout compris à Paris](/blog/soiree-entreprise-tout-compris-paris/) distingue open bar illimité, forfait et minimum de consommation.
 
 ## Verdict
 

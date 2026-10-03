@@ -2,7 +2,7 @@
 title: "Privatiser un bar pour un événement d'entreprise à Paris : quel lieu selon l'effectif en 2026"
 translationKey: "art-privatisation-bar-entreprise-paris"
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-03
 publishDate: 2026-09-28
 description: "Privatiser un bar pour un événement d'entreprise à Paris, le bon lieu selon l'effectif, de 10 à plus de 150 personnes, avec capacités et tarifs publiés."
 categories: ["Conseil aux entreprises"]
@@ -93,7 +93,7 @@ Quatre points sont à faire confirmer par écrit avant tout acompte.
 3. **Le minimum de consommation** et la facturation de l'écart s'il n'est pas atteint.
 4. **Le jour et l'horaire de fin**, un mardi ou un mercredi se négociant mieux qu'un jeudi de décembre.
 
-Pour une réunion ou un atelier organisé en journée avant la soirée, le comparatif du [meilleur coworking à Paris](/blog/meilleur-coworking-paris/) recense les espaces qui louent des salles à la demi-journée.
+Pour une réunion ou un atelier organisé en journée avant la soirée, le comparatif du [meilleur coworking à Paris](/blog/meilleur-coworking-paris/) recense les espaces qui louent des salles à la demi-journée. Pour comparer les lieux qui réunissent activité, dîner et open bar, le comparatif des [formules de soirée d'entreprise tout compris à Paris](/blog/soiree-entreprise-tout-compris-paris/) les classe par formule de boissons.
 
 ## Verdict
 

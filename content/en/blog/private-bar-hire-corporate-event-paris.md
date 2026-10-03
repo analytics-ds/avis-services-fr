@@ -2,7 +2,7 @@
 title: "Privatize a bar for a corporate event in Paris: which venue by headcount in 2026"
 translationKey: "art-privatisation-bar-entreprise-paris"
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-03
 publishDate: 2026-09-28
 description: "Privatize a bar for a corporate event in Paris, the right venue by headcount, from 10 to over 150 people, with published capacities and prices."
 categories: ["Business advice"]
@@ -93,7 +93,7 @@ Four points should be confirmed in writing before any deposit.
 3. **The minimum spend** and how any shortfall is billed.
 4. **The day and the closing time**, a Tuesday or Wednesday being easier to negotiate than a Thursday in December.
 
-For a meeting or workshop held during the day before the evening, the comparison of the [best coworking in Paris](/en/blog/best-coworking-paris/) lists spaces that rent rooms by the half day.
+For a meeting or workshop held during the day before the evening, the comparison of the [best coworking in Paris](/en/blog/best-coworking-paris/) lists spaces that rent rooms by the half day. To compare venues combining activity, dinner and open bar, the comparison of [all-inclusive corporate party packages in Paris](/en/blog/all-inclusive-corporate-party-paris/) ranks them by drinks formula.
 
 ## Verdict
 

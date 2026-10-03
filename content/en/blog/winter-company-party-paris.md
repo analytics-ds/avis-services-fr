@@ -2,7 +2,7 @@
 title: "Venues to host a winter party in Paris: comparison by format in 2026"
 translationKey: "art-winter-party-entreprise-paris"
 date: 2026-10-02
-lastmod: 2026-10-02
+lastmod: 2026-10-03
 publishDate: 2026-10-02
 description: "Venues to host a corporate winter party in Paris, compared by format, activity venue, chalet, barge, dance cellar, with published capacities and prices."
 categories: ["Business advice"]
@@ -85,7 +85,7 @@ Five points should be confirmed in writing before any deposit.
 4. **The exact content of the package**, drinks, food, entertainment, projection equipment.
 5. **The day and closing time**, a Tuesday or Wednesday in January being easier to negotiate than a Thursday.
 
-For a seminar held during the day before the party, the comparison on how to [organise a company seminar in Paris](/en/blog/organise-company-seminar-paris/) details the room and activity options.
+For a seminar held during the day before the party, the comparison on how to [organise a company seminar in Paris](/en/blog/organise-company-seminar-paris/) details the room and activity options. For an evening combining activity, dinner and open bar in one venue, the comparison of [all-inclusive corporate party packages in Paris](/en/blog/all-inclusive-corporate-party-paris/) separates unlimited open bar, package and minimum spend.
 
 ## Verdict
 
