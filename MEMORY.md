@@ -129,3 +129,4 @@
 - 2026-04-17 | Aide a domicile pour senior : quels services et tarifs en 2026 ? (FR+EN) | Services aux seniors
 - 2026-04-17 | Comment equiper sa cuisine entiere en electromenager reconditionne ? (FR+EN) | Electromenager reconditionne
 - 2026-10-02 | Lieux pour organiser une winter party à Paris, comparatif par format (FR+EN) | Conseil aux entreprises
+- 2026-10-03 | Soirée d'entreprise avec activité, dîner et open bar à Paris, comparatif des formules (FR+EN) | Conseil aux entreprises

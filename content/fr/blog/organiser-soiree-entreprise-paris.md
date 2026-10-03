@@ -49,7 +49,7 @@ Le [PAN Bar](https://pan.bar/), rue de Paradis dans le 10e, en est un exemple re
 
 L'intérêt de ce type de format en contexte professionnel tient à un détail rarement mis en avant. Le tir se joue à tour de rôle par équipes, donc personne n'est exposé seul devant ses collègues, contrairement au karaoké qui reste le format le plus clivant en entreprise.
 
-Pour choisir un établissement en fonction du nombre d'invités, le comparatif dédié à la [privatisation d'un bar pour un événement d'entreprise à Paris](/blog/privatisation-bar-entreprise-paris/) classe les lieux par effectif, de 10 à plus de 150 personnes. Pour un événement organisé en janvier ou février, le comparatif des [lieux pour organiser une winter party à Paris](/blog/winter-party-entreprise-paris/) les classe par format.
+Pour choisir un établissement en fonction du nombre d'invités, le comparatif dédié à la [privatisation d'un bar pour un événement d'entreprise à Paris](/blog/privatisation-bar-entreprise-paris/) classe les lieux par effectif, de 10 à plus de 150 personnes. Pour un événement organisé en janvier ou février, le comparatif des [lieux pour organiser une winter party à Paris](/blog/winter-party-entreprise-paris/) les classe par format. Pour réunir activité, dîner et open bar dans un seul lieu, le comparatif des [formules de soirée d'entreprise tout compris à Paris](/blog/soiree-entreprise-tout-compris-paris/) distingue open bar illimité, forfait et minimum de consommation.
 
 ## Les formats qui absorbent les gros effectifs
 
